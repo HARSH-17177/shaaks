@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_1"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    tools:context=".Engineering">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        app:cardCornerRadius="10sp"
+        app:cardElevation="15sp"
+        android:layout_marginTop="40sp"
+        android:layout_marginLeft="20sp"
+        android:layout_marginRight="20sp"
+        android:layout_marginBottom="20sp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16sp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_username"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Choose the course you want to pursue "
+                android:textColor="#363A43"
+                android:layout_margin="10sp"
+                android:padding="10sp"
+                android:textSize="24sp"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                />
+
+            <TextView
+                android:id="@+id/tv_option10_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                android:text="Engineering as career"
+                android:background="@drawable/default_background_for_text"
+                android:textColor="#7A8089"
+                android:elevation="5sp"
+                android:layout_margin="10sp"
+                android:padding="12sp"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:id="@+id/tv_option10_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                android:elevation="5sp"
+                android:padding="12sp"
+
+                android:layout_margin="10sp"
+                android:background="@drawable/default_background_for_text"
+                android:text="Computer Engineer"
+                android:textColor="#7A8089"
+
+                android:textSize="20sp"
+                />
+            <TextView
+                android:id="@+id/tv_option10_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                android:elevation="5sp"
+                android:padding="12sp"
+
+                android:layout_margin="10sp"
+                android:background="@drawable/default_background_for_text"
+                android:text="Aeronautical Engineer"
+                android:textColor="#7A8089"
+                android:textSize="20sp"
+                />
+
+            <TextView
+                android:id="@+id/tv_option10_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                android:elevation="5sp"
+                android:padding="12sp"
+
+                android:layout_margin="10sp"
+                android:background="@drawable/default_background_for_text"
+                android:text="Civil Engineer"
+                android:textColor="#7A8089"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:id="@+id/tv_option10_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                android:elevation="5sp"
+                android:padding="12sp"
+
+                android:layout_margin="10sp"
+                android:background="@drawable/default_background_for_text"
+                android:text="Automobile Engineer"
+                android:textColor="#7A8089"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:id="@+id/tv_option10_6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                android:elevation="5sp"
+                android:padding="12sp"
+
+                android:layout_margin="10sp"
+                android:background="@drawable/default_background_for_text"
+                android:text="Agricultural Engineer"
+                android:textColor="#7A8089"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:id="@+id/tv_option10_7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                android:elevation="5sp"
+                android:padding="12sp"
+
+                android:layout_margin="10sp"
+                android:background="@drawable/default_background_for_text"
+                android:text="Biomedical Engineer"
+                android:textColor="#7A8089"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:id="@+id/tv_option10_8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                android:elevation="5sp"
+                android:padding="12sp"
+
+                android:layout_margin="10sp"
+                android:background="@drawable/default_background_for_text"
+                android:text="Biotechnological"
+                android:textColor="#7A8089"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:id="@+id/tv_option10_9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                android:elevation="5sp"
+                android:padding="12sp"
+
+                android:layout_margin="10sp"
+                android:background="@drawable/default_background_for_text"
+                android:text="Broadcast Engineer"
+                android:textColor="#7A8089"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:id="@+id/tv_option10_10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                android:elevation="5sp"
+                android:padding="12sp"
+
+                android:layout_margin="10sp"
+                android:background="@drawable/default_background_for_text"
+                android:text="Communication Engineer"
+                android:textColor="#7A8089"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:id="@+id/tv_option10_11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                android:elevation="5sp"
+                android:padding="12sp"
+
+                android:layout_margin="10sp"
+                android:background="@drawable/default_background_for_text"
+                android:text="Genetic Engineer"
+                android:textColor="#7A8089"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:id="@+id/tv_option10_12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                android:elevation="5sp"
+                android:padding="12sp"
+
+                android:layout_margin="10sp"
+                android:background="@drawable/default_background_for_text"
+                android:text="Mechanical Engineer"
+                android:textColor="#7A8089"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:id="@+id/tv_option10_13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                android:elevation="5sp"
+                android:padding="12sp"
+
+                android:layout_margin="10sp"
+                android:background="@drawable/default_background_for_text"
+                android:text="Petroleum Engineer"
+                android:textColor="#7A8089"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:id="@+id/tv_option10_14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                android:elevation="5sp"
+                android:padding="12sp"
+
+                android:layout_margin="10sp"
+                android:background="@drawable/default_background_for_text"
+                android:text="Space Technologist"
+                android:textColor="#7A8089"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:id="@+id/tv_option10_15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                android:elevation="5sp"
+                android:padding="12sp"
+
+                android:layout_margin="10sp"
+                android:background="@drawable/default_background_for_text"
+                android:text="Textile Engineer"
+                android:textColor="#7A8089"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:id="@+id/tv_option10_16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                android:elevation="5sp"
+                android:padding="12sp"
+
+                android:layout_margin="10sp"
+                android:background="@drawable/default_background_for_text"
+                android:text="Chemical Engineer"
+                android:textColor="#7A8089"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:id="@+id/tv_option10_17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                android:elevation="5sp"
+                android:padding="12sp"
+
+                android:layout_margin="10sp"
+                android:background="@drawable/default_background_for_text"
+                android:text="Electrical Engineer"
+                android:textColor="#7A8089"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:id="@+id/tv_option10_18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                android:elevation="5sp"
+                android:padding="12sp"
+
+                android:layout_margin="10sp"
+                android:background="@drawable/default_background_for_text"
+                android:text="Marine Engineer"
+                android:textColor="#7A8089"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:id="@+id/tv_option10_19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                android:elevation="5sp"
+                android:padding="12sp"
+
+                android:layout_margin="10sp"
+                android:background="@drawable/default_background_for_text"
+                android:text="Metallurgical Engineer"
+                android:textColor="#7A8089"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:id="@+id/tv_option10_20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                android:elevation="5sp"
+                android:padding="12sp"
+
+                android:layout_margin="10sp"
+                android:background="@drawable/default_background_for_text"
+                android:text="Environmental Engineer"
+                android:textColor="#7A8089"
+                android:textSize="20sp"
+                />    <TextView
+            android:id="@+id/tv_option10_21"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10sp"
+            android:layout_marginBottom="8sp"
+            android:fontFamily="@font/roboto"
+            android:gravity="center"
+            android:elevation="5sp"
+            android:padding="12sp"
+
+            android:layout_margin="10sp"
+            android:background="@drawable/default_background_for_text"
+            android:text="Industrial and Production"
+            android:textColor="#7A8089"
+            android:textSize="20sp"
+            />
+            <TextView
+                android:id="@+id/tv_option10_22"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                android:elevation="5sp"
+                android:padding="12sp"
+
+                android:layout_margin="10sp"
+                android:background="@drawable/default_background_for_text"
+                android:text="Plastic Engineer"
+                android:textColor="#7A8089"
+                android:textSize="20sp"
+                />
+
+            <Button
+                android:id="@+id/btn_next10_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Next"
+                android:textSize="18sp"
+                android:padding="5sp"
+                android:layout_marginTop="20sp"
+                android:layout_marginRight="10sp"
+                android:layout_marginLeft="10sp"
+                android:layout_marginBottom="40sp"
+                android:background="@drawable/mybutton"
+                />
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</ScrollView>

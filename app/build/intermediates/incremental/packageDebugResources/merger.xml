@@ -1,0 +1,1241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3" xmlns:ns1="http://schemas.android.com/tools"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res"/><source path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\build\generated\res\rs\debug"/><source path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res"><file name="slide_in_left" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\anim\slide_in_left.xml" qualifiers="" type="anim"/><file name="slide_in_right" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\anim\slide_in_right.xml" qualifiers="" type="anim"/><file name="slide_out_left" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\anim\slide_out_left.xml" qualifiers="" type="anim"/><file name="slide_out_right" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\anim\slide_out_right.xml" qualifiers="" type="anim"/><file name="aero" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\aero.png" qualifiers="" type="drawable"/><file name="agricultengg" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\agricultengg.png" qualifiers="" type="drawable"/><file name="automobile" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\automobile.png" qualifiers="" type="drawable"/><file name="back" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\back.jpg" qualifiers="" type="drawable"/><file name="background" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\background.xml" qualifiers="" type="drawable"/><file name="biomedical" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\biomedical.png" qualifiers="" type="drawable"/><file name="biotechnologist" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\biotechnologist.png" qualifiers="" type="drawable"/><file name="broadcast" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\broadcast.png" qualifiers="" type="drawable"/><file name="cag" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\cag.png" qualifiers="" type="drawable"/><file name="civil" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\civil.png" qualifiers="" type="drawable"/><file name="communicational" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\communicational.png" qualifiers="" type="drawable"/><file name="computer" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\computer.png" qualifiers="" type="drawable"/><file name="diploma" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\diploma.png" qualifiers="" type="drawable"/><file name="facebook" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\facebook.png" qualifiers="" type="drawable"/><file name="google" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\google.png" qualifiers="" type="drawable"/><file name="gradient_1" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\gradient_1.xml" qualifiers="" type="drawable"/><file name="gradient_2" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\gradient_2.xml" qualifiers="" type="drawable"/><file name="img" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\img.png" qualifiers="" type="drawable"/><file name="iti" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\iti.png" qualifiers="" type="drawable"/><file name="mybutton" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\mybutton.xml" qualifiers="" type="drawable"/><file name="othercourse" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\othercourse.png" qualifiers="" type="drawable"/><file name="round" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\round.xml" qualifiers="" type="drawable"/><file name="round2" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\round2.xml" qualifiers="" type="drawable"/><file name="round3" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\round3.xml" qualifiers="" type="drawable"/><file name="vocation" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\vocation.png" qualifiers="" type="drawable"/><file name="windows" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\windows.png" qualifiers="" type="drawable"/><file name="default_background_for_text" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable-v24\default_background_for_text.xml" qualifiers="v24" type="drawable"/><file name="gi" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable-v24\gi.gif" qualifiers="v24" type="drawable"/><file name="giff" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable-v24\giff.gif" qualifiers="v24" type="drawable"/><file name="ic_launcher_foreground" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable-v24\ic_launcher_foreground.xml" qualifiers="v24" type="drawable"/><file name="img" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable-v24\img.png" qualifiers="v24" type="drawable"/><file name="selected_background" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable-v24\selected_background.xml" qualifiers="v24" type="drawable"/><file name="roboto" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\font\roboto.ttf" qualifiers="" type="font"/><file name="activity_aeronautical" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_aeronautical.xml" qualifiers="" type="layout"/><file name="activity_agricultureengg" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_agricultureengg.xml" qualifiers="" type="layout"/><file name="activity_arts" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_arts.xml" qualifiers="" type="layout"/><file name="activity_automobile_eng" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_automobile_eng.xml" qualifiers="" type="layout"/><file name="activity_bestcoursecommerce" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_bestcoursecommerce.xml" qualifiers="" type="layout"/><file name="activity_biomedicaengineering" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_biomedicaengineering.xml" qualifiers="" type="layout"/><file name="activity_biotechnologist" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_biotechnologist.xml" qualifiers="" type="layout"/><file name="activity_broadcastengineer" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_broadcastengineer.xml" qualifiers="" type="layout"/><file name="activity_civileng" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_civileng.xml" qualifiers="" type="layout"/><file name="activity_commerce" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_commerce.xml" qualifiers="" type="layout"/><file name="activity_commercewithmath" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_commercewithmath.xml" qualifiers="" type="layout"/><file name="activity_commerce_without_maths" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_commerce_without_maths.xml" qualifiers="" type="layout"/><file name="activity_communicationalengineering" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_communicationalengineering.xml" qualifiers="" type="layout"/><file name="activity_creativecoursecommerce" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_creativecoursecommerce.xml" qualifiers="" type="layout"/><file name="activity_diplomacoursecommerce" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_diplomacoursecommerce.xml" qualifiers="" type="layout"/><file name="activity_eight" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_eight.xml" qualifiers="" type="layout"/><file name="activity_eleven" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_eleven.xml" qualifiers="" type="layout"/><file name="activity_engineering" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_engineering.xml" qualifiers="" type="layout"/><file name="activity_login" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_login.xml" qualifiers="" type="layout"/><file name="activity_main" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_managementcoursecommerce" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_managementcoursecommerce.xml" qualifiers="" type="layout"/><file name="activity_pcb" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_pcb.xml" qualifiers="" type="layout"/><file name="activity_pcm" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_pcm.xml" qualifiers="" type="layout"/><file name="activity_pcmb" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_pcmb.xml" qualifiers="" type="layout"/><file name="activity_proffesionalcoursecomerrce" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_proffesionalcoursecomerrce.xml" qualifiers="" type="layout"/><file name="activity_science" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_science.xml" qualifiers="" type="layout"/><file name="activity_selection" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_selection.xml" qualifiers="" type="layout"/><file name="activity_shorttermcourse" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_shorttermcourse.xml" qualifiers="" type="layout"/><file name="activity_vocational" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_vocational.xml" qualifiers="" type="layout"/><file name="diploma" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\diploma.xml" qualifiers="" type="layout"/><file name="iti" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\iti.xml" qualifiers="" type="layout"/><file name="shorttermcourse" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\shorttermcourse.xml" qualifiers="" type="layout"/><file name="vocational" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\vocational.xml" qualifiers="" type="layout"/><file name="ic_launcher" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-hdpi\ic_launcher_foreground.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-hdpi\ic_launcher_round.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-mdpi\ic_launcher_foreground.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-mdpi\ic_launcher_round.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-xhdpi\ic_launcher_foreground.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-xhdpi\ic_launcher_round.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-xxhdpi\ic_launcher_foreground.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-xxxhdpi\ic_launcher.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-xxxhdpi\ic_launcher_foreground.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\values\colors.xml" qualifiers=""><color name="purple_200">#FFBB86FC</color><color name="purple_500">#FF6200EE</color><color name="purple_700">#FF3700B3</color><color name="teal_200">#FF03DAC5</color><color name="teal_700">#FF018786</color><color name="black">#FF000000</color><color name="white">#FFFFFFFF</color><color name="blue">#88bef5</color></file><file path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\values\ic_launcher_background.xml" qualifiers=""><color name="ic_launcher_background">#FDFCFC</color></file><file path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">shaaks</string><string name="name">Name</string><string name="login">Login</string><string name="password">Password</string><string name="login1">login</string><string name="default_web_client_id"/><string name="guardian">Guardian</string><string name="student">Student</string><string name="iti"><b>ITI(Industrial Training Institute)</b>\n
+
+ITI courses are the best way to learn any vocational skills. It is not necessary that everyone has to be a doctor or an IIT engineer. You can also be a technician or a mechanic. If you dont have to pursue higher education then you go for a diploma in various ITI courses. Students may pursue ITI programs after completing 12th also. Duration of ITI programs could be 1-2 years.\n\n<b>ELIGIBILITY :</b>
+\n\nAnyone who has completed from 8th to 10+2 is eligible for courses under ITI.\n\n<b>AGE LIMIT :</b>\n\nCandidate should be between 14 to 40 years old.\n\n<b>Procedure to Join :</b>\n\nChoose any ITI from your area.
+
+Just go to that ITI, buy a form for about Rs. 50-100, then fill and submit it.
+
+Your admission depends on the marks you got in 10th class i.e., based on merit.
+
+You can also download form from online for admission and submit it with a demand draft.\n\n<b>Choose Your Best ITI Course from the below List</b>\n\n<b>Electrician :</b>
+There is nothing to explain when you say the word electrician. If you are low skilled and just have completed your matriculation then Electrician is really good ITI course for you.\n
+<b>Fitter :</b>
+Fitting courses are also available and it is also for low skilled candidates. Fitter’s course for ITI takes at least 2 years and you can start right after your 10th.\n
+<b>Carpenter :</b>
+Carpenter course is also for low skilled candidates and it can be taken up right after matriculation. The ITI course is minimum 2 years long and they teach you how to be a good carpenter.\n
+<b>Foundry Man :</b>
+Foundry Man is a course for just 1 year. And the minimum qualification that you need to have is just 8th. Yes not even matriculation. So you can imagine it is for less educated candidates.\n
+<b>Book Binder :</b>
+ITI courses for Book Binder are available in states like Maharashtra and Kerala. The minimum duration of the course could be just 1 year.\n
+<b>Plumber :</b>
+Plumbing jobs are very high on demand. You can easily get a diploma being a certified plumber. Courses are for 2 years as well as 3 years. You need to decide which one you are going to pick.\n
+<b>Pattern Maker :</b>
+Pattern Maker is also an Industrial foundry course. You just have to pass 8th standard and the duration of the course is 2 years. The courses are given in 5 states of India.\n
+<b>Mason Building Constructor :</b>
+Mason Building Constructor is just 1 year long course and you have to be 8th passed. Here you have to do building related work like renovation, mason work etc. Prospects are really great.\n
+<b>Advanced Welding :</b>
+Welding courses for ITI in India is for 1 year and 2 years. If you have completed your 8th then it is enough take up this ITI course and get a diploma.\n
+<b>Wireman :</b>
+Wireman jobs are readily available and the course is only for 1 year. You can take up the course right after 8th class.\n
+<b>Sheet Metal Worker :</b>
+Sheet metal worker job is all about repairing metal products. You just have to 8th passed and more than 15 states in India offer ITI courses for Sheet Metal worker.\n
+<b>Tool and Die Maker :</b>
+Tool and Die makers is all about chemical engineering however here you just have to learn how to use them. You can get diploma if you complete 1 year course.\n
+<b>Moulder :</b>
+Moulder is a craftsman moulding vocational ITI courses. Here you have to pass at least matriculation or 10th. And the course is 2 years long given in more than 6 states in India.\n
+<b>Welder Gas and Electric :</b>
+Welder Gas and Electric is also a vocational training course that requires you to complete 8th standard. If you live in Maharashtra then there are many ITI colleges for this particular course.\n
+<b>Turner :</b>
+Turner’s could easily be employed at companies like SAIL, GAIL, Goa Shipyard etc. The duration of the course is 2 years and you have to pass 10th standard.\n
+<b>Advanced Tool and Die Making :</b>
+Diploma in Tool and Die making course could be 3 years long with minimum qualification of 10th. The fees could be up to Rs 20,000/- a year. But the prospects are great.\n
+<b>Painter General :</b>
+In this ITI course you learn about applying paint, finishing surfaces inside and outside, levelling materials etc. The course is 2 years long with 4 semester and you have to be 8th passed.\n
+<b>Machinist :</b>
+ITI in Machinist is a course for 2 years and you have to complete 10th or matriculation before you take up the course. The job prospect is really great if you get a diploma.\n
+<b>Draughtsman Mechanical :</b>
+The ITI course duration for Draughtsman Mechanical is 2 years and you have to pass 10th with science and math. Apprenticeship training could be 3 years long but will be fit for being employed.\n
+<b>Mechanic Machine Tools Maintenance :</b>
+Mechanic Machine tools Maintenance is bit technical, you have to be 10th pass with science and math. It is also a diploma course with 2 years’ time period and they teach about machinery and equipment.\n
+<b>Mechanic Computer Hardware :</b>
+Now following ITI courses are bit technical and you need to have certain educational background. The ITI course for Mechanic Computer Hardware could be 2 years or 3 years long. You have to be 10th pass and courses are available in more than 15 states.\n
+<b>Mechanic Refrigeration and Air Conditioner :</b>
+The diploma course for mechanic Refrigeration and Air Conditioner could be 1 year long. And you have to be 8th pass. You can easily find a job after completion of this ITI course.\n
+<b>Mechanic Watch and Clock :</b>
+It is also a yearlong course where you will be taught about repairing watch and clock. The ITI course is available in Kerala. You just have to be 8th pass.\n
+<b>Mechanic Motor Vehicle :</b>
+As you can see the above four ITI courses in the list and coming four are about Mechanic. The jobs are in high demand for motor mechanics. If you can complete a 2 years long course from any ITI then you can find a job easily.\n
+<b>Machine Tool Maintenance :</b>
+After 10th this 2 year long ITI course could be great. If you want a diploma in Machine tool maintenance then you have to be 10th pass with science and math.\n
+<b>Mechanic Radio and Television :</b>
+You must have completed 10th class and your age must be above 16 years. You get a diploma after completing this 2 years course.\n
+<b>Mechanic Diesel :</b>
+The ITI course for mechanic diesel is 1 year long and you just have to be 8th pass.\n
+<b>Instrument Mechanic :</b>
+Instrument Mechanic is also a great ITI course. You must get a diploma in this course. The course is 2 years long and you have to be 10th pass.\n
+<b>Instrument Mechanic Chemical Plant :</b>
+Here you have to deal with chemical plant. The course duration is 2 years and you have to be 10th pass.\n
+<b>Architectural Draughtsman ship :</b>
+It is better advised that you take up this course which is 3 years long and get a diploma. You have to be 10th pass for this course. The job prospects are really great.\n
+<b>Metrology and Engineering Inspection :</b>
+Following ITI courses are technical and it requires certain educational background. The diploma course could be 3 years long and you have to be 10th pass before you apply for this course.\n
+<b>Electrical Maintenance :</b>
+The course duration for electrical maintenance is just 2 years. There are various skills that you will acquire after completing the course. You can be self employed and employed by others also.\n
+<b>Electroplater :</b>
+Electroplater ITI course is 2 years long with four semesters and you have to be 10th pass. Here you are taught about coating gold, silver, nickel and other metals.\n
+<b>Computer Operator and Programming Assistant :</b>
+Surprisingly the ITI course duration for computer operator and programming assistant is just 1 year. Here you are introduced about hardware systems, setting control and codes etc. You have to be 10th pass.\n
+<b>Advanced Electronics :</b>
+Advanced electronics course could be 2 years to 3 years long and you must have completed 10th with science and math. Here you learn about basics of electronics.\n
+<b>Electronic Mechanic :</b>
+You must have passed matriculation and the ITI course is 2 years long with 4 semesters. You learn everything about electronic equipment.\n
+<b>Network Technician :</b>
+Network Technician course could be just 6 months long. You get a diploma for learning about networks. You must be 10th pass before applying for the course.\n
+<b>Pre Preparatory School Management Assistant :</b>
+The duration of Pre Preparatory school management assistant ITI course is just one year with 2 semesters. You must be 10th pass.\n\n<b>Now following courses are really great for women. The course is one year long and you learn about teaching.\n</b>
+<b>Secretarial Practice :</b>
+The diploma in Secretarial Practice is for 10+2 passed students or graduates. Here you learn typing, basic computer, receptionist’s chore etc.\n
+<b>Baker and Confectioner :</b>
+The ITI course for Baker and confectioner is just one year long and you have to be 10th pass. After learning this course you can start your own bakery.\n
+<b>Cutting and Sewing :</b>
+This is really great for women. You just have to be 8th pass and course duration is just 1 year. This ITI course is available in almost every state of the country.\n
+<b>Hair and Skin Care :</b>
+Women can join the ITI diploma course in Hair and Skin. It is just for 1 year and you have to be 10th pass for this course.\n
+<b>Stenography English :</b>
+This course is also 1 year long and you have to be 10th pass. They teach you shorthand correspondence, reports etc.\n
+<b>Interior Decoration and Designing </b>:
+The ITI course for Desktop publishing is one year long with 2 semesters. You have to be 10th pass and you learn everything about desktop publishing. Job prospects are really great.\n
+<b>Interior Decoration and Designing :</b>
+The course could be 1 year long and you have to be 10th passed. You must expect yourself to be self employed if you are taking up this course.\n
+<b>Heat Engine Automobile :</b>
+This is a lesser known ITI course but you can try if you have interest in automobile and their engine. The course is just 1 year long.\n
+<b>Driver Cum Mechanic Light Motor Vehicle :</b>
+There is also an ITI course for Driver cum mechanic lighter motor vehicle. The course is just 6 month long and you have to be 10th pass.\n        .
+    </string><string name="diploma">To join in diploma course after completing your 10th you need to appear for the diploma entrance exam (POLYCET) and you need to qualify in the entrance exam to get admission into the college.
+
+<b>List of some various diploma courses :</b>
+
+Architectural Assistantship
+
+Automobile Engineering
+
+Chemical Engineering
+
+Civil Engineering
+
+Computer Engineering
+
+Computer Science and Engineering
+
+Electrical Engineering
+
+Electronics and Communication Engineering
+
+Electronics and Communication Engineering - Industry Integrated
+
+Electrical and Electronics Engineering
+
+Electronics (Microprocessor)
+
+Electronics and Telecommunication Engineering
+
+Fashion Design
+
+Food Technology
+
+Garment Technology
+
+Information Technology
+
+Instrumentation Technology
+
+Interior Design and Decoration
+
+Leather Technology
+
+Leather Technology (Footwear)
+
+Library and Information Sciences
+
+Mechanical Engineering
+
+Mechanical Engineering (Refrigeration and Air Conditioning)
+
+Mechanical Engineering (Tool and Die)
+
+Marine Engineering
+
+Medical Laboratory Technology
+
+Plastic Technology
+
+Production and Industrial Engineering
+
+Textile Design
+
+Textile Processing
+
+Textile Technology (Spinning)
+
+Textile Technology (Weaving)
+
+Textile Technology (Knitting)
+
+Part time Diploma courses after 10th with working Experience:
+
+Civil Engineering (PTD)
+
+Electrical Engineering (PTD)
+
+Mechanical Engineering (PTD)\n\n<b>Lateral Entry for Diploma Holders to join in Engineering</b>\n\nIn the present scenario, merely a diploma course is not sufficient to have a flourishing career.So,aspiring students can opt for lateral entry for diploma holders.
+A student who has completed his/her 10+2 education with minimum 60% aggregate marks and is from the science and maths background can take up a diploma course in engineering and then can directly take admission to the B.Tech after diploma.
+Lateral entry scheme is intended to admit meritorious diploma holders to the second year of the B.Tech courses to acquire a degree in engineering. The top notch colleges of the country have the provision to Lateral entry for diploma. They have a fixed number of seats allotted for students. Students entering directly through lateral entry, complete their engineering in 3 years /6 semesters.
+
+
+    </string><string name="othercourse"><b>These are called the job oriented courses that are useful to get a job after short span of time.\n
+
+Course duration is: 6-12 months courses.\n
+
+Diploma in 2D and 3D Animation\n
+
+Diploma in Computer Applications\n
+
+Certificate Course in Graphic Designing\n
+
+Certificate Programme in MS-Office\n
+
+Certificate Course in Web Designing\n
+
+Certificate Course in Programming Language (JAVA, C++, PHP, SQL)\n
+
+Certification Course in SEO (Search Engine Optimization)\n
+    </b>
+    </string><string name="vocation"><b>These courses provide more practical skills technically.\n
+
+Banking and Financial Service Course - 2 Years\n
+
+DTP (Desktop Publishing) and Printing Technology - 1 Year\n
+
+Diploma in Insurance and Marketing - 1
+
+Year\n
+
+Tourism and Travel Techniques Course - 2 Years\n
+
+Pre-School Teacher Training - 2 Years\n
+
+Hotel Ope ons Course - 2 Years\n
+
+        Dental Technician Course - 2 Years\n</b></string><string name="computer"><b><b>Computer Engineer</b></b>\n
+
+<b>About Computer Engineer</b>\n\n
+
+Computer engineers develop and improve hardware and software programs. They may specialise in computer software or hardware. They make use of their extensive knowledge to make computer applications more effective and efficient. Computer engineers also work on the latest innovations, developing new computer software, hardware design, implement software applications and to improve the communication systems. It is one of the dynamic professional fields as if offers career both in software development and hardware engineering.
+
+Computer engineers work both with hardware and software as its their job ensuring that the two are seamlessly integrated and functioning properly. Just like there are countless apps, software programs and computers that are required for specific tasks, there are just as many career options for those who wish to enter the computer engineering profession. From robotics to wireless networks, and operating systems to aircraft design, there is a specialization available for everyone.
+
+<b>Eligibility to become Computer Engineer</b>\n\n
+
+To become a Computer Engineer, you will need to fulfil the following eligibility criteria:\n\n
+
+.
+
+Should have studied and passed PCM in Class 12 or equivalent examination from
+
+a recognised board with a minimum aggregate of 75%. However, the minimum aggregate rules vary from category to category.
+
+Appeared and passed any of the engineering entrance exams like JEE (Mains), JEE (Advanced), BITSAT, KCET, WBJEE etc. Should have studied B. Tech in a UGC approved college (with a pass percentage)
+
+An M. Tech degree will be advantageous
+
+Some colleges also follow age criteria*\n\n
+
+<b>Types of Job Roles Computer Engineer</b>\n\n
+
+After attaining a degree in computer engineering, there are a plethora of computer engineering job profiles in various sectors. Listed below are some of the popular. computer engineering job profiles:\n\n
+
+<b>Computer Engineers:</b>\n\n They work closely with network support staff to design network expansions and to take care of network bugs.\n\n <b>Computer Programmers:</b>\n\n The computer programmer make use of different computer languages to write software programs.\n\n<b>Computer System Analyst:</b>\n\n Computer System Analyst incorporates new technology into a computer system into an organisation after doing a cost system analysis. The computer system analyst can be broadly classified into three categories- System Designers, Software Quality Assurance, and Programmer Analysts.\n\n
+
+<b>Computer Support Specialists:</b>\n\n Computer support specialists/network specialists provide support to Information Technology employees within an organisation. They help IT staff analyze, troubleshoot and evaluate the computer network problems.\n\n <b>Software Application Developers:</b>\n\nn They are the creative minds behind the computer apps/games as they design and develop different applications for computer and other electronic devices.\n\n <b>Web Developer:</b>\n\n They create a website and website design and looks after the technical
+
+aspects of it. Software Testers: Their job role is to test the codes and to take care of network bugs.\n\n
+
+<b>Employment Opportunities for Computer Engineers:</b>\n\n
+
+Computer engineers can find a variety of employment opportunities in different sectors. Check out the top sectors that hire computer engineers below:\n\n
+
+• Software Companies\n
+
+. Banks\n
+
+• Public Sectors\n
+
+. Colleges and Universities\n
+
+.Information Technology Companies and IT Firms Media and Entertainment Industry\n
+
+. Finance Companies\n
+
+. Research Labs\n
+
+. Digital Consulting Firms\n
+
+• Advertising and Mass Communication\n
+
+• Armed Forces Government Sector\n\n
+
+<b>Top Recruiting Companies for Computer Engineers</b>\n\n
+
+\nSome of the leading MNCs and companies that recruit computer engineers are as
+
+follows:\n
+
+. Amazon\n
+
+. Infosys\n
+
+. IBM\n
+
+. Cisco\n
+
+. HCL\n
+
+. Accenture\n
+
+. Microsoft\n
+
+. Dell\n
+
+. Wipro \n SAP Labs\n</string><string name="aero"><b><b>Aeronautical engineer</b></b>\n\n
+
+Aeronautical engineering is the study of design, manufacturing, production, preventive maintenance and overhaul of the aircraft (Commercial, military, private jets). It is one of the most popular and challenging fields among students who want to pursue their career in the aviation industry.\n
+
+As an aeronautical engineer, career opportunities not only exist in design and production of an aircraft but automobile industry, fan industries, turbines, high-speed trains and UAVs also offer a number of great career options. Aeronautical engineers have a huge contribution in all the fields of engineering wherever there is an interaction of air with the product like racing cars, premium fans, wind mill etc. Indian aerospace industry is at an inflexion point today and is one of the fastest growing industries in the world. Increasing popularity of air travel and space exploration require a high level of expertise and academic know-how of aeronautical engineering subjects. Looking at the exponential growth rate, the demand for qualified and capable Aerospace Engineers is only going to increase in the near future.\n\n
+
+<b>Top Recruiting Companies and Agencies</b>\n\n
+
+A good academic background and soft skills in the Aeronautical engineering lead to a challenging career and a very high salary. There are significant number of job opportunities available in Indian Air Force, Defence Ministry, Airlines, Aviation companies and research agencies like NASA, ISRO for the Aeronautical engineers. Today even the Original Equipment manufacturers (OEMs) are opening their shops in India and need a large number of aeronautical engineers. Some of the OEMs who are already in the Indian air space are Airbus, Boeing India, Lockheed Martin India, Mercedes Benz, Eaton, GE India etc.\n\n
+
+<b>Aeronautical Engineering Scope in Govt. Sectors</b>\n\n
+
+From the government sector, some of the top recruiters from the governmen or defence sector are Defense Research and Development Laboratories (DRDO), Hindustan Aeronautical Limited (HAL), Aeronautical Development Agency (ADA), Air India, National Aerospace Laboratories (NAL), civil aviation department (DGCA). Every year DRDO recruits some of the Aeronautical Engineers as a Scientist B depending on the GATE score. Other labs of the government sector recruit aeronautical engineers as a Graduate Engineer Trainee.\n\n
+
+<b>Aeronautical Engineering Scope in Private Sectors</b>\n\n
+
+There are more number of private companies in India which is a helping hand to the big companies. Some of them are Bharat Electronics Ltd., BrahMos Aerospace Pvt Ltd., Honeywell Aerospace, Altran India, Taneja Aerospace and Aviation Ltd., Godrej and Boyce Manufacturing Company, Mahindra Aerospace. In India aerospace is one of the fastest growing industries. Therefore
+
+the number of start-ups is increasing day by day. These start-ups deal
+
+with manufacturing, consultancy and maintenance to the giant
+
+companies. There are a number of airlines which recruit aeronautical engineers. Some of them are Indigo, Spicejet, Air India, and others. After the graduation, you can go for further studies in Indias most reputed institutes like IITs after clearing the GATE exam.\n\n
+
+<b>Top Job Profiles of a Aeronautical Engineer</b>\n\n
+
+Aeronautical engineers can work as a Racing Car Designer, Flight Mechanics Engineer, Graduate Engineer Trainee, Assistant aircraft engineer, Aircraft Production engineer, Assistant Technical officers and Air safety officer and as a space scientist in government organisations. After graduation, the students can also apply for the post graduation in Indias most reputed institutes like IITs after clearing the GATE exam.</string><string name="civil"><b><b>Civil engineer</b></b>\n\n
+
+
+<b>What Civil Engineers Do?</b>\n
+
+Let us first understand the role of Civil Engineers - they conceive, design, build, supervise, construct, operate, and maintain infrastructure projects and systems in the public and private sectors. The infrastructure projects include roads, buildings, airports, tunnels, dams, systems for water supply, bridges, and many more.\n
+
+There are many reputed technical colleges that impart state-of-the-art technical education to the students pursuing - undergraduate or/and post-graduate programs. The career scope of civil engineers is huge worldwide-as according to a new research report by Global Marketing Insights, Inc, the market size of civil engineering is expected to grow up USD 11.72 trillion by 2025.\n
+
+\n<b>Here is the list of specialization to choose from:</b>\n\n
+
+Coastal and Ocean Engineering\n
+
+Geotechnical Engineering\n
+
+Construction Engineering\n
+
+Structural Engineering\n
+
+General Engineering\n
+
+Irrigation Engineering\n
+
+Bridge Engineering\n
+
+Land Development.\n
+
+Materials Engineering\n
+
+Urban Engineering\n
+
+Hydraulic Engineering\n
+
+Water Resources Engineering\n
+
+Transportation Engineering\n
+
+<b>How Do You Get Started?</b>\n
+
+If you are planning for your career in civil engineering then you should first go for an undergraduate program and you can also pursue a post-graduation program in civil engineering.
+
+Some colleges also offer a Diploma in civil engineering.\n\n
+
+<b>BTech Civil Engineering It is a four-year full-time undergraduate program divided into 8 semesters.</b>\n\n
+
+<b>Eligibility</b>\n\n
+
+• The aspirants must have passed 10+2 examination or equivalent examination with 45% to 50% marks in Physics, Chemistry, Maths from a recognized university.
+
+The admission process of the BTech program is done through the entrance exams such as - JEE Main, JEE Advanced, MHCET, KCET. The top engineering colleges for civil engineering are -IIT Bombay, MVIT-Sri M Visvesvaraya
+
+Institute of Technology, Karunya Institute of Technology and Sciences, AMC Engineering College, IIT Madras, and many more.</string><string name="automobile"><b><b>Automobile engineering</b></b>\n\n
+
+
+Automobile Engineering is one of the most advanced courses in engineering that involves making of an automobile, including manufacturing, operation, design and investigation of it during repairs, reconstruction and modification. It involves the designing of automobiles like that of cars, buses, trucks and all kinds of vehicles used for road transportation. The degree in automobile engineering also offers various specialisations in the field of aerodynamics, emissions, chassis, ergonomics, alternative fuels, electronics, materials, motorsport, vehicle, manufacturing, rapid prototyping, pedestrian safety, supply chain management, and power train.\n\n
+
+<b>Eligibility Criteria for Automobile Engineering</b>\n\n
+
+The degree of automobile engineering is a four-year engineering degree course in BE or B.Tech programmes. The students need to have minimum eligibility of passing their 10+2 board or any equivalent exams from a recognised board with subjects such as Physics, Chemistry, and Mathematics as main subjects. The students should have scored a minimum aggregate of 50 per cent marks in their board exams to be eligible for admissions. Some of the top prestigious institutes like that of the BITS, IITs and the NITs require a minimum aggregate score of 60 per cent in board exams. The students of diploma in the mechanical and related stream of electrical or electronics can also take admission through lateral entry entrance examinations in the second year of the engineering program after their completion of Diploma. Students of Bachelor degree in Science are also eligible for lateral entry in the automobile engineering programmes.\n\n
+
+
+<b>Top Colleges for pursuing Automobile Engineering</b>\n\n
+
+IIT, Delhi\n
+
+IIT, Roorkee\n
+
+Sathyabama University, Chennai\n
+
+Manipal Institute of Technology, Manipal\n
+
+Hindustan Institute of Engineering Technology (HIET), Chennai\n
+
+Madras Institute of Technology, Chennai\n
+
+PSG College of Technology, Coimbatore.\n</string><string name="agricultureeng"><b><b>Agriculture  engineer</b></b>\n\n
+
+
+<b>About Agricultural Engineer</b>\n
+
+Agricultural engineers are those professionals who develop and design new processes, systems and equipment for agricultural products and operations. Basically, agricultural engineers are required to go for field visits so that they can observe/ examine whether the tools or processes are working properly or not. Agricultural engineering is a combination of principles of engineering and biological sciences. It is also known as biological engineering. It combines other areas such as animal biology, plant biology, mechanical engineering, civil engineering and chemical engineering. The key role of agricultural engineers is to improve agricultural production through better engineering methods, inventions, technology and equipment for which there is a desire to make a good intellectual and future difference in farming. Also, they are involved in improving the agricultural farm machinery, farm structures, rural electrification, bio-gas, new technologies in the design and manufacture of agricultural products. Agricultural engineers have opportunities for bright career, especially in India.\n\n
+
+<b>Types of Job Roles Agricultural Engineer</b>\n
+
+After obtaining the required educational qualification and skills to become an agricultural engineer, there are varieties of job profiles available in this field that you can target based on your interest. The following are some of the job profiles available in the field of agricultural engineering:\n
+
+<b>Agricultural Engineer:</b> The key role of an agricultural engineer is to design agricultural machinery components and tools, using computer-aided design (CAD) technology. Also, they test agricultural machinery and equipment to ensure that they perform properly and design food-processing plants and monitor manufacturing operations.\n
+
+<b>Agricultural Inspector:</b> The responsibility of agricultural inspectors is to ensure that businesses comply with federal and state laws and regulations that control the health, quality, and safety of meat, poultry, egg products, fruits, and vegetables. They also inspect food- and meat-processing plants to ensure that the facilities meet quality standards.\n
+
+<b>Agricultural Specialist:</b> The agricultural specialist is a special type of Border
+
+Protection (CBP) officer who is in charge of knowing and implementing rules
+
+and regulations of transferring various agricultural commodities in borders.\n\n
+
+<b>Farm Shop Manager:</b> The role of the farm (agricultural) shop manager is to make a plan for finance and production to maintain farm progress against budget standards and to make practical activities, such as driving tractors, operating machinery, feeding livestock or spraying fields. They are also responsible for the repair of farm buildings, machinery and equipment. Food and Beverage Supervisor: They are usually responsible for all business operations of a dining establishment. Their duty generally includes interviews. recruitment, training, scheduling and managing of the staff, as well as monitoring the list of food and beverage, supplies and other restaurant
+
+equipment. Survey Research Agricultural Engineer: They are responsible for assessing the environmental impact of agricultural production methods and supervising construction projects such as land drainage, reclamation and irrigation and solving engineering problems such designing vehicles to move in different
+
+weather conditions.\n\n
+
+<b>Agronomist:</b> An agronomist deals with the science of utilizing plants for food,
+
+fuel, feed and fiber. They are specializing in areas such as crop rotation,
+
+irrigation and drainage, planet breeding, soil science, weed control and disease and pest control.\n\n
+
+<b>Top Recruiting Organisations/Companies for Agricultural</b>\n\n
+
+Engineers
+
+Take a look at these organisations/ companies which hire Agricultural Engineers:\n\n
+
+Mother Dairy\n
+
+Amul Dairy\n
+
+ITC\n
+
+Nestle India.\n
+
+NABARD\n
+
+Agricultural Commodities Processors Indian Council of Agricultural Research\n
+
+PRADAN\n
+
+Food Corporation of India Council of Scientific and Industrial Research\n
+
+National Seeds Corporation National Dairy Development Board\n</string><string name="biomedical"><b><b>Bio medical engineer</b></b>\n\n
+
+
+Biomedical engineers collaborate with doctors and researchers to develop medical systems, equipment or devices that can solve clinical problems.\n\n
+
+<b>What kind of skills do you need to be a Biomedical Engineer?</b>\n\n
+
+This rare combination of healthcare and engineering involves the application of engineering principles to create solutions for healthcare and generally concerns with the development and design of a medical product.
+
+Biomedical engineers not just create equipment and devices, but computer systems and software used in healthcare as well. Some of the major skills that an aspirant requires are careful measurement and analytical skills, a good eye for design, an attention to detail, the ability to empathize with patients and lastly communication and team-working skills.\n\n
+
+        <b>Common Biomedical Engineering specializations</b>\n\n 1. Bioinstrumentation\n
+
+2. Biomaterials\n
+
+3. Biomechanics\n 4. Clinical Engineering\n
+
+5. Cellular, Tissue, and Genetic Engineering\n
+
+6. Medical Imaging\n 7. Orthopedic Bio-engineering\n
+
+8. Rehabilitation Engineering\n\n
+
+<b>Popular institutes offering courses in Biomedical
+
+Engineering</b>\n\n
+
+There are several top-notch institutes that offer diplomas, undergraduate and postgraduate degrees, and doctorate programmes:\n\n
+
+• Indian Institute of Technology, Delhi\n
+
+ • Manipal Institute of Technology, Manipal Netaji Subhash Engineering College, Kolkata\n
+
+• Indian Institute of Technology, Mumbai SRM University, Kattankulathur\n
+
+ • Vellore Institute of Technology, Vellore\n
+
+•  Central University of Karnataka, Gulbarga\n
+</string><string name="biotechnology">
+        <b><b>Who is a Biotechnologist?</b></b>\n\n
+
+Biotechnologists are those who conduct experiments in private and government laboratories, to modify or manipulate living organisms to develop new products. Biotechnologists can be employed across several industries as biochemists, biophysicists or medical scientists.\n\n
+
+<b>General Career opportunities for biotechnologists</b>\n\n
+
+Healthcare Medicine, Pharmaceutical,Agriculture, Animal husbandry, Genetic engineering, Environmental conservation,Soil biology, Ecology ,Textile industry Cosmetics.\n\n
+
+        <b>Top colleges in India offering Biotechnology:</b>\n\n
+
+>All the Indian Institute of Technologies Delhi Technological University (DTU)\n
+
+> Anna University\n
+
+>National Institute of Technology Warangal > Netaji Subhas Institute of Technology > Vellore Institute of Technology, Tamil Nadu\n
+
+> Birla Institute of Technology > BIT Mesra\n
+
+> National Institute of Technology (NITC) > Thapar University\n
+</string><string name="broadcast">  <b><b>Broadcast Engineer</b></b>\n\n
+
+A Broadcast Engineer is essentially in charge of setting up, supervising, maintaining and repairing all the technical, sound, video and audio equipment in television, radio and studio broadcasts. It is a vast and dynamic field, with the rapid new advancements in sound technology. They are also in high demand in movie production companies, where a lot of footage and recordings are dealt with. One of the biggest developments in this field recently, is due to a large amount of online streaming content available now, through channels such as Netflix and Amazon Prime. This has pushed the field of broadcast engineering to innovate more than ever before, as it deals with the intricacies of streaming large amounts of data, as well as television technology. There have also been leaps and bounds of advance in editing, post-production work and cable technology, all of which broadcast engineers are usually involved with. The field of broadcast engineering is expected to see huge momentum in future.\n\n
+
+<b>Course and Salary</b>\n\n
+
+The most coveted role in this field is usually that of a Broadcast Engineer or Electrical Engineer. Electrical Engineers earn the most in this field, with a starting salary of 8 lakh/annum on average. For Broadcast Engineers, even if the starting salary is a little low, they can quickly build up a reputation by taking on more events, and through word of mouth. The work is also very fascinating and usually deals with cutting-edge technology. Therefore, the role of a Broadcast Engineer provides excellent growth and job satisfaction for those who are truly interested in this field. They can also choose to specialize in areas such as print journalism, TV broadcasts, online media, and so on.\n\n
+
+Major movie producing companies such as Dharma Productions and Red Chilies Entertainment, to name a few, are regularly on the lookout for fresh new talent to inspire them in the field sound and visual dynamics. They usually recruit for Mumbai, with some branches in Bangalore, Delhi and Kolkata as well.\n\n
+
+
+Top Recruiting Companies\n\n
+
+• Prime Focus, Red Chilies Entertainment,\n
+
+• Reliance Media Works, Moving Picture Company Electric\n
+
+• Wipro Lighting Corporate, Schneider\n
+
+• Makuta VFX, Tata Elxs\n
+
+• Atop Digital, Page Traffic\n
+
+• Creative Think Media,\n
+
+• Shalom Media\n
+
+• Foundation\n</string><string name="communicational">     <b><b>Communication Engineer</b></b> \n\n
+
+<b>About Communication Engineer</b>\n\n
+
+Communication engineering includes modes of communication such as radio, internet, satellites and broadband, and wireless telephone services. The role of a communication engineer is to research, design, develop, and be involved in the production of communication equipment. They provide services, technical expertise, and solutions regarding different modes of information transfer and communication. These engineers are experts in computer networks, IT, information security and telephone systems.\n\n
+
+<b>Eligibility to become Communication Engineer</b>\n\n
+
+To establish a career in this field, you need to study PCM in class 12th. Then, you will have to pursue BE/B Tech (Engineering degree in communication). Once you have completed that, you can choose to enroll yourself in any of the institutes offering professional certificate courses in communication. For instance, you can choose certificate courses from CISCO such as CCENT and CCNA.\n\n
+
+        <b>Entrance Exams</b>\n\n
+
+Some of the most popular entrance exams for engineering are:\n\n
+
+<b>AIEEE</b>\n
+
+It is conducted by CBSE is the most popular engineering entrance exam for those who wish to pursue BE/B.Tech. To appear for this test, the candidate must have passed 10+2 with at least 50 percent.\n\n
+
+<b>BITSAT</b>\n It is for admission to Birla Institute of Technology and Science for Bachelors in Engineering in its campuses in Pilani, Hyderabad, and Goa. To appear for
+
+BITSAT, candidates need to score at least 80 percent aggregate in PCM in 12th and have at least 60 percent marks in each (PCM).\n\n
+
+<b>IIT-JEE</b> \n(Indian Institute of Technology Joint Entrance Exam) This is seen as the toughest engineering entrance exam in the country, and the candidate should have at least 75% aggregate marks in 10+2 to appear for the entrance exam.\n\n
+
+Top Colleges to pursue career as Communication Engineer\n\n
+
+• Indian Institute of Technology, Roorkee\n
+
+• Birla Institute of Technology and Science, Pilani Indian Institute of Technology Delhi, Delhi\n
+
+• Amity University, Noida\n
+
+• Indian Institute of Technology, Kharagpur\n
+
+• Indian Institute of Technology,Kanpur\n
+
+• Lovely Professional University, Phagwara\n
+
+• Indian Institute of Science, Bengaluru\n • Galgotias University,Greater Noida\n</string><string name="commercewithmath">1. BCom (Bachelor of Commerce)\n
+2. BBA (Bachelor of Business Administration)\n
+3. Law (LLB)\n
+4. BMS [Bachelor of Management Studies]\n
+5. Journalism / Mass Communication\n
+6. Bachelor of Foreign Trade\n
+7. Company Secretary\n
+8. Retail Management\n
+9. BA (Bachelor of Arts)\n
+10. Bachelor of Fine Arts (BFA)\n
+11. Hotel Management\n
+12. Travel and Tourism Courses\n
+13. Animation Courses\n
+14. Event Management\n
+15. Bachelor of Design (BDes)\n
+16. Accountancy Courses\n
+17. MBA [PG Course]\n</string><string name="managementcourse">BBA (Bachelor of Business Administration)\n\n
+Bachelor of Business Management\n\n
+Bachelor of Hotel Management\n\n
+Bachelor of Management Studies\n\n
+Bachelor of Event Management\n\n
+Diploma in Retail Management\n\n
+Diploma in Organization Management\n\n
+Bachelor in Fashion Merchandising\n\n
+BA in Travel and Tourism Management\n\n
+Masters of Business Management\n\n
+Masters in Management\n\n</string><string name="proffesionalcourse">BCom General\n\n
+BCom in Marketing\n\n
+Company Secretary\n\n
+Chartered Accountant\n\n
+Cost Management Accountant\n\n
+Bachelors of Business Administration\n\n
+Bachelors of Hotel Management\n\n
+Bachelor in Computer Application\n\n</string><string name="creativecourse">Bachelor of Journalism and Mass Communication\n\n
+Animation and Multimedia Courses\n\n
+BDes Fashion Designing\n\n
+BDes Interior Designing\n\n
+BDes Game Design\n\n
+Air Hostess Training Courses\n\n
+Bachelor of Event Management\n\n
+Bachelor of Vocation\n\n
+Bachelor in Photography\n\n
+Bachelor in Yoga\n\n
+Bachelor in Film making\n\n
+Bachelor of Elementary Education\n\n
+Bachelor of Elementary Education (Special Education)\n\n
+Bachelor of Fine Arts\n\n
+Bachelors of Journalism\n\n
+Jewellery Designing Courses\n\n
+Culinary Arts Courses\n\n
+Photography Courses\n\n
+Bakery and Confectionery Courses\n\n
+Performing Arts Courses\n\n</string><string name="bestcourse">BCom (Bachelors of Commerce)\n\n
+BBA (Bachelors of Business Administration)\n\n
+BMS(Bachelors of Management Studies)\n\n
+Company Secretary\n\n
+Bachelors in Travel and Tourism\n\n
+Bachelors in Hospitality\n\n
+Bachelors in Event Management\n\n
+Bachelors in Hotel Management\n\n
+Bachelor of Journalism\n\n
+BBA LLB\n\n
+BA LLB\n\n
+Bachelor of Foreign Trade\n\n
+BBS (Bachelor of Business Studies)\n\n
+BSc. Animation and Media\n\n
+Bachelor of Social Work\n\n
+Bachelor of Vocational Studies\n\n
+Bachelor of Arts\n\n
+B.A. (Hons)\n\n
+B. Ed (Bachelor of Education)\n\n
+Bachelor of Interior Designing
+    \n\n</string><string name="diplomacourse">Diploma in Elementary Education\n\n
+Diploma in Event Management\n\n
+Diploma in Interior Designing\n\n
+Diploma in Fashion Designing\n\n
+Diploma in Hotel Management\n\n
+Diploma in Music\n\n
+Diploma in Education\n\n
+Diploma in Photography\n\n
+Diploma in Front Office Operations\n\n</string><string name="textile"> <b><b>Textile Engineering</b></b>\n\n
+
+Textile engineering or textile technology is the study of various principles from the scientific and engineering methodologies that are implemented for the processing and production of all sorts of textile fabrics, fibres and yarns. It also involves the study of physical and chemical principles that are helpful in the analysis and study of polymers.\n\n
+
+<b>Job Profile</b>\n
+
+• Medical Textile Engineer\n
+
+• Production Engineer\n
+
+• Operation/Management Trainee\n
+
+• Quality Control Supervisor Process\n
+• Improvement Engineer\n
+
+Top Colleges for Textile Engineering\n
+
+• Anna University • Veermata Jijabai of  Technological Institute\n
+
+• Shri Vaishnav Vidyapeeth Vishwavidyalaya\n
+
+• Institute of Chemical Technology\n
+
+• NIT Jalandhar - Dr. B. R. Ambedkar National Institute Technology (NITJ)\n
+
+• PSG College of Technology - PSGCT\n</string><string name="bot"><b>Bachelors of Occupational Therapy (BOT)</b>\n\n
+
+About Bachelors of Occupational Therapy (BOT)\n\n
+
+Bachelors of Occupational Therapy, also known as BOT, is a bachelors degree programme in the field of medicine. The course has been structured to focus on practices of prevention and cure along with rehabilitation. It teaches the students to tackle the physical, emotional as well as mental problems of students and provide a universal cure for the problem or disease. In these programmes, students learn about means to cure patients by modifying the environment of the patient, educating them, and teaching them how to lead a regular life. Occupational Therapy also focuses on ergo-medicine to promote alternative medicine methods. BOT course has various specialisations to choose from such as Pediatrics, Hand Therapy Adult Rehabilitation, VisionRehabilitation, Community Consultation, Assisted Living, etc.\n
+BOT trains students to become skilled professional occupational therapists, capable of undertaking independent/supervised practice. Key skills drilled into students during the BOT course are-observation, clinical reasoning, treatment planning, and implementation of the same.\n
+
+        <b>Bachelors of Occupational Therapy (BOT) Eligibility Criteria</b>\n\n
+
+• 10+2 or equivalent from a recognised board. Physics, Chemistry, Biology, or Mathematics as the main subjects of study at the 10+2 level.\n
+
+• A minimum aggregate score of 50% (45% for SC/ST/OBC candidates) at the level of graduation.\n
+
+• Candidates appearing for their final 10+2 examination are also eligible to apply for the course on a provisional basis.\n
+
+• Note: Original documents are verified at the time of admission. Minimum marks may vary. for different colleges.\n\n
+
+        <b>BOT Admission Process:</b>\n\n
+
+In order to secure admission in the Bachelor of Occupational Therapy (BOT) programme, you will have to pass class 12 with Physics, Chemistry, and Biology as compulsory subjects. Some of the colleges offer admission on the basis of merit. i.e. candidates performance in the last qualifying exam. Whereas some institutes conducted an entrance exam for admission to the BOT course. Some of the popular exams for admission to the Bachelor of Occupational Therapy course are:\n\n
+
+• K.M.C.H. College of Occupational Therapy Entrance Exam\n
+
+• CMC Vellore Entrance Exam\n
+
+• Manipal University Bachelor of Occupational Therapy Entrance Exam\n
+
+• SVNIRTAR NIOH Common Entrance Test All India Institute of Physical Medicine and Rehabilitation (AIIPMR) Entrance Exam\n
+
+</string><string name="spacetechno"><b><b> Space Technologist</b></b>\n\n
+
+
+<b>Course Details</b>\n\n
+
+To make a career in space science, space applications, or space technology, an expertise of science subjects Physics, Chemistry and Mathematics is a must. These subjects can be pursued at Bachelors programs after completing 10+2 level from science stream. Graduate courses can also be taken up in relevant disciplines of space technology/space science offered by Indian Space Research Organization (ISRO) and other institutions, such as 4-year B.Tech program or 3-year B.Sc course. On obtaining a Bachelors degree, one can seek admission in post graduation course in space science and technology and other space related fields. To become an expert in any specialized field, pursuing a PhD degree is compulsory. In fact, most professionals working in space science are PhD holders.\n\n
+
+
+
+<b>Career Prospects</b>\n\n
+
+Space science provides employment opportunities in a diverse number of fields. It is not just limited to mapping a distant planet or discovering something new and unique about the solar system. Depending upon an individuals qualifications and skills, one can explore job prospects in ISRO, Defense Research and Development Organization (DRDO), Hindustan Aeronautics Limited (HAL), National Aeronautical Laboratories (NAL), and aerospace industry. As a space scientist, one can be employed as faculty in universities or sit on academic committees, publish papers, guide research students, write proposals, and referee papers for publication. Astronomers and astrophysicists can be absorbed by government/national observatories, space research agencies, science museums, and planetariums. Further, they can even find work in designing and manufacturing telescopes, writing software, and performing several tasks at ground-based observatories and space laboratories. Space scientists can try their hands at technical writing as well. Some other employment areas include simulation centers, space tourism operators, spacecraft manufacturing firms, military operations, R and D centers, spacecraft software developing firms, and repair and maintenance workshops.\n\n
+
+Top Colleges Offering UG/PG/Other Courses in  India are \n\n
+• Indian Institute of Space Science and Technology (IIST)\n
+•  Birla Institute of Technology. Mesra, Ranchi. \n
+•  Indian Institute of Science, Bangalore \n
+•   Indian Institute of Technology (IIT) Bombay, Madras, Kharagpur, and Kanpur.\n
+</string><string name="engineeringasacareer"><b>Engineering as a career</b>\n\nEngineers specialize in different branches of engineering e.g. Mechanical, Electrical, Electronics, Chemical, Biomedical etc. They work in designing. planning large structures, maintenance, production, or testing of machines and equipment used in different sectors. Many engineers study management where their engineering background facilitates the marketing process and installation planning of engineering goods.\n\n
+
+<b>Pros and Cons of being an Engineer</b>\n\n
+
+<b>Pros</b>\n\n
+
+• Irrespective of trends in the markets, engineers are always in demand. especially those in electrical, civil, mechanical and computer\n\n
+
+• Growth opportunities as India is an open economy with multinationals opening their offices in India\n\n
+
+• Indian engineers are good in their logical and mathematical skills. Their demand is always high in the US and other foreign countries\n\n
+
+<b>Cons</b>\n\n
+
+• Demanding career as one might have to stay for long hours in the office till they fix the problem.\n\n
+
+• One might have to stay away from home for projects that require onsite engineer.\n\n
+
+• Though all good institutes have campus placements, yet not all engineers are well placed.\n\n
+
+• Today, MBA has almost become synonymous with engineering. Most engineers opt for MBA after engineering and therefore demand for engineers without an MBA has dropped sharply.\n\n
+
+• Although  there are lots of students who are  looking for pursuing engineering but there is a huge lack of good engineering institutes which makes it very difficult to get a good job for those students who did engineering from tier-3  colleges .\n\n
+
+
+<b>Selection Process</b>\n\n
+
+• JEE(Joint Entrance Examination) selects students for admission to various engineering colleges in India. There are 2 different exams JEE Main and JEE Advanced. JEE Main is conducted by CBSE while JEE Advanced is conducted by different IITs as decided on rotation basis.\n\n
+
+•  JEE-Mains selects students for admission to BE or B-Tech  courses Integrated MScs, B.Arch/B.Planning courses in the NITS, IIITs and all GFTIS (Government - Center and State Funded Technical Institutes).\n\n
+
+• JEE-Advanced Students qualifying JEE Mains through the prescribed cut-off marks are eligible to appear for JEE Advanced.\n\n
+
+        JEE Advanced score is required for admission into the IITs (Indian Institute of Technology), ISM-Dhanbad, Indian Institute of Science (IISC), Rajiv Gandhi Institute of Petroleum Technology and the Indian Institute of Science Education and Research (IISER).\n\n .<b>JEE Main Exam Pattern</b>- There are 2 papers Paper 1-Engineering Entrance Exam for B.Tech/B.E.( 3 hrs objective test on PCM of Class XII level) The test has negative marking. Exam can be taken as a paper pencil test or online \n\n
+
+• Paper 2-Architecture Entrance exam for B. Arch/ B.Planning. This is a 3 hr r paper and has 3 parts. 1-Objective test PCM, 2-Aptitude Test, 3 Drawing test.\n\n
+
+•  Eligibility: XII PCM from a recognised Board, minimum aggregate 75%  or in the top 20 percentile in the XII examination. (65% for Sc/ST) **Diploma courses are followed by accreditation exams. \n\n
+
+<b>• Post graduate degree :</b>\n\n
+ Post-graduate courses with scholarship/assistantship, are open to students who have qualified in the Graduate Aptitude Test in Engineering (GATE) or National Eligibility Test (NET of UGC). Graduate Engineers, Associate members of the Institute of Engineers, postgraduates in Physics/ Chemistry/ Maths/ Statistics/ Computer Applications can appear for GATE conducted by IITs and Indian Institute of Sciences .
+</string><string name="plastic">                     <b>Plastic Engineering</b>\n\n
+
+Plastic Engineering consists of processing, designing, developing, and manufacturing plastic products. Plastic is a synthetic material made from a wide range of organic polymers and they can be molded into shape while soft and then set into a rigid or slightly elastic form.\n\n
+
+the top BTech Plastic Engineering Colleges : \n\n
+
+•  Gujarat Technological University,Ahmedabad\n\n
+
+• Harcourt Butler Technological Institute, Kanpur\n\n
+
+• Institute of Chemical Technology\n\n
+
+• Biju Patnaik University of Technology, Rourkela\n\n
+• Aryabhatta Knowledge University, Patna\n\n
+• CIPET, Chennai\n\n
+• Laxminarayan Institute of Technology,Nagpur\n\n</string><string name="sciencecourseafter12">Mathematics group students have access to numerous B.Sc. courses. These academic programs are 3 years long (SEMESTER SYSTEM)\n\n
+
+        <b>Some of the notable B.Sc. programs are :</b>\n\n
+
+<b>• B.Sc. Physics</b>\n\n
+BSc Physics is a three-year undergraduate course that aims to teach about the fundamentals of physics such as force, electromagnetism, waves, optics, etc. The course requires you to have high reasoning and problem-solving abilities.\n\n
+
+<b>• B.Sc. Mathematics</b>\n\n
+BSc Mathematics is one of the best courses which help you to excel in the field of mathematics. It is an undergraduate degree of 3 years offered by various colleges. This course is divided into 6 semesters. This program describe the root of math and logic\n\n
+
+<b>• B.Sc. Chemistry</b>\n\n
+BSc Chemistry focuses on the study of various branches of chemistry such as Inorganic Chemistry, Organic Chemistry, Physical Chemistry and Analytical Chemistry along with elective subjects like Analytical methods in Chemistry, Polymer Chemistry and Industrial Chemicals and Environment.\n\n
+
+<b>• B.Sc. Geology</b>\n\n
+Geology is an ideal career for those who do not wish to be office-bound since much of the geologists work is done in the field. Geologists get to be updated with advances in sophisticated equipment and software.\n\n
+
+<b>• B.Sc  IT</b>\n\n
+BSc IT full form is Bachelor of Science in Information Technology. It is an undergraduate course of 3 years divided into 6 semesters. BSc IT syllabus is based on software, databases, and networking designed to impart theoretical and practical knowledge on storing, processing, and managing information securely.\n\n
+
+<b>• B.Sc. Computer Science</b>\n\n
+BSc Computer Science, abbreviated as BSc CS, is a 3-year undergraduate program that deals with the subjects and topics related to computer science, computer application, and its services.\n\n
+
+<b>• B.Sc. Biotechnology</b>\n\n
+It is an interdisciplinary science and involves concepts and theories related to engineering, medicine, biology, chemistry, and technology. It covers topics animal biotechnology, fermentation technology, bioinformatics, spoilage of food, and preservation.\n\n
+
+<b>• B.Sc. Agriculture</b>\n\n
+BSc Agriculture degree equips a student with the knowledge and skills that will help them to manage agri-preneurship, to conduct research, work in agricultural field, conduct field surveys and manage different areas of farming practices.\n\n
+
+<b>• B.Sc. Nautical Science</b>\n\n
+This extensive program of study focuses on a wide variety of sciences, including biology, physics, chemistry, mathematics and earth science.\n\n
+
+<b>• B.Sc. Hotel Management</b>\n\n
+The Bachelor of Science in Hospitality  Catering Management also known as BSc. HCM is a qualification in Hotel studies. This degree is also sometimes known as BHM (Bachelor of Hospitality Management) or (Bachelor of Hotel Management) and is a very popular Academic degree all over the world.\n\n
+
+<b>• B.Sc. Electronics and Communication</b>\n\n
+BSc Electronics is mainly a theory-based course which covers subjects like Circuits, digital electronics, etc in detail. BSc Electronics and Communication is a 3-Year Undergraduate course which aims to build knowledge about circuits and electronics to use in fields like electromagnetics. \n\n
+
+
+<b>Top 10 BSc Colleges for BSc degrees and BSc courses in 2019</b>\n\n
+
+Loyola College, Chennai\n
+
+Christ University, Bangalore.\n
+
+Miranda House, Delhi.\n
+
+Madras Christian College.\n
+
+Hindu College, Delhi.\n
+
+Sri Venkateswara College, Delhi.\n
+
+Hansraj College, Delhi.\n
+
+Stella Maris College, Chennai.\n\n
+
+
+• There is  many entrance exam for admission in Bsc, like BHU,JNU, % wise DU, DR HS GOUR SAGAR,  many so,.but BHU is. one of most popular university\n\n
+
+
+• There arent any national level test but for some colleges you do have to give their entrance exam. For admission in Bsc for in a good college you should have a good percentage too and sometime it also depends where you are residing as colleges or universities have state reservation, may this answer solve your concerns if you need any help do ask. Best of luck though</string><string name="bnys"><b>Bachelor of Naturopathy and Yogic Sciences (BNYS)</b> \n\n
+
+The Bachelor of Naturopathy and Yogic Sciences course, popularly known as BNYS, is a 4.5-year-long course. The curriculum comprises an integrated study of natural medicine as well as the modern methodology of treatment. Aspirants who seek a career in Ayurvedic or Homeopathic medicine can benefit from this course. Apart from medical history and theory, the programme also comprises practical sessions to impart all-round education in the field of naturopathy and yoga. The scope after pursuing this course is bright with people becoming aware of the benefits of yoga and natural medicine.\n\n
+
+Bachelor of Naturopathy and Yogic Sciences (BNYS) Eligibility Criteria\n\n
+
+In order to become eligible for the Bachelor of Naturopathy and Yogic Sciences (BNYS) course, candidates must meet the following criteria.\n\n
+• Minimum Qualification Required: 10+2 (Chemistry, Physics and Biology).\n • Minimum Marks Required (Aggregate): 50%\n
+
+•  Minimum Age Required: 17 Years\n
+
+        <b>BNYS Admission Process</b>\n\n
+
+•  Institutes offering the course release admission notification on their official website regarding the registration process and the selection criteria.\n\n
+
+• Few colleges take direct admission to the BNYS programme and candidates who qualify the eligibility criteria can apply directly or on the basis of merit in class 12 exams.\n\n
+
+There are some colleges that take students on the basis of entrance exams, either state-level tests or tests conducted by the respective institutes, for the BNYS programme.\n\n
+
+<b>Top BNYS Entrance Exams.</b>\n\n
+
+Following are some popular BNYS entrance exams: \n\n
+•  NEET\n
+
+• Common Entrance Exam for Ayurveda and Homeopathy (Assam)\n
+
+• CG BNSY Entrance Exam .\n DSSRAU PAT\n
+
+• Punjab Ayush Entrance Test .\n UP CPAT-Combined Pre-AYUSH Test\n
+
+</string><string name="genetic">         <b><b>Genetic  engineer</b></b>  \n\n
+
+<b>What is Genetic Engineering?</b>\n\n
+
+Genetic Engineering is also referred as genetic modification. It is a process of manually adding new DNA to a living organism through artificial methods.\n
+
+Genetic Engineering is a method of physically removing a gene from one organism and inserting it to another and giving it the ability to express the qualities given by that gene.\n\n
+
+<b>Specializations</b>\n\n
+
+Clinical genetics\n
+
+Behavioral genetics\nClassical genetics\n
+
+Genomics\n
+
+Population, quantitative and ecological genetics\n
+
+Molecular genetics Genetic algorithms\n\n
+
+
+
+<b>Top colleges which offers various courses in genetic engineering:</b>\n\n
+
+• Indian Institute of Technology, Kharagpur Indian Institute of Science, (IISc), Bangalore\n
+
+• Indian Institute of Technology, Madras . Indian Institute of Technology, Delhi\n
+
+• All India Institute of Medical Sciences, New Delhi\n
+
+• Indian Institute of Science, Bangalore\n
+
+        <b>Top Recruiters</b>\n\n
+
+• The National Institute of Immunology, New Delhi\n
+
+• The Centre for DNA Fingerprint and Diagnostics, Hyderabad\n
+
+• The Institute of Genomic and Integrative Biology, Delhi \n• Biochemical Engineering Research and Process Development Centre, Chandigarh.\n</string><string name="pharmacycourseafter12"><b>Pharmacy Courses</b>\n\n
+        Though it is generally considered to be a medical stream course, mathematics group students are also eligible to pursue it, The academic program is 4 years long.\n
+MPC students are also eligible to pursue:\n\n
+
+<b>• Bachelor of Pharmacy(B.Pharm)</b>\n\n
+A Bachelor of Pharmacy is a undergraduate academic degree in the field of pharmacy. In many countries, this degree is a prerequisite for registration to practice as a pharmacist.\n\n
+
+<b>• Diploma in Pharmacy(Pharma.D)</b>\n\n
+A PharmD (Doctor of Pharmacy) is a professional doctorate degree and is usually a four-year program. A PharmD program differs from a PhD program in that a PhD prepares you for a career in academia and research, culminating in a dissertation.\n\n
+
+<b>• Doctor of Pharmacy (D.Pharma)</b>\n\n
+Diploma in Pharmacy [D.Pharm.] course provides registered pharmacy qualification for practicing pharmacy profession under the Pharmacy Act.\n\n
+
+
+
+<b>Top B Pharmacy Colleges in India  List :</b>\n\n
+
+• Jamia Hamdard University, New Delhi.\n
+
+• Institute of Chemical Technology (ICT), Mumbai.\n
+
+• Birla Institute of Technology and Science (BITS), Pilani.\n
+
+• Manipal College of Pharmaceutical Sciences (MCOPS), Manipal.\n
+
+• Bombay College of Pharmacy (BCP), Kalyan.\n
+
+
+
+<b>Top Pharmacy Entrance Exams in India</b>\n\n
+
+• MHT CET\n
+• OJEE\n
+• BITSAT\n
+•UPCET\n
+
+
+
+
+</string><string name="bpth"><b>About Bachelor of Physiotherapy (B.P.Th)</b>\n\n
+
+Physiotherapy is one of the promising fields that you can opt for if you are aspiring to pursue medical stream after class 12. The programme comprises training that enables candidates to treat muscle spasms and injuries. Bachelor of Physiotherapy also covers the different aspects of human anatomy to impart a detailed understanding of the organisms.\n
+
+As a physiotherapist, you will be required to look after the physical and muscular health of individuals. The course enables individuals to treat locomotion problems and muscular issues caused by ageing, diseases, injuries, disorders, etc. There is a good salary scope in this field if you have pursued education from a good college.\n\n
+
+Bachelor of Physiotherapy (B.P.Th) Eligibility Criteria\n\n
+
+• Min Qualification Required: 10+2 Subject Combination: Physics, Chemistry and Biology and
+
+sometimes English as compulsory subjects . Min. Marks Required (Aggregate): 50% (relaxation for reserved category students available)\n\n
+
+• Minimum Age Required: 17 Years . Note: Candidates are required to get their marks verified during the time of admission through the original copies of their documents and mark sheet.
+
+B.P.Th Admission Process\n\n
+. The admission process for BPT (Bachelor of Physiotherapy) is different in different colleges/ universities.\n\n
+
+• some institutes conduct their own entrance exams, some accept state-level or national-level exams.\n\n
+
+• some institutes select students on the basis of their performance in Class 12 examinations.\n\n
+
+• Some institutes carry out the admission process through interviews and group discussions.\n\n
+</string><string name="chemicalengineer">   <b>Chemical Engineering</b>\n\n
+
+Chemical engineering is one of the emerging careers that deal with designing and supervision of chemical reactions in an industry for the purpose of energy production or human development. In the current scenario, chemical engineering is significant as there is a global shift towards renewable resources such as hydroelectric and solar. These fields require innovation and development to make sure that these resources can meet our energy needs. The major responsibility of the chemical engineers is to apply the principles of physics, chemistry, mathematics and biology to solve the problems that involve the production or use of chemicals, drugs, food and many other products. The design equipment and processes for large-scale manufacturing and direct facility operations.\n\n
+
+Types of Job Roles Chemical Engineer Chemical Engineers are required for diverse jobs. The following are some of the job profiles that chemical engineers can take up after obtaining the necessary skills.\n\n
+
+• Analytical Chemist: An analytical chemist is a scientist who studies and tests the chemical compositions and behaviours of varied substances.\n\n
+
+•  Energy Manager: An energy manager monitors the usage of energy across the industry or organisation. He/ She also undertake energy audits.\n\n
+
+•  Environmental Engineer: These engineers use the principles of biology, chemistry, soil science and engineering to develop solutions to environmental problems. They also involved in different initiatives to improve recycling, public health, waste disposal and water  air pollution control.\n\n
+
+• Manufacturing Engineer: the major responsibility of manufacturing engineer is to evaluate manufacturing processes by designing and conducting research programmes.
+They also apply their knowledge of various activities involved in the manufacturing process.\n\n
+
+• Materials Engineer: These engineers specialise in metals, ceramics or plastics. They also develop composite materials and study the atomic structure of materials. Mining Engineer: Mining engineers play a vital role in extracting the underground resources such as minerals, oil, gas and metals..\n\n
+
+• Production Manager: The major responsibility of the production managers is to assess project and resource requirements. They also plan and organise production schedules,\n\n
+
+• Lecturer: Chemical engineers can also become lectures in universities and colleges after attaining the necessary qualifications.\n\n
+
+
+</string><string name="mechanical">  <b><b>Mechanical Engineering</b></b> \n\n
+
+<b>About Mechanical Engineer</b>\n\n
+
+A mechanical engineer is the one who deals with the designing and construction of machines Constructing a cost-effective machine and doing relevant and related modifications in the mechanism is the sole aim of a mechanical engineer. Mechanical engineers produce machines keeping in mind the designing, testing, and development of the theoretical representation drawn for the purpose of construction.\n\n
+
+        <b>Types of Job Roles Mechanical Engineer</b>\n\n
+
+. Aerospace Engineer) Maintenance Engineer\n\n
+
+• Automative Engineer\n\n
+
+• Control and Instrumentation Engineer\n\n
+
+• Contracting Civil Engineer\n\n
+
+• Nuclear Engineer Mechanical Engineer\n\n</string><string name="environmental"><b>Environmental Engineering</b>\n\n
+
+Environmental Engineers are the professionals who design, construct, and manage different environmental and waste management system with the purpose of keeping the rural and urban area healthy. They are specialised in the field of ecology, basic sciences, economics, radiological science, and social sciences. An Environmental Engineer is a professional who uses the concept of engineering, biology, soil science, and chemistry to develop economical solutions to different environmental problems.\n\n
+
+Types of Job Roles Environmental Engineer\n\n
+
+• Biologists: Biologists are the professionals who study the plants and organisms mechanisms in order to evaluate their habitat, composition and the way they interact with the environment. They are responsible for conducting research and preparing a report on the same. \n\n
+
+• Agricultural Engineers: Agricultural Engineers are the professionals who develop and manage agricultural projects. They are responsible for taking up different environmental tasks such as inspecting sites, monitoring equipment, and water management projects.\n\n
+
+• Geologists: Geologists are the professionals who work with the concept of Geology to develop solutions to environmental geology problems. They are responsible for work in the stream of geoscience, glacial geology, pollution responsit control, geological surveying, engineering geology, water supplies, ground investigation, volcanology, geochemistry, geotechnical engineering and fields eismology.\n\n
+
+• Ecologists: An Ecologist is a professional who studies the interrelationships between the organisms and the environment. The Ecologists are responsible for research in terms of forests, deserts, wetlands, or other ecosystems to evaluate how they interact with each other and the environment as a whole.\n\n
+
+• Chemical Engineers: Chemical Engineers are the professionals who are responsible for managing the production of Chemical processes and maximise the productivity of the Chemical Industries while minimising the overall costs.\n\n
+</string><string name="petroleum"><b><b>Petroleum Engineering</b></b>\n\n
+
+<b>About Petroleum Engineer</b>\n\n
+
+Petroleum engineers are engineers who specialize in designing and developing different techniques and methods for extracting oil and gas from earths surface. Their job role is taken look for different ways to obtain natural gas or crude oil from the ground. Apart from this, petroleum engineers explore new ways and new techniques to extract oil and gas. They usually work with geologists. They also design computer simulations to predict the petroleum and natural flow on the site and areas considered as the right hand of the oil and gas company.\n\n
+
+<b>Types of Job Roles Petroleum Engineer</b>\n\n
+
+        <b>Reservoir Engineers</b>- Their job role is to estimate how much oil or gas can be
+
+recovered from underground deposits, known as reservoirs, They perform various research related to reservoirs and explore different methods which will help to
+
+extract most oil or gas out of the reservoirs.\n\n
+
+<b>Drilling Engineers</b>- They explore and determine different ways to drill oil or gas wells. Their job involves multiple roles as they have to take into account a number of factors such as capital, safety, security, efficiency and that whether it is
+
+environmentally friendly or not. Production Engineers- Production engineers work closely with drilling engineers as they take over the wells after the drilling is completed. They mainly monitor .
+
+wells oil and gas production and to explore different options to increase the amount of oil and gas being extracted.\n\n
+
+        <b>Completion Engineers</b>- They look for different ways to finish building wells so
+
+that oil or gas will flow up from the underground.\n\n
+
+<b>Top Recruiting Companies for Petroleum Engineers</b>\n\n
+
+The job and employment outlook for petroleum engineers is quite good as there is a huge demand for petroleum engineers. Companies that come under government and recruits petroleum engineers are as follows:\n\n
+
+Oil and Natural Gas Corporation Limited (ONGC)\n
+
+Bharat Petroleum Corporation Limited (BPCL) Indian Oil Corporation Limited (IOCL Hindustan Petroleum Corporation Limited (HPCL)\n
+
+GAIL\n
+
+Essar Oil\n
+
+Hindustan Oil Exploration Company Ltd (HOEC)\n</string><string name="industrial">  <b>Industrial and Production Engineering</b>\n\n
+
+industrial and production engineering is a relatively new course in India. It focuses on the concept of developing, manufacturing, implementing, improving, implementing and evaluating the integrated system of people, money, information, equipment, energy and the industrial process as a whole.\n\n
+
+Job Title\n\n
+
+• Industrial Designer\n\n
+
+• Industrial Engineer\n\n
+
+• Quality Control Engineer Manufacturing Engineer\n\n
+
+• Process Engineer\n\n
+
+• Project Engineer\n\n
+
+• Field Engineer\n\n
+</string><string name="mettalurgy"> <b>Mettalurgical engineer</b>\n\n
+
+<b>About Metallurgist</b>\n\n
+
+Metallurgists develop different ways of processing metals and converting them into products which are useful for humans. They study the science of metals and also conduct various types of research in the respective field. They primarily work in the iron and steel industrial areas and research laboratories.\n\n
+
+Types of Job Roles Metallurgist After completing a formal education in the respective field, there are various metallurgist job profiles one can pursue as per their career interest. Some of them are listed below: \n\n
+
+• Process Metallurgist: They design metal parts and control the processes through which they are shaped such as casting. They also weld and solder metal parts together.\n\n
+
+•  Metallurgical Engineer: Metallurgical engineers develop ways of processing metals and converting them into useful products. Their job role is very similar to that of metallurgical scientists. \n\n
+
+• Chemical Metallurgist: Their job role is to test ores to determine the recoverability of metals from them, and design processes to recover them efficiently. They also monitor metal corrosion and fatigue and develop ways to strengthen metals.\n\n
+
+• Physical Metallurgist: They monitor the behavior of metals under stress, and write reports on test results and do research on the same. They also investigate accidents potentially caused by metallurgical failure.\n\n </string><string name="marineengieering"> <b>Marine Engineering</b> \n\n
+
+Marine engineering is a branch of engineering that deals with the construction as well as the operation of mechanical equipment of seagoing craft, docks, and harbor installations. The basic job of a Marine engineer is to design, build and maintain vehicles/structures used on or around water. This includes ships, aircraft carriers, submarines, sailboats, tankers etc.\n\n
+
+Marine Engineering Job Profiles\n\n
+
+• Chief Engineer:\n
+A chief engineer holds a high rank in the Marines. They head the entire marine engineering department on the vessel and are responsible for the maintenance and operation of all engineering equipment onboard the vessel.\n\n
+
+• Chief Electric Tech:\n
+Chief Electric Tech Officer head the Electrical department of the ship.\n\n
+
+• Officer Design Engineer:\n
+Design engineers design and experiment new technology and machine parts for a ship. \n\n
+
+• Navy Personnel:\n
+Students, after clearing the Defence Services Exams, can join the Indian Coast . Guard and the Indian Navy and guard the countrys waters.\n\n
+
+• Maintenance Engineer: \n
+ Maintenance engineer supervise the quality and reliability of the machine parts and fleet of ships.\n\n
+
+• Chief Security Officer :\n
+A CSO supervises the smooth running and security efforts in a ship. \n\n </string><string name="bds"><b>BDS (Bachelor of Dental Surgery)</b>\n\n
+BDS course is focused on training students with knowledge and skills related to general dental practices to treat, prevent and diagnose oral diseases.\n\n
+
+<b>Eligibility</b>\n\n
+• Passing senior secondary examination with an aggregate score of 50% from a recognised board or equivalent examination.\n
+• It is required to have Physics, Chemistry, Biology and English as subjects in 12th class.\n\n
+
+The admissions are taken by conducting entrance tests. The candidates with their senior secondary examination results awaited are welcomed to apply for this course.\n\n
+
+Entrance Exams\n\n
+
+• AICET BDS: This test is conducted for admissions in the field of dental science for admission in the private colleges for Chhattisgarh. Questions from Physics, Botany, Zoology and Chemistry\n\n
+• NEET: NEET is a qualifying entrance examination for admission in medical courses. It is accepted by institutes like Banaras Hindu University and Armed Forces Medical College.\n\n
+• AIPMT: Being held this year in May by CBSE, it is an entrance test accepted by most of the top universities. The syllabus for this test includes Physics, Chemistry and Biology.\n\n
+• MP DMAT: Conducted by APDMC every July in Madhya Pradesh, it is a test that offers entry into a career in the medical field. The questions asked in entrance test are from Physics, Chemistry and Biology.\n\n
+
+<b>Selection Process</b>\n\n
+The selection process varies from university to university. Some of the universities take admission only on the basis of scores in the relevant entrance exams. However, there are some universities which may go for a counselling procedure.\n\n
+
+
+<b>Career after BDS Course</b>\n\n
+
+Students can go for further studies enhancing their CV by pursuing post graduation in dentistry. Dental surgery graduates can pursue Master of Dental Surgery to gain specialisations such as operative dentistry, prosthodontics, oral medicine and radiology, periodontology and oral implantology, oral and maxillofacial surgery, conservative, endodontics and aesthetic dentistry.\n
+
+Bachelor of Dental Surgery [BDS] graduates can take lateral entry into third year of MBBS
+</string><string name="electricalengineer">  <b>Electrical Engineering</b> \n\n
+
+<b>CareerGuide</b>\n\n
+
+An electrical engineer is responsible for designing and developing new electrical systems, test equipment and finds solutions to electrical problems and devices. Electrical engineers usually work with large-scale electrical systems which include motor control and power transmission.\n\n
+
+Types of Job Roles Electrical Engineer\n\n
+
+• Micro Electrical Engineer: They deal with the design and microfabrication of tiny electronic circuit components.\n\n
+
+• Electrical Engineer: The electrical engineer work in function of the variety of functional
+groups that are involved in the production, development, and implementation of electrical production.\n\n
+
+• Power Engineer: The power engineer are responsible for the design of electrical designers such as transformers, power electronics, generators, motors etc.\n\n .Instrumentation Engineer: They deal with the design of measuring devices for pressure, temperature, and flow.\n\n
+
+• Telecommunications Engineer: Telecommunications engineer deal with the transmission of information through the optical fiber or via cable\n\n .Electrical Design Engineer: Electrical design engineer design a new electrical system for various applications. They are mainly responsible for developing system specifications and layouts.\n\n
+         </string><string name="barchetecture"><b>B.ARCH (Bachelor of Architecture)</b>\n\n
+
+Bachelor of Architecture is a very popular choice among PCM students. It is a 5 years long academic program. B. Arch is a technical course study which mainly focuses on the development of the skills which are required to become an Architect. Here students learn the process of construction of commercial buildings, malls, complexes, highways construction and civil construction by applying their innovative ideas and analytical skills.\n\n
+
+Course Highlights :\n\n
+Course Level	 : Undergraduate\n
+Duration	 : 5 years\n
+Examination Type	: Semester System\n
+Eligibility :	10+2 with 50% Marks\n
+Admission Process	: Through NATA Entrance Test.\n
+Career Prospects :
+An architect has very wide options for the career growth in both private sector and government sector. It is the job responsibility of architecture to balance between the design format and practical output of design but the most relevant and beneficial study option is M. Arch. (Master in Architecture) which focuses on the specialisation in architecture career. Apart from this, students can also apply for other postgraduate diploma courses.\n
+
+One can pursue Master of Architecture in:\n\n
+• Urban and Regional Planning.\n
+• Housing.\n
+• Environmental Planning.\n
+• Infrastructure Planning.\n
+• Construction of Project Management.\n</string><string name="bmlt"><b>Bachelor of Medical Laboratory Technology (BMLT)</b>\n\n
+
+<b>About Bachelor of Medical Laboratory Technology (BMLT)</b>\n\n
+
+Bachelor of Medical Laboratory Technology (BMLT) is a three-year undergraduate course which offers candidates thorough knowledge about the laboratory equipment and laboratory diagnostic procedures. The course is helpful for students who wish to pursue a career in the management of laboratories, advancement in laboratories, and instrumentation.\n
+
+With BMLT being one of the fastest growing field in the healthcare sector, the demand for qualified professionals is growing every day for the treatment of rapidly growing diseases. Degree in BMLT helps you gain practical and technical knowledge for the right diagnosis and how to effectively run biochemical laboratories.\n\n
+
+Admission Process for BMLT\n\n
+
+The admission process for Bachelor in Medical Laboratory Technology is conducted either through entrance exams or on the basis of merit.\n\n
+
+Direct Admissions\n\n
+
+• The Direct Admission process is followed by a majority of colleges in India.\n
+
+• Through this pathway, candidates are selected on the basis of their marks scored in the Intermediate examination.\n
+
+• For this, candidates simply have to apply to the college or university. After the board results are out, the colleges will release their cut-off scores.\n
+
+• Those candidates who meet the cut-off score or have more marks then cut-off will be eligible for BMLT admissions.\n\n
+
+Admissions through Entrance Exams :\n\n
+ The second way for admission to the BMLT course is through entrance exams. In this pathway, candidates are selected on the basis of their marks scored in the entrance examinations of an institute.
+For this, candidates first have to apply to the university/ college.\n\n
+
+• The institute will provide candidates with an exam schedule.\n
+
+• When the results of the exam are out, the college will release the cut off or merit list. If candidates make it to the lists, they will be eligible for admissions.\n\n
+
+        <b>BMLT Entrance Exams</b>\n\n
+
+Some of the popular BMLT entrance exams are as follows:\n\n
+
+• Manipal University Entrance Test Jamia Hamdard Entrance Test\n
+
+• Amity University Entrance Test / Interview\n</string></file><file path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\values\themes.xml" qualifiers=""><style name="Theme.Shaaks" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style><style name="NoActionBarTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#20D0D0</item>
+        <item name="colorPrimaryDark">#20C8D1</item>
+        <item name="colorAccent">@color/white</item>
+    </style></file><file path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\values-night\themes.xml" qualifiers="night-v8"><style name="Theme.Shaaks" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style></file><file name="barch" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\barch.png" qualifiers="" type="drawable"/><file name="chemicalengineer" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\chemicalengineer.png" qualifiers="" type="drawable"/><file name="dental" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\dental.png" qualifiers="" type="drawable"/><file name="electricalengineer" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\electricalengineer.png" qualifiers="" type="drawable"/><file name="environmentalengineer" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\environmentalengineer.png" qualifiers="" type="drawable"/><file name="geneticengineering" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\geneticengineering.png" qualifiers="" type="drawable"/><file name="industrial" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\industrial.png" qualifiers="" type="drawable"/><file name="marineengineering" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\marineengineering.png" qualifiers="" type="drawable"/><file name="mechanical" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\mechanical.png" qualifiers="" type="drawable"/><file name="metallurgical" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\metallurgical.png" qualifiers="" type="drawable"/><file name="petroleumengineering" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\petroleumengineering.png" qualifiers="" type="drawable"/><file name="pharmacycourseafter12" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\pharmacycourseafter12.png" qualifiers="" type="drawable"/><file name="plastic" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\plastic.png" qualifiers="" type="drawable"/><file name="round4" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\round4.xml" qualifiers="" type="drawable"/><file name="round5" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\round5.xml" qualifiers="" type="drawable"/><file name="sciencecourse" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\sciencecourse.png" qualifiers="" type="drawable"/><file name="spacetechnologist" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\spacetechnologist.png" qualifiers="" type="drawable"/><file name="textile" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\textile.png" qualifiers="" type="drawable"/><file name="activity_barchetecture" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_barchetecture.xml" qualifiers="" type="layout"/><file name="activity_bds" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_bds.xml" qualifiers="" type="layout"/><file name="activity_bmlt" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_bmlt.xml" qualifiers="" type="layout"/><file name="activity_bnys" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_bnys.xml" qualifiers="" type="layout"/><file name="activity_bot" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_bot.xml" qualifiers="" type="layout"/><file name="activity_bpth" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_bpth.xml" qualifiers="" type="layout"/><file name="activity_chatbot" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_chatbot.xml" qualifiers="" type="layout"/><file name="activity_chemicalengineering" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_chemicalengineering.xml" qualifiers="" type="layout"/><file name="activity_computerscience" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_computerscience.xml" qualifiers="" type="layout"/><file name="activity_electricalengineer" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_electricalengineer.xml" qualifiers="" type="layout"/><file name="activity_engineering_as_acarrer" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_engineering_as_acarrer.xml" qualifiers="" type="layout"/><file name="activity_environmentalengineer" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_environmentalengineer.xml" qualifiers="" type="layout"/><file name="activity_geneticengineering" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_geneticengineering.xml" qualifiers="" type="layout"/><file name="activity_industrialengineer" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_industrialengineer.xml" qualifiers="" type="layout"/><file name="activity_marineengineering" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_marineengineering.xml" qualifiers="" type="layout"/><file name="activity_mbbs" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_mbbs.xml" qualifiers="" type="layout"/><file name="activity_mechanicalengineering" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_mechanicalengineering.xml" qualifiers="" type="layout"/><file name="activity_mettalurgyengineering" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_mettalurgyengineering.xml" qualifiers="" type="layout"/><file name="activity_petroleumengineering" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_petroleumengineering.xml" qualifiers="" type="layout"/><file name="activity_pharmacycourseafter12" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_pharmacycourseafter12.xml" qualifiers="" type="layout"/><file name="activity_plasticengineer" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_plasticengineer.xml" qualifiers="" type="layout"/><file name="activity_sciencecourseafter12" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_sciencecourseafter12.xml" qualifiers="" type="layout"/><file name="activity_spacetechnologist" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_spacetechnologist.xml" qualifiers="" type="layout"/><file name="activity_textileengineering" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_textileengineering.xml" qualifiers="" type="layout"/><file name="message_item" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\layout\message_item.xml" qualifiers="" type="layout"/><file name="bot" path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\main\res\drawable\bot.png" qualifiers="" type="drawable"/></source><source path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\build\generated\res\rs\debug"/><source path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\ASUS\AndroidStudioProjects\shaaks\app\src\debug\res"/></dataSet><mergedItems/></merger>

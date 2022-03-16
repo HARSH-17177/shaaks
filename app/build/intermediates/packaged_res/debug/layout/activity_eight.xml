@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_1"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".Eight">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        app:cardCornerRadius="10sp"
+        app:cardElevation="15sp"
+        android:layout_marginTop="40sp"
+        android:layout_marginLeft="20sp"
+        android:layout_marginRight="20sp"
+        android:layout_marginBottom="20sp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16sp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_username"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Select your boards"
+                android:textColor="#363A43"
+                android:layout_margin="10sp"
+                android:padding="10sp"
+                android:textSize="24sp"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                />
+
+            <TextView
+                android:id="@+id/tv_option1_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                android:text="Science"
+                android:background="@drawable/default_background_for_text"
+                android:textColor="#7A8089"
+                android:elevation="5sp"
+                android:layout_margin="10sp"
+                android:padding="12sp"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:id="@+id/tv_option1_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                android:elevation="5sp"
+                android:padding="12sp"
+
+                android:layout_margin="10sp"
+                android:background="@drawable/default_background_for_text"
+                android:text="Commerce"
+                android:textColor="#7A8089"
+
+                android:textSize="20sp"
+                />
+            <TextView
+                android:id="@+id/tv_option1_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                android:elevation="5sp"
+                android:padding="12sp"
+
+                android:layout_margin="10sp"
+                android:background="@drawable/default_background_for_text"
+                android:text="Arts/Humanities"
+                android:textColor="#7A8089"
+                android:textSize="20sp"
+                />
+
+            <TextView
+                android:id="@+id/tv_option1_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                android:elevation="5sp"
+                android:padding="12sp"
+
+                android:layout_margin="10sp"
+                android:background="@drawable/default_background_for_text"
+                android:text="ITI"
+                android:textColor="#7A8089"
+                android:textSize="20sp"
+                />
+
+            <TextView
+                android:id="@+id/tv_option1_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                android:elevation="5sp"
+                android:padding="12sp"
+
+                android:layout_margin="10sp"
+                android:background="@drawable/default_background_for_text"
+                android:text="Short time course"
+                android:textColor="#7A8089"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:id="@+id/tv_option1_6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                android:elevation="5sp"
+                android:padding="12sp"
+
+                android:layout_margin="10sp"
+                android:background="@drawable/default_background_for_text"
+                android:text="Other Vocational"
+                android:textColor="#7A8089"
+                android:textSize="20sp"
+                />
+
+            <TextView
+                android:id="@+id/tv_option1_7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                android:elevation="5sp"
+                android:padding="12sp"
+
+                android:layout_margin="10sp"
+                android:background="@drawable/default_background_for_text"
+                android:text="Diploma Vocational"
+                android:textColor="#7A8089"
+                android:textSize="20sp"
+                />
+
+            <TextView
+                android:id="@+id/tv_option1_8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                android:elevation="5sp"
+                android:padding="12sp"
+
+                android:layout_margin="10sp"
+                android:background="@drawable/default_background_for_text"
+                android:text="Jobs with 10th"
+                android:textColor="#7A8089"
+                android:textSize="20sp"
+                />
+
+
+            <Button
+                android:id="@+id/btn_next1_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Next"
+                android:textSize="18sp"
+                android:padding="5sp"
+                android:layout_marginTop="20sp"
+                android:layout_marginRight="10sp"
+                android:layout_marginLeft="10sp"
+                android:layout_marginBottom="40sp"
+                android:background="@drawable/mybutton"
+                />
+
+
+
+        </LinearLayout>
+
+
+    </androidx.cardview.widget.CardView>
+
+</ScrollView>

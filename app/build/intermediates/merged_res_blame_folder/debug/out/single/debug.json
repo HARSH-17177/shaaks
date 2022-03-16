@@ -1,0 +1,522 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_giff.gif.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable-v24\\giff.gif"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_electricalengineer.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\electricalengineer.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_round5.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\round5.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_spacetechnologist.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_spacetechnologist.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_eight.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_eight.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_pcb.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_pcb.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_spacetechnologist.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\spacetechnologist.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_shorttermcourse.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_shorttermcourse.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_biomedical.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\biomedical.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_creativecoursecommerce.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_creativecoursecommerce.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_vocation.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\vocation.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_round.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_selection.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_mechanicalengineering.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_mechanicalengineering.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_automobile_eng.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_automobile_eng.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_proffesionalcoursecomerrce.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_proffesionalcoursecomerrce.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_sciencecourse.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\sciencecourse.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_broadcastengineer.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_broadcastengineer.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_marineengineering.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_marineengineering.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_diploma.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\diploma.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_gi.gif.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable-v24\\gi.gif"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_petroleumengineering.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_petroleumengineering.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_diploma.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\diploma.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_science.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_science.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_geneticengineering.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_geneticengineering.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_agricultengg.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\agricultengg.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_bnys.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_bnys.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_aeronautical.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_aeronautical.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_round4.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\round4.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_biotechnologist.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\biotechnologist.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_civileng.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_civileng.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_textileengineering.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_textileengineering.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_bot.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_bot.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_communicationalengineering.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_communicationalengineering.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_vocational.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\vocational.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_textile.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\textile.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_cag.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\cag.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_biotechnologist.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_biotechnologist.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_communicational.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\communicational.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_facebook.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_gradient_1.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\gradient_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_agricultureengg.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_agricultureengg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_plastic.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\plastic.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_broadcast.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\broadcast.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_marineengineering.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\marineengineering.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_electricalengineer.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_electricalengineer.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_vocational.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_vocational.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_img.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable-v24\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_default_background_for_text.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable-v24\\default_background_for_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\font_roboto.ttf.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\font\\roboto.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_metallurgical.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\metallurgical.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_industrial.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\industrial.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_barchetecture.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_barchetecture.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_petroleumengineering.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\petroleumengineering.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_bot.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\bot.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_arts.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_arts.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_automobile.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\automobile.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_civil.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\civil.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_pharmacycourseafter12.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_pharmacycourseafter12.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_commerce.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_commerce.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_commercewithmath.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_commercewithmath.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_message_item.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\message_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_environmentalengineer.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\environmentalengineer.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_selected_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable-v24\\selected_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_round2.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\round2.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_environmentalengineer.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_environmentalengineer.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_pcmb.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_pcmb.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_pharmacycourseafter12.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\pharmacycourseafter12.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_chatbot.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_chatbot.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_computer.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\computer.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_barch.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\barch.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_aero.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\aero.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_mybutton.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\mybutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_geneticengineering.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\geneticengineering.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_pcm.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_pcm.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_plasticengineer.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_plasticengineer.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_iti.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\iti.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_gradient_2.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\gradient_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_industrialengineer.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_industrialengineer.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_chemicalengineer.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\chemicalengineer.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_diplomacoursecommerce.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_diplomacoursecommerce.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_shorttermcourse.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\shorttermcourse.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_biomedicaengineering.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_biomedicaengineering.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_engineering_as_acarrer.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_engineering_as_acarrer.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_bmlt.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_bmlt.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_othercourse.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\othercourse.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_sciencecourseafter12.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_sciencecourseafter12.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_engineering.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_engineering.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_mettalurgyengineering.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_mettalurgyengineering.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_google.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_managementcoursecommerce.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_managementcoursecommerce.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_eleven.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_eleven.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_bpth.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_bpth.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_windows.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\windows.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_commerce_without_maths.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_commerce_without_maths.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_bestcoursecommerce.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_bestcoursecommerce.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_dental.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\dental.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_computerscience.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_computerscience.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_mechanical.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\mechanical.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_round3.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\round3.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_iti.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\iti.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_mbbs.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_mbbs.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_bds.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_bds.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\drawable_back.jpg.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\drawable\\back.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_chemicalengineering.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\shaaks\\app\\src\\main\\res\\layout\\activity_chemicalengineering.xml"
+    }
+]

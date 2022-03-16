@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/drawable-v24/default_background_for_text.xml" value="0.2135" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/drawable-v24/selected_background.xml" value="0.2135" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/drawable/background.xml" value="0.2135" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/drawable/gradient_1.xml" value="0.165" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/drawable/gradient_2.xml" value="0.165" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/drawable/mybutton.xml" value="0.165" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/drawable/round2.xml" value="0.2135" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_aeronautical.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_arts.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_barchetecture.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_bds.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_bestcoursecommerce.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_biomedicaengineering.xml" value="0.2359375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_biotechnologist.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_bmlt.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_bnys.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_bot.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_bpth.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_broadcastengineer.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_cbse.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_chatbot.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_chemicalengineering.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_commerce.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_commerce_without_maths.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_commercewithmath.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_communicationalengineering.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_computerscience.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_creativecoursecommerce.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_diplomacoursecommerce.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_eight.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_electricalengineer.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_eleven.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_engineering.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_engineering_as_acarrer.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_icsecommerce.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_icsescience.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_managementcoursecommerce.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_pcb.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_pcm.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_pcmb.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_proffesionalcoursecomerrce.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_science.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/activity_selection.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/diploma.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/iti.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/shorttermcourse.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/layout/vocational.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.165" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/shaaks/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.165" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
