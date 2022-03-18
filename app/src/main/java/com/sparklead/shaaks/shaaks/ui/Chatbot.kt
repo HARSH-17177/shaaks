@@ -18,14 +18,14 @@ import kotlinx.coroutines.*
 
 class chatbot : AppCompatActivity() {
     private  lateinit var adapter: MessagingAdapter
-    private val botList= listOf("Harsh","Aditya","Kuber","Sam")
+    private val botList= listOf("Harsh","Aditya","Kuber","Samitha","Sarthak")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_chatbot)
         recyclerView()
         clickEvents()
-        val random = (0..3).random()
-        customMessage("Hello! Today you're speaking with ${botList[random]},how may I help ?")
+        val random = (0..4).random()
+        customMessage("Hello! Today you're speaking with ${botList[random]}, Please enter your class?")
     }
    private fun clickEvents(){
       btn_send.setOnClickListener {

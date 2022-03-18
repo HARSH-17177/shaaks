@@ -602,92 +602,842 @@ Top Colleges to pursue career as Communication Engineer\n\n
 • Lovely Professional University, Phagwara\n
 
 • Indian Institute of Science, Bengaluru\n • Galgotias University,Greater Noida\n</string>
-    <string name="commercewithmath">1. BCom (Bachelor of Commerce)\n
-2. BBA (Bachelor of Business Administration)\n
-3. Law (LLB)\n
-4. BMS [Bachelor of Management Studies]\n
-5. Journalism / Mass Communication\n
-6. Bachelor of Foreign Trade\n
-7. Company Secretary\n
-8. Retail Management\n
-9. BA (Bachelor of Arts)\n
-10. Bachelor of Fine Arts (BFA)\n
-11. Hotel Management\n
-12. Travel and Tourism Courses\n
-13. Animation Courses\n
-14. Event Management\n
-15. Bachelor of Design (BDes)\n
-16. Accountancy Courses\n
-17. MBA [PG Course]\n</string>
-    <string name="managementcourse">BBA (Bachelor of Business Administration)\n\n
-Bachelor of Business Management\n\n
-Bachelor of Hotel Management\n\n
-Bachelor of Management Studies\n\n
-Bachelor of Event Management\n\n
-Diploma in Retail Management\n\n
-Diploma in Organization Management\n\n
-Bachelor in Fashion Merchandising\n\n
-BA in Travel and Tourism Management\n\n
-Masters of Business Management\n\n
-Masters in Management\n\n</string>
-    <string name="proffesionalcourse">BCom General\n\n
-BCom in Marketing\n\n
-Company Secretary\n\n
-Chartered Accountant\n\n
-Cost Management Accountant\n\n
-Bachelors of Business Administration\n\n
-Bachelors of Hotel Management\n\n
-Bachelor in Computer Application\n\n</string>
-    <string name="creativecourse">Bachelor of Journalism and Mass Communication\n\n
-Animation and Multimedia Courses\n\n
-BDes Fashion Designing\n\n
-BDes Interior Designing\n\n
-BDes Game Design\n\n
-Air Hostess Training Courses\n\n
-Bachelor of Event Management\n\n
-Bachelor of Vocation\n\n
-Bachelor in Photography\n\n
-Bachelor in Yoga\n\n
-Bachelor in Film making\n\n
-Bachelor of Elementary Education\n\n
-Bachelor of Elementary Education (Special Education)\n\n
-Bachelor of Fine Arts\n\n
-Bachelors of Journalism\n\n
-Jewellery Designing Courses\n\n
-Culinary Arts Courses\n\n
-Photography Courses\n\n
-Bakery and Confectionery Courses\n\n
-Performing Arts Courses\n\n</string>
-    <string name="bestcourse">BCom (Bachelors of Commerce)\n\n
-BBA (Bachelors of Business Administration)\n\n
-BMS(Bachelors of Management Studies)\n\n
-Company Secretary\n\n
-Bachelors in Travel and Tourism\n\n
-Bachelors in Hospitality\n\n
-Bachelors in Event Management\n\n
-Bachelors in Hotel Management\n\n
-Bachelor of Journalism\n\n
-BBA LLB\n\n
-BA LLB\n\n
-Bachelor of Foreign Trade\n\n
-BBS (Bachelor of Business Studies)\n\n
-BSc. Animation and Media\n\n
-Bachelor of Social Work\n\n
-Bachelor of Vocational Studies\n\n
-Bachelor of Arts\n\n
-B.A. (Hons)\n\n
-B. Ed (Bachelor of Education)\n\n
-Bachelor of Interior Designing
-    \n\n</string>
-    <string name="diplomacourse">Diploma in Elementary Education\n\n
-Diploma in Event Management\n\n
-Diploma in Interior Designing\n\n
-Diploma in Fashion Designing\n\n
-Diploma in Hotel Management\n\n
-Diploma in Music\n\n
-Diploma in Education\n\n
-Diploma in Photography\n\n
-Diploma in Front Office Operations\n\n</string>
+    <string name="commercewithmath">1. <b>BCom (Bachelor of Commerce)</b>\n\n
+        BCom or Bachelor of Commerce course is a three-year UG degree course recognised by the Universities Grants Commission (UGC). Along with the full-time delivery mode, one can also pursue Distance BCom or Online BCom course. BCom is one of the most popular courses amongst the Class 12 graduates with the Commerce stream.\n\n
+
+        <b>Top B.Com Degree Colleges in India :</b>\n\n
+* Loyola College, Chennai.\n
+* Symbiosis College of Arts and Commerce, Pune.\n
+* Mount Carmel College, Bangalore.\n
+* Presidency College, Chennai. \n
+* St Xaviers College, Ahmedabad.\n
+* DU SOL - School of Open Learning, University of Delhi.\n
+* PSG College of Arts and Science, Coimbatore.\n\n
+
+2.<b>(Bachelor of Business Administration)</b> \n\n
+     BBA is a three-year professional undergraduate course in Business Management. It is open to students from all three streams i.e., Science, Arts and Commerce. The BBA course offers knowledge and training in management and leadership skills to prepare them for managerial roles and entrepreneurship.\n\n
+
+        <b>Top BBA colleges :</b>\n\n
+* Shaheed Sukhdev College of Business Studies, New Delhi\n
+* SVKMs NMIMS Anil Surendra Modi School of Commerce, Mumbai\n
+* Loyola College (Autonomous), Chennai\n
+* Department of Management Studies, Christ (Deemed to Be University), Bengaluru\n\n
+
+3. <b>Law (LLB)</b>\n\n
+        The full form of LLB is Legum Baccalaureus popularly known as Bachelor of Law. LLB is a three-year law degree course pursued after completion of graduation. LLB course is offered by many prominent law colleges as per the guidelines mandated by the Bar Council of India (BCI).\n\n
+
+* National Law School of India University, Bengaluru\n
+* National Law University, Delhi\n
+* NALSAR University of Law, Hyderabad\n
+* Indian Institute of Technology, Kharagpur\n
+
+4.<b> BMS [Bachelor of Management Studies]</b>\n\n
+
+Bachelor of Management Studies or BMS is an undergraduate program for management studies offered by many universities throughout the world. The course allows you to obtain the knowledge and skills needed to assume management positions in a wide range of organizations.\n\n
+
+        <b>Top Colleges :</b>\n\n
+
+* Jamia Hamdard, New Delhi.\n
+* Shaheed Sukhdev College of Business Studies, Delhi.\n
+* Wilson College, Mumbai.\n
+* GITAM HBS Hyderabad - GITAM Hyderabad Business School.\n
+* HR College of Commerce and Economics, Mumbai.\n
+* KJ Somaiya College of Science and Commerce, Mumbai\n\n
+
+
+5.<b> Journalism / Mass Communication</b>\n\n
+
+Journalism is the activity of gathering, assessing, creating, and presenting news and information. It is also the product of these activities. Journalism can be distinguished from other activities and products by certain identifiable characteristics and practices.\n\n
+
+        <b>Top Colleges :</b>b>\n\n
+*Indian Institute Of Journalism And New Media, Bangalore. \n
+*Symbiosis Institute Of Media And Communication, Pune.\n
+* Lady Shri Ram College For Women, New Delhi.\n
+* Christ College, Bangalore.\n
+* School Of Communication, Manipal.\n
+* Delhi College Of Arts And Commerce, New Delhi.\n
+
+6.<b> Bachelor of Foreign Trade</b> \n\n
+
+Bachelor of Foreign Trade or BFT is an Undergraduate course in Foreign Trade Management. Those who pursue this programme learn a great deal about the movement of services, goods and capital across International territories and borders.\n\n
+
+<b>Top Colleges :</b>\n\n
+
+* Christian Eminent College, Indore\n
+* Prestige Institute of Management andResearch, Indore\n
+* AP Goyal Shimla University, Shimla\n
+* University of Petroleum and Energy Studies, Dehradun\n\n
+
+7.<b>Company Secretary</b> \n\n
+
+The CS (Company Secretary) is a 3 years professional course equivalent to the UG degree. The CS course is conducted by the ICSE (Institute of Company Secretaries of India). The CS course is divided into three levels as the following: Foundation Course – 8 months.\n\n
+
+        <b>Top Colleges :</b>\n\n
+* ICSI Delhi - Institute of Company Secretaries of India,Delhi\n
+* Navkar Institute,Ahmedabad\n
+* Elite IIT,Bengaluru\n
+* Shiksha Guru,Delhi\n\n
+
+8.<b>Retail Management</b> \n\n
+
+Retail management is a sub-discipline of the general field of management that deals with overseeing the distribution and selling of products directly to consumers, in specific vending points such as shops, chain stores, markets and malls.\n\n
+
+        <b>Top Colleges :</b>\n\n
+* Welingkar Mumbai - Prin LN Welingkar Institute of Management Development and Research.\n
+* IISWBM Kolkata - Indian Institute of Social Welfare and Business Management. \n
+* ITM Navi Mumbai - ITM Business School.\n
+*BK School of Business Management, Gujarat University, Ahmedabad.\n\n
+
+9.<b>BA (Bachelor of Arts)</b> \n\n
+        A Bachelor of Arts is an undergraduate degree encompassing specializations in different areas of study ranging from Humanities to Science. The course is readily available in universities abroad with multiple areas of study.\n
+A Bachelor of Fine Arts (BFA) is a standard undergraduate degree for students for pursuing a professional education in the visual, fine or performing arts. It is also called Bachelor of Visual Arts (BVA) in some cases.\n
+
+        <b>Top Colleges:</b>\n\n
+* Ramjas College, Delhi.\n
+* Symbiosis College of Arts and Commerce, Pune.\n
+* Daulat Ram College, Delhi.\n
+* Lady Shri Ram College for Women, Delhi.\n
+* Indraprastha College for Women, Delhi.\n
+* Womens Christian College, Chennai.\n
+* Hansraj College, Delhi.\n
+* Christ University, Bangalore\n\n
+
+10.<b>Bachelor of Fine Arts (BFA)</b> \n\n
+BFA or Bachelor of Fine Arts is an undergraduate degree course which deals with the study of Visual or Performing Arts. The course is sometimes also referred to as Bachelor of Visual Arts (BVA) in which the study of Visual Arts includes subjects such as painting, sculpture, photography, literature, animation, etc.\n\n
+Top Colleges:\n\n
+*Ramnarain Ruia College of Science and Arts\n
+*Jai Hind College\n
+*K. C College\n
+*Bhavans College\n
+*D.G. Ruparel College of Arts ,Science and Arts\n
+*H.R. College of Commerce\n
+
+11.<b>Hotel Management</b> \n\n
+        Hotel management involves the management of anything that’s related to the hotel industry. If you want to gain a foothold in this business, you will need to learn about all the techniques of managing a hotel business including marketing, hotel administration, catering management, housekeeping, and accounts. The primary goal behind learning the ins and outs of hotel management is to run a hotel successfully while managing the other aspects of the business at the same time.\n\n
+
+        <b>Top Colleges :</b>\n\n
+* Institute of Hotel Management, Catering and Nutrition, PUSA New Delh\n	 *Welcomgroup Graduate School of Hotel Administration, Manipal\n
+* Institute of Hotel Management, Catering Technology and Applied Nutrition, Mumbai\n\n
+
+
+12.<b>Travel and Tourism Courses</b> \n\n
+        Travel and Tourism field involves hospitality management, tour management, travel management etc. It has endless job opportunities in India as large number of heritage, cultural and other tourists throng the country every year.\n\n
+
+        <b>Top Colleges : </b>\n\n
+* University Institute of Hotel Management and Tourism, Punjab University, Chandigarh. \n
+* Maharashtra State Institute of Hotel Management and Catering Technology, Pune. \n
+* IGNOU Delhi - Indira Gandhi National Open University. \n
+* JMI New Delhi - Jamia Millia Islamia.\n\n
+
+13.<b>Animation Courses</b> \n\n
+It is the use of art and technology to bring images to life, by implementing design and computer software. Animation is the technique of using successive drawings or other art to simulate movement.\n\n
+
+        <b>Top colleges :</b>\n\n
+* NID Ahmedabad - National Institute of Design.\n
+* MIT Institute of Design, Pune.\n
+* IDC IIT Bombay - Industrial Design Centre, Indian Institute of Technology.\n *INSD PUNE - International School of Design.\n
+* UID Ahmedabad - Unitedworld Institute of Design.\n
+* Vishwakarma University, Pune.\n\n
+
+
+14.<b>Event Management</b> \n\n
+        Event management is the application of project management to the creation and development of small and/or large-scale personal or corporate events such as festivals, conferences, ceremonies, weddings, formal parties, concerts, or conventions.\n\n
+        <b>Top Colleges:</b>\n\n
+* Amity School of Communication\n
+* Xavier Institute of Communications\n
+* National Institute of Event Management\n
+* Apeejay Institute of Mass Communication\n
+* NAEMD Institute\n\n
+
+15.<b>Bachelor of Design (BDes)</b> \n\n
+        Bachelor of Design (BDes) or BDesign is an established degree in design field at undergraduate level. B. Des degree is a full-time four-year course offered in various specialisations such as Fashion Designing, Interior Designing, Accessory Designing, Textile Designing and much more.\n\n
+
+        <b>Top Colleges :</b>\n\n
+* National Institute of Design (NID), Ahmedabad. \n
+* Industrial Design Centre, IIT Bombay (IDC-IITB) .\n
+* National Institute of Fashion Technology (NIFT), Mumbai.\n
+* National Institute of Fashion Technology (NIFT), Delhi.\n
+* Pearl Academy, Mumbai.\n
+* National Institute of Design (NID), Gandhinagar.\n\n
+
+16.<b>Accountancy Courses</b> \n\n
+        Accountancy is the practice of recording, classifying, and reporting on business transactions for a business. It provides feedback to management regarding the financial results and status of an organization.\n\n
+
+        <b>Top Colleges :</b>\n\n
+* Shri Ram College of Commerce, New Delhi.\n
+* Lady Shri Ram College for Women, New Delhi.\n
+* St. Josephs College of Commerce, Bangalore.\n
+*Gargi College, New Delhi.\n\n
+
+17.<b>MBA [PG Course]</b> \n\n
+    MBA stands for Master of Business Administration. MBA course is a globally recognized postgraduate program focusing on management, marketing, and business. MBA duration is 2 years. Full-time MBA is the most popular Type of MBA followed by distance MBA (1 - 2 years), Executive MBA (1 year), and Online MBA (1 - 4 years).\n\n
+
+        <b>Top Colleges:</b>\n\n
+    * IIM Ahmedabad\n
+    * IIM Bangalore\n
+    * IIM Calcutta\n
+    * IIM Kozhikode\n\n
+</string>
+
+    <string name="managementcourse"><b>BBA (Bachelor of Business Administration)</b>\n\n
+        BBA is a three-year professional undergraduate course in Business Management. It is open to students from all three streams i.e., Science, Arts and Commerce. The BBA course offers knowledge and training in management and leadership skills to prepare them for managerial roles and entrepreneurship.\n\n
+
+        Top BBA colleges :\n\n
+* Shaheed Sukhdev College of Business Studies, New Delhi\n
+* SVKMs NMIMS Anil Surendra Modi School of Commerce, Mumbai\n
+* Loyola College (Autonomous), Chennai\n
+* Department of Management Studies, Christ (Deemed to Be University), Bengaluru\n\n
+
+        <b>Bachelor of Business Management</b>\n\n
+        Bachelor of Business Management (BBM), sometimes known as a Bachelor of Management Studies, is an undergraduate program of four years. The BBM degree is designed to teach students the skills necessary to perform leadership roles in the business and corporate world.\n\n
+
+Top Colleges :\n\n
+* Indian Institute of Technology, Delhi\n
+* Management Development Institute, Gurgaon\n
+* Presidency College\n
+* Kristu Jayanthi College\n\n
+
+
+<b>Bachelor of Hotel Management</b>\n\n
+Hotel management involves the management of anything that’s related to the hotel industry. If you want to gain a foothold in this business, you will need to learn about all the techniques of managing a hotel business including marketing, hotel administration, catering management, housekeeping, and accounts. The primary goal behind learning the ins and outs of hotel management is to run a hotel successfully while managing the other aspects of the business at the same time.\n\n
+
+Top Colleges :\n\n
+* Institute of Hotel Management, Catering and Nutrition, PUSA New Delhi\n	 *Welcome group Graduate School of Hotel Administration, Manipal\n
+* Institute of Hotel Management, Catering Technology and Applied Nutrition, Mumbai\n\n
+
+<b>Bachelor of Management Studies</b>\n\n
+Bachelor  in Management Studies (MMS) is a postgraduate course of 2-years which consists of a total of 4 semesters and is pursued by those candidates who wish to develop their career in the field of Management. The course syllabus imparts knowledge of various management fields such as Financial Accounting, Business Ethics and Statistics, Operations Management, etc.\n\n
+Top Colleges :\n\n
+*Indian Institute of Management,Bangalore\n
+*Faculty of Management Studies\n
+*University of Delhi\n
+*Indian School of Business (ISB),Hyderabad\n
+*IIFT,Delhi\n\n
+
+<b>Bachelor of Event Management</b>\n\n
+Event management is the application of project management to the creation and development of small and/or large-scale personal or corporate events such as festivals, conferences, ceremonies, weddings, formal parties, concerts, or conventions.\n\n
+Top Colleges:\n\n
+* Amity School of Communication\n
+* Xavier Institute of Communications\n
+* National Institute of Event Management\n
+* Apeejay Institute of Mass Communication\n
+* NAEMD Institute\n\n
+
+<b>Diploma in Retail Management</b>\n\n
+Diploma in Retail Management is a one-year diploma course that specializes in Retail Management. The students pursuing the Diploma in Retail Management course have many job opportunities such as Retail, Management, Sales, etc. They can work in both the private and public sectors of various reputed organizations in India and abroad.\n\n
+
+Top Colleges :\n\n
+* Mumbai University - [MU] .\n
+* Mulund College of Commerce. \n
+* Gaya College.\n
+* Arya Post Graduate College.\n
+* Prestige Institute of Management and Research - [PIMR].\n
+* Khalsa College.\n
+* Institute for Excellence in Higher Education - [IEHE] .\n
+* Aryabhatta Knowledge University - [AKU]\n\n
+
+<b>Diploma in Organization Management</b>\n\n
+This is an introductory course designed to help you develop an understanding and awareness of the essentials of managing and of the way organizations behave.\n\n
+Top Colleges :\n\n
+* Symbiosis International University, Pune\n
+* WLCI School of Fashion, Pune\n
+* ITM Business School, Mumbai\n
+* Indian School of Business Management and Administration, Hyderabad\n
+* GD Goenka University, Gurgaon\n
+* School of Inspired Leadership, Gurgaon\n\n
+
+<b>Bachelor in Fashion Merchandising</b>\n\n
+B.A (Fashion Merchandising and Production) or Bachelor of Arts in Fashion Merchandising and Production is an Under-Graduate course. The Under-Graduate Bachelor of Arts three-year programme offers students a unique opportunity to explore the relationship between innovative design and contemporary technology concepts. The students will study the processes involved in the production of various fashion garments as these are the basic requisites for any successful Merchandiser.\n\n
+
+Top Colleges :\n\n
+* Academy of Art and Design.\n
+*Aonline Training.\n
+*Fashion Art Design FAD International.\n
+*FDDI (Footwear Design and Development Institute)\n
+*FE Institute Of Art and Design.\n
+*GLAAMOUR School of Fashion and Interiors.\n
+*IITC.\n
+*International Institute of Fashion Design.\n\n
+
+
+<b>BA in Travel and Tourism Management</b>\n\n
+BACHELOR OF SCIENCE IN TOURISM MANAGEMENT is a four-year degree program related to the fields of hospitality and tourism education. It provides students the opportunity to become directly involved in managing and planning the worlds biggest people industry – tourism.\n\n
+
+Top Colleges :\n\n
+*University Institute of Hotel Management and Tourism, Punjab University, Chandigarh.\n
+*Maharashtra State Institute of Hotel Management and Catering Technology, Pune. \n
+*IGNOU Delhi - Indira Gandhi National Open University.\n
+*JMI New Delhi - Jamia Millia Islamia.\n
+
+
+<b>Masters of Business Management</b>\n\n
+A Master in Management, or MIM, is a postgraduate programme that provides advanced general management knowledge for Business Bachelors graduates, whether they have studied Business before or not. You will graduate a MIM programme with either a Master of Science (M.Sc) or a Master of Arts (M.A.) degree.\n\n
+ Top Colleges :\n\n
+* IFIM Business School.\n
+*Indian Institute of Management, Ahmedabad (IIMA)\n
+*Indian School of Business (ISB) \n
+*Indian Institute of Management Bangalore (IIMB)\n
+*Indian Institute of Management, Udaipur (IIMU) \n
+*Indian Institute of Management, Indore (IIMI)\n
+*Indian Institute of Management, Calcutta (IIMC)\n
+
+<b>Masters in Management</b>\n\n
+A Master in Management, or MIM, is a postgraduate programme that provides advanced general management knowledge for Business Bachelors graduates, whether they have studied Business before or not. You will graduate a MIM programme with either a Master of Science (M.Sc) or a Master of Arts (M.A.) degree.\n\n
+ Top Colleges :\n\n
+* IFIM Business School.\n
+*Indian Institute of Management, Ahmedabad (IIMA)\n
+*Indian School of Business (ISB) \n
+*Indian Institute of Management Bangalore (IIMB)\n
+*Indian Institute of Management, Udaipur (IIMU) \n
+*Indian Institute of Management, Indore (IIMI)\n
+*Indian Institute of Management, Calcutta (IIMC)\n
+    </string>
+    <string name="proffesionalcourse"><b>BCom General</b>\n\n
+        * BCom is a 3-year Undergraduate program that focuses on subjects related to commerce, Economics, Business Law, Accountancy, Taxation and finance. BCom full-form is Bachelor of Commerce. The BCom course is available in 3 categories which are BCom-General, BCom Honours, and BCom LLB.\n\n
+
+Top B.Com Degree Colleges in India :\n\n
+* Loyola College, Chennai.\n
+* Symbiosis College of Arts and Commerce, Pune.\n
+* Mount Carmel College, Bangalore.\n
+* Presidency College, Chennai. \n
+* St Xaviers College, Ahmedabad.\n
+* DU SOL - School of Open Learning, University of Delhi.\n
+* PSG College of Arts and Science, Coimbatore.\n\n
+
+
+        <b>BCom in Marketing</b>\n\n
+B.Com Marketing is a three-year course. Eligibility for the course is HSC with 45 % aggregate marks.This is a three-year full-time program, spread over five semesters of teaching and final semester of training based on their choice of the streams.\n\n
+Top Colleges :\n\n
+* Loyola College, Chennai.\n
+* Symbiosis College of Arts and Commerce, Pune.\n
+* Mount Carmel College, Bangalore. \n
+* Presidency College, Chennai. \n
+* St Xaviers College, Ahmedabad.\n
+* DU SOL - School of Open Learning, University of Delhi. \n
+* PSG College of Arts and Science, Coimbatore.\n\n
+
+        <b>Company Secretary</b>\n\n
+The CS (Company Secretary) is a 3 years professional course equivalent to the UG degree. The CS course is conducted by the ICSE (Institute of Company Secretaries of India). The CS course is divided into three levels as the following: Foundation Course – 8 months.\n\n
+
+Top Colleges :\n\n
+* ICSI Delhi - Institute of Company Secretaries of India,Delhi\n
+* Navkar Institute,Ahmedabad\n
+* Elite IIT,Bengaluru\n
+* Shiksha Guru,Delhi\n\n
+
+
+        <b>Chartered Accountant</b>\n\n
+Chartered Accountancy or commonly known as CA, is a professional course that equips one with technical knowledge to manage finance, accounting and taxation for an organisation or any business entity.\n\n
+Top Colleges:\n\n
+* Deshbhakt Ratnappa Kumbhar College of Commerce\n
+* Jain Coaching Centre\n
+* ETEN CA\n\n
+
+        <b>Cost Management Accountant</b>\n\n
+        Cost management accounting is a form of accounting that aims to improve a companys profitability by managing, controlling and eliminating expenses.  Cost and management accounting provides data and analyses reports that can be used by managers to make decisions that will lead to long term profits and growth.\n\n
+Top Colleges :\n\n
+*Indian Institute of Technology Bombay (IITB),Mumbai\n
+*Indian Institute of Science (IISC) Bangalore\n
+*Indian Institute of Technology Delhi (IITD)\n\n
+
+
+        <b>Bachelors of Business Administration</b>\n\n
+        The Bachelor of Business Administration (BBA) is a bachelors degree in business administration. In the United States, the degree is conferred after four years of full-time study in one or more areas of business concentrations.\n\n
+Top Colleges:\n\n
+* MIMS Anil Surendra Modi School of Commerce – Mumbai\n
+* Christ University – Bengaluru\n
+* Mount Carmel College – Bengaluru\n
+* Symbiosis Institute of Computer Studies and Research – Pune\n
+*  Shaheed Sukhdev College of Business Studies (SSCBS) – Delhi\n
+*  Madras Christian \n\n
+
+
+        <b>Bachelors of Hotel Management</b>\n\n
+        Hotel management involves the management of anything that’s related to the hotel industry. If you want to gain a foothold in this business, you will need to learn about all the techniques of managing a hotel business including marketing, hotel administration, catering management, housekeeping, and accounts. The primary goal behind learning the ins and outs of hotel management is to run a hotel successfully while managing the other aspects of the business at the same time.\n\n
+
+Top Colleges :\n\n
+* Institute of Hotel Management, Catering and Nutrition, PUSA New Delhi	 *Welcome group Graduate School of Hotel Administration, Manipal\n
+* Institute of Hotel Management, Catering Technology and Applied Nutrition, Mumbai\n\n
+
+
+        <b>Bachelor in Computer Application</b>\n\n
+        Bachelor of Computer Applications (BCA) is a three-year undergraduate degree course in computer applications. Bachelor of Computer Applications (BCA) is one of the popular courses among the students who want to jumpstart their career in the field of information technology.\n\n
+Top Colleges:\n\n
+*Deshbhakt Ratnappa Kumbhar College of Commerce\n
+*Jain Coaching Centre\n
+*ETEN CA\n
+
+
+    </string>
+    <string name="creativecourse"><b>Bachelor of Journalism and Mass Communication</b>\n\n
+        Bachelor of Journalism and Mass Communication (BJMC) is an undergraduate program that provides aspirants with knowledge about various journalistic skills in mass media such as newspapers, television, radio, internet etc. It also informs students about various technology, equipment and software involved in mass media.\n\n
+Top Colleges :\n\n
+*Symbiosis Institute of Media and Communication.\n
+*AJ Kidwai MCRC, JMI.\n
+*Indian Institute of Mass Communication, New Delhi.\n
+*Xavier Institute of Communication, Mumbai.\n
+*Lady Shri Ram College for Women, New Delhi.\n\n
+
+        <b>Animation and Multimedia Courses</b>\n\n
+BSc Animation and Multimedia course involves the advanced study of graphics, special visual effects, sound effects, software technologies that helps the students to learn how to transform reality into virtual imagination.\n\n
+Top Colleges :\n\n
+*IIFA Multimedia, Bengaluru.\n
+*FX School, Mumbai.\n
+*Picasso Animation College, Bangalore.\n
+*Toonz Academy, Thiruvananthapuram.\n
+*Zee Institute of Creative Art (ZICA), Bangalore.\n
+*Whistling Woods International Institute (WWII), Mumbai.\n
+*Amity University, Mumbai.\n
+*MIT Institute of Design, Pune.\n\n
+
+        <b>BDes Fashion Designing</b>\n\n
+        Bachelor of Design in Fashion Design (BDes Fashion Design) is one of the most popular undergraduate fashion designing courses.\n\n
+Top Colleges :\n\n
+*INIFD Deccan, Pune.\n
+*MIT Institute of Design, Pune.\n
+*NIFT Mumbai - National Institute of Fashion Technology.\n
+*INSD PUNE - International School of Design.\n
+*SID Pune - Symbiosis Institute of Design.\n
+*UID Ahmedabad - Unitedworld Institute of Design.\n\n
+
+        <b>BDes Interior Designing</b>\n\n
+        BDes in Interior Design deals with the art and science of understanding peoples behavior to create functional spaces within a building. It is a 4-Year under-graduation course dealing with balancing creativity with sensitive, pragmatic design thinking.\n\n
+Top Colleges:\n\n
+*NID Ahmedabad.\n
+*CEPT University, Gujarat.\n
+*Arch Academy of Design, Jaipur.\n
+*JJ School of Arts.\n
+*College of Architecture.\n
+*Exterior Interiors Pvt Ltd.\n
+*Pearl Academy.\n
+*Vogue Institute of Fashion Technology.\n\n
+
+        <b>BDes Game Design</b>\n\n
+        Bachelor of Design (B. Des.) Video Game Design is a 4-year full-time undergraduate course.\n\n
+Top Colleges:\n\n
+*Tilak Maharashtra Vidyapeeth, Pune\n
+*Presidency University, Bangalore\n
+*Chitkara University Chandigarh	\n
+*Whistling Woods International, Mumbai\n
+*Jain University, Bangalore	\n
+*Vels University\n\n
+
+        <b>Air Hostess Training Courses</b>\n\n
+        The courses leading to the air hostess and flight steward are the programmes under the Aviation and Hospitality Management. Air hostess is also known as the Flight attendants or cabin crew, stewards/stewardesses or cabin attendants. \n\n
+Top Colleges:\n\n
+*Air Hostess Academy (AHA), Bangalore.\n
+*Frankfinn Institute of Air Hostess Training, Mumbai.\n
+*Air Hostess Academy (AHA), Chandigarh.\n
+*Air Hostess Academy (AHA), Delhi.\n
+*Rajiv Gandhi Memorial College of Aeronautics, Jaipur.\n
+*Universal Aviation Academy, Chennai.\n
+*Jet Airways Training Academy, Mumbai.\n\n
+
+
+<b>Bachelor of Event Management</b>\n\n
+        Event management is the application of project management to the creation and development of small and/or large-scale personal or corporate events such as festivals, conferences, ceremonies, weddings, formal parties, concerts, or conventions.\n\n
+Top Colleges:\n\n
+* Amity School of Communication\n
+* Xavier Institute of Communications\n
+* National Institute of Event Management\n
+* Apeejay Institute of Mass Communication\n
+* NAEMD Institute\n\n
+
+        <b>Bachelor of Vocation</b>\n\n
+        Bachelor of Vocation (B. Voc, BVE or BVEd) is a specialized undergraduate bachelors degree which qualifies the graduate as a vocational teacher in public schools or trainer for private companies.\n\n
+Top Colleges:\n\n
+*Devi Ahilya Bai University, Indore.\n
+*Assam University, Silchar. \n
+*Jiwaji University, Gwalior. \n
+*Jamia Millia Islamia University, New Delhi.\n
+*Patna University, Patna. \n
+*Mount Carmel College, [MCC] Bangalore.\n
+*DAV College, Chandigarh. Chandigarh, Punjab.\n
+*Stella Maris College, Chennai. Chennai, Tamil Nadu.\n\n
+
+        <b>Bachelor in Photography</b>\n\n
+        Bachelor of Photography programs combine academics with real photography experience, provided by qualified and established professionals in the field. With a Bachelor of Photography program, coursework options teach skills through studio work as well as design theory, history, and cultural studies.\n\n
+Top Colleges:\n\n
+*Delhi College of Photography.\n
+*Creative Hut Institute of Photography.\n
+*Light and Life Academy. \n
+*Jawaharlal Nehru Architecture and Fine Arts University, Hyderabad.\n
+*AJ Kidwai Mass Communication Research Center. \n
+*Asian Academy of Film and Television. \n
+*Osmania University.\n\n
+
+
+<b>Bachelor in Yoga</b>\n\n
+       Bachelor of Science in Yoga or B.Sc in Yoga is a three-year undergraduate course offering a mixture of yoga and management skills.\n\n
+Top Colleges :\n\n
+*SRM University Chennai - SRM Institute of Science and Technology.\n
+*GGSIPU Delhi - Guru Gobind Singh Indraprastha University. \n
+*UNIPUNE (Pune University) - Savitribai Phule Pune University.\n
+*Chandigarh University, Chandigarh. \n
+*MIT-WPU Pune - Dr Vishwanath Karad MIT World Peace University.\n\n
+
+        <b>Bachelor in Film making</b>\n\n
+        B.A. (Hons) Film Making is a three year degree course for individuals who wish to pursue their passion of film making into a career. This fruitful course is specially designed with various elective specializations where students can master their desired technical skills along with theories and practical knowledge.\n\n
+Top Colleges:\n\n
+*Film and Television Institute of India (FTII), Pune,Maharashtra\n
+*Satyajit Ray Films and Television Institute, Kolkata\n
+*National Institute of Design,West Bengal\n\n
+
+        <b>Bachelor of Elementary Education</b>\n\n
+        Bachelor of Elementary Education is a 4-year professional degree course that offers training in elementary education. In the first 3 years of the course, candidates study a combination of theory and practicals. Whereas in the last year of the course they teach directly in school, as a part of their training.\n\n
+Top Colleges:\n\n
+*Aditi Mahavidyalaya, Delhi.\n
+*Gargi College, Delhi. \n
+*Lady Shriram College for Women, New Delhi.\n
+*Miranda House, Delhi. \n
+*Jesus and Mary College, Delhi.\n
+*Shyama Prasad Mukherji College For Women, New Delhi.\n
+*GSRM Memorial PG College, Lucknow.\n\n
+
+
+
+<b>Bachelor of Fine Arts</b>\n\n
+        BFA or Bachelor of Fine Arts is an undergraduate degree course which deals with the study of Visual or Performing Arts. The course is sometimes also referred to as Bachelor of Visual Arts (BVA) in which the study of Visual Arts includes subjects such as painting, sculpture, photography, literature, animation, etc.\n\n
+Top Colleges:\n\n
+*Ramnarain Ruia College of Science and Arts\n
+*Jai Hind College\n
+*K. C Collegen\n
+*Bhavans College\n
+*D.G. Ruparel College of Arts ,Science and Arts\n
+*H.R. College of Commerce\n\n
+
+<b>Bachelors of Journalism</b>\n\n
+        This degree prepares students for a variety of media-related careers by teaching them about the concepts and skills used in print, broadcast, and web-based journalism. Students gain hands-on experience in researching, developing, and editing news pieces.\n\n
+Top Colleges:\n\n
+*IIMC, Delhi\n
+*AJK Mass Communication Research Centre, Delhi\n
+*Symbiosis Institute of Media and Communication (SIMC), Pune\n
+*Savitribai Phule Pune University (UNIPUNE), Pune\n\n
+
+
+<b>Jewellery Designing Courses</b>\n\n
+        Jewellery designing is a creative art that combines knowledge of conceptualising jewellery design and then manufacturing various jewellery products. Many institutes in India offer long-term, short-term and even distance learning programs in jewellery designing.\n\n
+Top Colleges:\n\n
+*Indian Institute of Gems and Jewellery\n
+*Indian Institute of Jewellery\n
+*ARCH Academy of Design\n
+*Gemmological Institute of India\n\n
+
+        <b>Culinary Arts Courses</b>\n\n
+        Culinary Arts is nothing but the art of cooking. A Culinary Arts course trains aspirants to prepare, cook as well as present food/ meals in an effective and attractive manner.\n\n
+Top Colleges:\n\n
+*Institute of Hotel Management, Pusa. Location- New Delhi.\n
+*Oberoi Centre of Learning and Development. \n
+*Institute of Hotel Management, Catering Technology and Applied Nutrition, Goa.\n
+*International Institute of Culinary Arts.\n
+*Institute of Hotel Management, Aurangabad. \n
+*WelcomGroup Graduate School of Hotel Administration.\n\n
+
+<b>Photography Courses</b>\n\n
+        Photography courses enable the candidates to understand the utility of different camera parts, working out the lights while clicking pictures and the art of taking candid shots. Other aspects that the candidates can learn from the programme are studio lighting, portrait photography and designing portfolios.\n\n
+Top Colleges:\n\n
+*Delhi College of Photography.\n
+*Creative Hut Institute of Photography.\n
+*Light and Life Academy. \n
+*Jawaharlal Nehru Architecture and Fine Arts University, Hyderabad.\n
+*AJ Kidwai Mass Communication Research Center. \n
+*Asian Academy of Film and Television. \n
+*Osmania University.\n\n
+
+        <b>Bakery and Confectionery Courses</b>\n\n
+        Bakery and Confectionery is a field wherein aspirants need to prepare and present food that is rich in sugar and carbohydrates. Candidates who wish to make a future in this field need to be passionate about baking.\n\n
+Top Colleges:\n\n
+* CakeUncle- The Complete Bakery Institute\n
+*ASK Institute of Bakery and Confectionary \n
+*Lavonne Academy of Baking Arts and Pastry Arts\n\n
+
+<b>Performing Arts Courses</b>\n\n
+        Performing Arts course provides education related to entertainment (performance art); Dance, Drama and Music. The courses in performing art are Bachelor of Performing Arts (BPA) and Master of Performing Arts (MPA). There are many universities in India which provide BPA and MPA while providing good value.\n\n
+Top Colleges:\n\n
+*NIMS Jaipur.\n
+*Banaras Hindu University.\n
+*Narsee Monjee Institute of Management Studies.\n
+*Savitribai Phule Pune University.\n
+*Lovely Professional University.\n
+*Assam University.\n
+*Amity University.\n
+*Christ University.\n\n
+
+
+    </string>
+    <string name="bestcourse"><b>BCom (Bachelors of Commerce)</b>\n\n
+        * BCom is a 3-year Undergraduate program that focuses on subjects related to commerce, Economics, Business Law, Accountancy, Taxation and finance. BCom full-form is Bachelor of Commerce. The BCom course is available in 3 categories which are BCom-General, BCom Honours, and BCom LLB.\n\n
+
+Top B.Com Degree Colleges in India :\n\n
+* Loyola College, Chennai.\n
+* Symbiosis College of Arts and Commerce, Pune.\n
+* Mount Carmel College, Bangalore.\n
+* Presidency College, Chennai. \n
+* St Xaviers College, Ahmedabad.\n
+* DU SOL - School of Open Learning, University of Delhi.\n
+* PSG College of Arts and Science, Coimbatore.\n\n
+
+<b>BBA (Bachelors of Business Administration)</b>\n\n
+        BBA is a three-year professional undergraduate course in Business Management. It is open to students from all three streams i.e., Science, Arts and Commerce. The BBA course offers knowledge and training in management and leadership skills to prepare them for managerial roles and entrepreneurship.\n\n
+
+Top BBA colleges :\n\n
+* Shaheed Sukhdev College of Business Studies, New Delhi\n
+* SVKMs NMIMS Anil Surendra Modi School of Commerce, Mumbai\n
+* Loyola College (Autonomous), Chennai\n
+* Department of Management Studies, Christ (Deemed to Be University), Bengaluru.\n\n
+
+<b>BMS(Bachelors of Management Studies)</b>\n\n
+        Bachelor  in Management Studies (MMS) is a postgraduate course of 2-years which consists of a total of 4 semesters and is pursued by those candidates who wish to develop their career in the field of Management. The course syllabus imparts knowledge of various management fields such as Financial Accounting, Business Ethics and Statistics, Operations Management, etc.\n\n
+Top Colleges :\n\n
+*Indian Institute of Management,Bangalore\n
+*Faculty of Management Studies\n
+*University of Delhi\n
+*Indian School of Business (ISB),Hyderabad\n
+*IIFT,Delhi\n\n
+
+        <b>Company Secretary</b>\n\n
+        The CS (Company Secretary) is a 3 years professional course equivalent to the UG degree. The CS course is conducted by the ICSE (Institute of Company Secretaries of India). The CS course is divided into three levels as the following: Foundation Course – 8 months.\n\n
+Top Colleges :\n\n
+* ICSI Delhi - Institute of Company Secretaries of India,Delhi\n
+* Navkar Institute,Ahmedabad	\n
+* Elite IIT,Bengaluru\n
+* Shiksha Guru,Delhi\n\n
+
+
+        <b>Bachelors in Travel and Tourism</b>\n\n
+        (Bachelor of Tourism and Travel Management) Courses. BBA in Tourism and Travel Management- It is a three-year undergraduate programme divided into six semesters. It focuses on the business aspect of Travel and Tourism. Its curriculum involves tourism policy and law, travel agency training, HR management.\n\n
+Top Colleges:\n\n
+*University Institute of Hotel Management and Tourism, Punjab University, Chandigarh.\n
+*Maharashtra State Institute of Hotel Management and Catering Technology, Pune.\n
+*IGNOU Delhi - Indira Gandhi National Open University. \n
+*JMI New Delhi - Jamia Millia Islamia.\n\n
+        <b>Bachelors in Hospitality</b>\n\n
+        This type of degree generally focuses on the management aspect of hospitality. Courses cover both academic theory as well as professional practice. Courses in academic theory may include finance, accounting, marketing, management and professional development.\n\n
+Top Colleges :\n
+*IHM Delhi\n
+*WGSHA Manipal\n
+*IHM Chennai	\n
+*IHM Hyderabad\n\n
+
+        <b>Bachelors in Event Management</b>\n\n
+        Event management is the application of project management to the creation and development of small and/or large-scale personal or corporate events such as festivals, conferences, ceremonies, weddings, formal parties, concerts, or conventions.\n\n
+Top Colleges:\n\n
+* Amity School of Communication\n
+* Xavier Institute of Communications\n
+* National Institute of Event Management\n
+* Apeejay Institute of Mass Communication\n
+* NAEMD Institute\n\n
+
+        <b>Bachelors in Hotel Management</b>\n\n
+        Hotel management involves the management of anything that’s related to the hotel industry. If you want to gain a foothold in this business, you will need to learn about all the techniques of managing a hotel business including marketing, hotel administration, catering management, housekeeping, and accounts. The primary goal behind learning the ins and outs of hotel management is to run a hotel successfully while managing the other aspects of the business at the same time.\n\n
+Top Colleges :\n\n
+* Institute of Hotel Management, Catering and Nutrition, PUSA New Delhi	\n *Welcome group Graduate School of Hotel Administration, Manipal\n
+* Institute of Hotel Management, Catering Technology  and Applied Nutrition, Mumbai\n\n
+
+        <b>Bachelor of Journalism</b>\n\n
+        This degree prepares students for a variety of media-related careers by teaching them about the concepts and skills used in print, broadcast, and web-based journalism. Students gain hands-on experience in researching, developing, and editing news pieces.\n\n
+Top Colleges :\n\n
+*SXC Ranchi - St Xaviers College.\n
+*MCC Chennai - Madras Christian College.\n
+*Dr DY Patil Arts Commerce and Science College, Pune.\n
+*Government Arts College, Tiruchirappalli. \n
+*Jai Hind College, Mumbai.\n
+*MOP Vaishnav College for Women, Chennai.\n\n
+
+        <b>BBA LLB</b>\n\n
+        BBA LLB - Full Form (Bachelor of Business Administration and Bachelor of Legislative Law) degree is an incorporated course and on completing this course, aspirants are provided a professional degree. The term of a BBA LLB degree is 5 years.\n\n
+Top Colleges:\n\n
+*Jindal Global Law School, Sonipat.\n
+*School of Law, University of Petroleum and Energy Studies, Dehradun.\n
+*SLS Pune - Symbiosis Law School. \n
+*ICFAI Law School, Hyderabad. \n
+*TNDALU Chennai - The Tamilnadu Dr Ambedkar Law University.\n
+*IIL Indore - Indore Institute of Law.\n\n
+
+        <b>BA LLB</b>\n\n
+The Bachelor of Arts - Bachelor of Legislative Law (BA LLB) course is an integrated law degree that the law aspirants can pursue right after qualifying their Class twelfth examinations. The law degree is an integration of Arts and Law topics and is of five-year duration.\n\n
+Top Colleges:\n\n
+*Faculty of Law, Banaras Hindu University, Varanasi.\n
+*NUJS Kolkata - The West Bengal National University of Juridical Sciences.\n
+*ULC Bhubaneswar - University Law College Utkal University.\n
+*Faculty of Law University of Allahabad, Allahabad.\n
+*Surendranath Law College, Kolkata.\n\n
+
+        <b>Bachelor of Foreign Trade</b>\n\n
+        Bachelor of Foreign Trade or BFT is an Undergraduate course in Foreign Trade Management. Those who pursue this programme learn a great deal about the movement of services, goods and capital across International territories and borders.\n\n
+Top Colleges:\n\n
+*Indian Institute for Foreign Trade, New Delhi.\n
+*Indian Institute of Commerce and Trade, Lucknow.\n
+*Indian Institute of Management.\n
+*Department of economics, Pune University, Pune.\n
+*Devi Ahilya Vishwa Vidyalaya, Indore.\n\n
+
+<b>BBS (Bachelor of Business Studies)</b>\n\n
+        Generally offered as a 3-year undergraduate program, Bachelor of Business Studies (BBS) aims to impart learners with the intricacies of business and management along with varied operations of a business, marketing management, finance, accountancy amongst others.\n\n
+Top Colleges :\n\n
+*Shaheed Sukhdev College of Business Studies, New Delhi\n
+*SVKMs NMIMS Anil Surendra Modi School of Commerce, Mumbai\n
+*Loyola College (Autonomous), Chennai\n
+*Department of Management Studies, Christ (Deemed to Be University), Bengaluru\n\n
+
+        <b>BSc. Animation and Media</b>\n\n
+        BSc animation and Multimedia is basically a 3-year long undergraduate degree course that offers advanced knowledge on multimedia, 2D and 3D animation technology, VFX and more.\n\n
+
+Top Colleges :\n\n
+*Birla Institute of Technology,Jaipur\n
+*Vellore Institute of Technology,Chennai\n
+*Vogue Institute of Fashion Technology,Bangalore\n
+*Arena Animation,Bangalore\n\n
+
+        <b>Bachelor of Social Work</b>\n\n
+        Bachelor of Social Work (B.S.W) is a three-year undergraduate degree that offers knowledge and skills to aspirants to prepare them for a professional career in social welfare. The course is divided into six semesters into most of the universities and colleges.\n\n
+Top Colleges :\n\n
+*Tata Institute of Social Sciences, Mumbai(TISS) Mumbai.\n
+*Dept of Social Work Delhi University. New Delhi. \n
+*Dept of Social Work, Jamia Millia. New Delhi. \n
+*Madras School of Social Work. \n
+*Loyala college of Social Science.\n
+*College of Social Work, Nirmala Niketan.\n
+*Karve institute of Social service. \n
+*Roda Mistry College of Social work.\n\n
+
+        <b>Bachelor of Vocational Studies</b>\n\n
+        Bachelor of Vocation (B. Voc, BVE or BVEd) is a specialized undergraduate bachelors degree which qualifies the graduate as a vocational teacher in public schools or trainer for private companies.\n\n
+
+Top Colleges :\n\n
+* St Xaviers College, Ahmedabad.\n
+* IHM Goa, North Goa. \n
+*SPPU, Pune. \n
+*GGSIPU, New Delhi.\n
+*Delhi University, New Delhi.\n
+*JHC, Mumbai. \n
+*JMC, New Delhi.\n
+*Annamalai University, Chidambaram. Chidambaram, Tamil Nadu | NCTE, DCI, MCI, AICTE, UGC Accredited.\n\n
+
+        <b>Bachelor of Fine Arts</b>\n\n
+BFA or Bachelor of Fine Arts is an undergraduate degree course which deals with the study of Visual or Performing Arts. The course is sometimes also referred to as Bachelor of Visual Arts (BVA) in which the study of Visual Arts includes subjects such as painting, sculpture, photography, literature, animation, etc.\n\n
+Top Colleges:\n\n
+*Ramnarain Ruia College of Science and Arts\n
+*Jai Hind College\n
+*K. C College\n
+*Bhavans College\n
+*D.G. Ruparel College of Arts ,Science and Arts\n
+*H.R. College of Commerce\n\n
+
+<b>B.A. (Hons)</b>\n\n
+         BA Hons, full form, bachelor of arts honors is the most pursued undergraduate course in India in various specializations such as Political Science, History, Hindi, English, Psychology, Sanskrit after class 12.\n\n
+Top Colleges:\n\n
+*IGNOU Delhi - Indira Gandhi National Open University.\n
+*JMI New Delhi - Jamia Millia Islamia. \n
+*MSU Baroda - Maharaja Sayajirao University of Baroda.\n
+*LPU Jalandhar - Lovely Professional University. \n
+*Christ University, Bangalore. \n
+*BHU Varanasi - Banaras Hindu University.\n\n
+        <b>B. Ed (Bachelor of Education)</b>\n\n
+        B.Ed is a professional degree course for those who wish to pursue their career in teaching. Candidates can pursue B.Ed after completing their graduation or post-graduation.\n\n
+Top Colleges :\n\n
+*Lady Shri Ram College For Women, South Delhi. \n
+*Kasturi Ram College Of Higher Education, North West Delhi.\n
+*Faculty Of Education, Jamia Millia Islamia University, South Delhi.\n
+*Department Of Education, University Of Delhi, New Delhi. \n
+*Al Ameen College Of Education, Bangalore.\n\n
+
+        <b>Bachelor of Interior Designing</b>\n\n
+    As explained above, Bachelors in interior designing is a course of three year duration, conducted on an undergraduate level to provide the candidates with the necessary skills in the field of interior and space designing, furniture and textile designing with practical knowledge.\n\n
+Top Colleges :\n\n
+*NID Ahmedabad.\n
+*CEPT University, Gujarat.\n
+*Arch Academy of Design, Jaipur.\n
+*JJ School of Arts.\n
+*College of Architecture.\n
+*Exterior Interiors Pvt Ltd.\n
+*Pearl Academy.\n
+*Vogue Institute of Fashion Technology.\n
+    </string>
+    <string name="diplomacourse"><b>Diploma in Elementary Education</b>\n\n
+        D. El. Ed is a Diploma course in Elementary Education. It is a 2-year full-time diploma course to train teachers for the primary level and can be done with classroom training or distance learning. It is a 4-semester course to prepare students to work in primary/ upper primary schools in different states of the country.\n\n
+Top Colleges:\n\n
+*Jamia Millia Islamia University, New Delhi.\n
+*Maulana Azad National Urdu University, Hyderabad.\n
+*Amity University, Noida.\n
+*Integral University, Lucknow.\n\n
+
+        <b>Diploma in Event Management</b>\n\n
+        Diploma in Event Management is a one-year diploma level course in event management. The candidates who have passed higher and senior secondary level (10 + 2) with minimum 50% are eligible for this course. Graduates of any other stream looking for a degree and eventually a career in event management Industry can also apply for the course.\n\n
+
+Top Colleges :\n\n
+* National Institute of Event Management, Mumbai, Vile Parle West\n
+* Mumbai University, Mumbai\n
+* Impact Institute of Event Management - [IIEM], Delhi\n
+* Apeejay Institute of Mass Communication, New Delhi\n
+* Pacific University, Udaipur.\n\n
+
+        <b>Diploma in Interior Designing</b>\n\n
+        Diploma in Interior Design is a 1 or 2 year long course depending on the university where candidates learn about various aspects of designing a House, office or interior of any place they desire. Interior Design is a skilled field in Interior sectors.\n\n
+Top Colleges:\n\n
+* Manipal Academy of Higher Education.\n
+*School of Fashion Technology.\n
+*Banaras Hindu University\n
+*National Institute of Design\n\n
+
+        <b>Diploma in Fashion Designing</b>\n\n
+        Diploma in fashion designing is a one year diploma level professional course. The course helps the candidates strategize and render services in the fashion and lifestyle industry, through practical and hands on experience. Candidates who have passed 10+2 from a recognized board are eligible to apply.\n\n
+Top Colleges:\n\n
+* Vogue Institute of Art and Design.\n
+* LISAA School of Design.\n
+* JD Institute Of Fashion Technology, Hyderabad.\n
+* JD Institute of Fashion Technology, Mumbai.\n
+* Dot School Of Design.\n
+* Inter National Institute of Fashion Design Andheri Mumbai.\n
+*Le Mark School of Art Mumbai.\n\n
+
+        <b>Diploma in Hotel Management</b>\n\n
+        Diploma in Hotel Management is a 3-year diploma level Hotel Management course. Divided into six semesters, diploma in hotel management course focuses on the management of hotel administration, accounts, advertising, housekeeping, front office or front office, food and beverage management, catering, and upkeep.\n\n
+Top Colleges :\n\n
+*Lakshya Bhartee Institute of International Hotel Management (LBIIHM), Delhi.\n
+*IIAS School of Management - Goa, Panaji. \n
+*Bangalore Institute for Science and Management, Bangalore.\n
+*Leo Academy of Hospitality and Tourism Management, Hyderabad.\n
+*Jindal School of Hotel Management.\n\n
+
+        <b>Diploma in Music</b>\n\n
+        Diploma in Music is a course which deals with the study of music and aims at teaching students The history of music and provides them with the knowledge of harmony, compositional techniques, forms, etc.\n\n
+Top Colleges :\n\n
+*Rama Manubhai Desai College of Music and Dance, Anand.\n
+*Kodaikanal Christian College, Kodaikanal. \n
+*LV Prasad Film and TV Academy, Chennai. \n
+*Bridge Academy College of Media and Fine Arts, Chennai.\n
+*AAT College, Mumbai.\n
+*BigBoxx Professional Academy, Chandigarh.\n
+*AAT College, Chennai.\n\n
+
+        <b>Diploma in Education</b>\n\n
+        A Diploma in Education is an undergraduate diploma programme with a duration of two years. Students enrolled in the course find numerous opportunities to work in the academic field and opt for teaching roles. Individuals enrolled in the course are provided with the training to teach students of primary level.\n\n
+Top Colleges :\n\n
+*St Xaviers College, Mumbai.\n
+*Rajat Degree College, Lucknow.\n
+*Maharaja Agrasen International College, Raipur.\n
+*St Johns College, Agra. \n
+*St Christophers College of Education, Chennai.\n
+*KP Higher Education Institute, Jhalwa. \n
+*Seva Sadans College of Education, Ulhasnagar.\n\n
+
+        <b>Diploma in Photography</b>\n\n
+        Diploma in Photography is a one-year diploma course that is designed for students who aspire to become professional photographers. The course provides specializations in Documentary and Travel and Nature Photography.\n\n
+Top Colleges:\n\n
+*Delhi College of Photography\n
+*Light and Life Academy\n
+*Jawaharlal Nehru Architecture and Fine Arts University, Hyderabad\n
+*AJ Kidwai Mass Communication Research Center\n\n
+
+        <b>Diploma in Front Office Operations</b>\n\n
+Diploma in Front Office is a 6months to 2 years full-time diploma course.The front office represents the customer-facing division of a firm. For example, customer service, sales, and industry experts who provide advisory services are considered part of a firms front office operations. The functions of the front office generally generate the majority of revenue for a firm.\n\n
+Top Colleges :\n\n
+*Jindal School of Hotel Management\n
+*Amity University	\n
+*College of Hospitality Administration\n
+*Amity University\n
+    </string>
     <string name="genetic">         <b><b>Genetic  engineer</b></b>  \n\n
 
 <b>What is Genetic Engineering?</b>\n\n
@@ -1262,5 +2012,474 @@ Following are some popular BNYS entrance exams: \n\n
 
 <b>• Post graduate degree :</b>\n\n
  Post-graduate courses with scholarship/assistantship, are open to students who have qualified in the Graduate Aptitude Test in Engineering (GATE) or National Eligibility Test (NET of UGC). Graduate Engineers, Associate members of the Institute of Engineers, postgraduates in Physics/ Chemistry/ Maths/ Statistics/ Computer Applications can appear for GATE conducted by IITs and Indian Institute of Sciences .
+</string>
+    <string name="mbbs"><b>MBBS</b>\n\n
+
+Bachelor of Medicine, Bachelor of Surgery ( abbreviated in many ways, most commonly MBBS, but also MB ChB, BMBS, MB BCh, MB BChir and BM BCh), is the primary medical degree awarded by medical schools in countries that follow the tradition of the United Kingdom. The historical degree nomenclature states that they are two separate undergraduate degrees. In practice, however, they are usually combined as one and conferred together, and may also be awarded at graduate-level medical schools.\n\n
+
+        <b>Top Medical Colleges and Schools in India</b>b>\n\n
+
+
+• All India Institute of Medical Sciences, Delhi\n
+
+• Post Graduate Institute of Medical Education and Research, Chandigarh\n
+
+• Christian Medical College, Vellore\n
+
+• National Institute of Mental Health and  Neurosciences, Bangalore\n
+
+• Sanjay Gandhi Postgraduate Institute of Medical Sciences, Lucknow\n
+
+• Banaras Hindu University, Varanasi\n
+
+• Amrita Institute of Medical Sciences and Research\n\n
+
+<b>op MBBS Entrance Exams in India</b>\n\n
+
+ For UG\n\n
+*NEET UG\n
+* AIIMS\n
+* JIPMER\n
+
+For PG\n\n
+•  PGIMER\n
+•  NEET PG.\n
+•  NEET SS.\n
+•  AIIMS PG.\n
+• AIIMS SS.\n
+• JIPMER PG.\n
+•  PGIMER.\n
+•  DNB PDCET.\n
+•  FET\n.</string>
+    <string name="bhms">   <b>BHMS</b> \n\n
+
+• BHMS is commonly abbreviated as a Bachelor of Homeopathic Medicine and Surgery (BHMS). This course covers medical knowledge of various aspects of Homeopathic education. After successful completion of the BHMS course, aspirants can successfully practice as a doctor in Homeopathic.\n\n
+
+Course Duration : 5 Years\n\n
+
+BHMS Admission Process\n
+
+Admission to some of the top institutes for BHMS course is done through entrance exam. Candidates need to go through different entrance exams conducted at the national level and state level.\n\n
+
+        <b>BHMS Career Prospects </b>\n\n
+
+• Candidates can either work or opt for the higher studies in Homeopathy and allied areas.\n\n
+
+
+Mentioned below are some of the areas in which higher studies can be done after BHMS course:\n\n
+
+        <b>Master of Science in:</b>\n\n
+
+• Regenerative Medicine\n
+
+• Psychiatry\n
+
+• Epidemiology\n
+
+• Endocrinology\n
+
+• Hospital Management (MHM)\n\n
+
+        <b>Doctorate in:</b>\n\n
+
+• Medicine in Organon of Medicine and Homeopathic Philosophy\n
+
+• Homeopathic Practice of Medicine\n
+
+• Homeopathic Pharmacy\n
+
+        <b>Candidates who wish to work, can opt for any of the below mentioned job profiles.</b>\n\n
+
+• Doctor\n
+
+• Private Practitioner\n
+
+• Public Health Specialist\n
+
+• Teacher\n
+
+• Researcher\n
+
+• Consultant\n
+
+• Pharmacist\n\n
+
+
+<b>BHMS Entrance Exams </b>\n\n
+
+• NEET\n
+
+• TS EAMCET\n
+
+• AP EAMCET\n
+
+• KEAM\n
+
+• PU CET\n</string>
+    <string name="bpt">  <b> BPT </b>\n\n
+
+BPT or Bachelor of Physiotherapy is a four-year undergraduate professional course that deals with the science of physical movement and channelising it to prevent disability and diseases of movement.\n\n
+
+Bachelor of Physiotherapy (B.P.Th) Eligibility Criteria : \n\n
+
+• Min Qualification Required: 10+2 Subject Combination: Physics, Chemistry and Biology and sometimes English as compulsory subjects\n
+
+•  Min. Marks Required (Aggregate): 50% (relaxation for reserved category students available)\n
+
+• Minimum Age Required: 17 Years .\n\n<b>Note: Candidates are required to get their marks verified during the time of admission through the original copies of their documents and mark sheet.</b> \n\n
+
+        <b>B.P.Th Admission Process</b>\n\n
+
+• The admission process for BPT (Bachelor of Physiotherapy) is different in different colleges/ universities. . some institutes conduct their own entrance exams, some accept state-level or national-level exams.\n
+
+• some institutes select students on the basis of their performance in Class 12 examinations.\n
+
+• Some institutes carry out the admission process through interviews and group discussions.\n\n
+
+        <b>Top colleges for BPTh :</b>\n\n
+
+• St Johns Medical College, Bangalore. \n
+• MS Ramaiah Medical College, Bangalore. \n
+• IMS BHU - Institute of Medical Sciences   Banaras Hindu University.\n
+• HIMSR New Delhi - Hamdard Institute of Medical Sciences and Research.\n
+• Shree Guru Gobind Singh Tricentenary University, Gurgaon.\n</string>
+    <string name="bscnursing">   <b>Bsc Nursing </b>\n\n
+B Nursing (Bachelor of Science in Nursing)  There are various degrees one can opt for in the healthcare sector apart from MBBS or BDS . Bachelor of Science in Nursing (B.Sc Nursing) is one such professional course which makes candidates ready to serve humanity through medical treatment.\n\n
+
+Course Duration : 4 years\n
+Eligibility : 10+2 in Physics, Chemistry, Biology\n\n
+
+        <b>Top Job Profiles</b>\n\n
+• Case Manager\n
+• Certified Nurse Midwife\n
+•  Clinical Nurse Specialist\n
+•  Manager/Administrator\n
+•  Nurse Anesthetist.\n
+•   Nurse Educator\
+•   Nurse Practitioner\n
+•    Staff Nurse \n\n
+
+
+<b>Top colleges for nursing : </b>\n\n
+
+• All India Institute of Medical Sciences, Delhi\n
+• Post Graduate Institute of Medical Education and Research, Chandigarh\n
+• Christian Medical College, Vellore\n
+• National Institute of Mental Health and  Neurosciences, Bangalore\n
+• Sanjay Gandhi Postgraduate Institute of Medical Sciences, Lucknow\n
+• Banaras Hindu University, Varanasi\n
+• Amrita Institute of Medical Sciences and Research\n
+</string>
+    <string name="bvscandah">  <b>B.V.SC and AH </b>\n\n
+The Bachelor of Veterinary Sciences and  Animal Husbandry (B.V. Sc. and  AH) degree falls within the Veterinary Education part of Medical Education in India, and is therefore monitored by the Veterinary Council of India.\n\n
+* Aspirants who want to get admission in B.V. Sc and AH programs at UG level under the 15% of All India Quota Seats are required to appear in NEET.\n\n
+
+        <b>Top colleges :</b>\n\n
+• Apollo College Of Veterinary Medicine (ACVM), Jaipur\n
+• Mayurakshi Institute Of Engineering and  Technology (MIET), Jodhpur\n
+• Vivekananda Institute Of Technology and Science (VITS GHAZIABAD), Ghaziabad\n\n
+
+        <b>Entrance Exams :</b>\n\n
+•NEET\n
+•AAU VET\n
+•OUAT\n
+•RPVT\n
+•UP Veterinary entrance exam\n
+•Prelims\n
+•BHU UET\n
+</string>
+    <string name="pcmb"><b>PCMB </b>\n\n
+* Students having PCMB profile can opt for any course and job from PCM as well as PCB sections\n\n
+Courses related to MBiPC after 12th are:\n\n
+• Engineering\n
+• Medical (MBBS, MDS etc.)\n
+• Audiology\n
+• Agriculture and its allied fields\n
+• Civil Aviation and its allied fields\n
+• Architecture (IIT-JEE)\n
+• Biotechnology (B-tech  and B.Sc)\n
+• Information Technology\n
+• Genetics\n
+• Lab Technician\n
+• Defence-NDA (navy and airforce)\n
+• Merchant Navy\n
+• Pharmacy\n
+• Nursing\n
+• Occupational Therapy\n
+• Optometry\n
+• Physiotherapy\n
+• Speech therapy\n
+•Veterinary Sciences\n\n
+
+        <b>Fields of engineering that are related to biology are :</b>\n\n
+•Biomedical engineering\n
+•Food Technology\n
+•Dairy technology\n
+
+        <b>Courses other than Engineering and medical are :</b>\n\n
+•B.Sc in Agriculture\n
+•B.Sc in Nursing\n
+•B.Sc with any other combination\n
+•Animations\n
+•Fashion Designing\n
+•BBM\n
+•BBA\n
+•Lab technician courses\n</string>
+    <string name="arts_after_12"><b>TOP COURSES TO DO AFTER 12TH ARTS :</b>\n\n
+ <b>B.A.(Bachelor of Arts )</b>\n\n
+* Course duration is 3 years.\n
+*Bachelor of Arts (BA or AB; from the Latin baccalaureus artium, baccalaureus in artibus, or artium baccalaureus) is a bachelors degree awarded for an undergraduate program in the arts,[1] or in some cases other disciplines. A Bachelor of Arts degree course is generally completed in three or four years, depending on the country and institution.\n\n
+Top Colleges :\n\n
+*IGNOU Delhi - Indira Gandhi National Open University.\n
+*JMI New Delhi - Jamia Millia Islamia. \n
+*SRM University Chennai - SRM Institute of Science and Technology.\n
+*MSU Baroda - Maharaja Sayajirao University of Baroda.\n
+*LPU Jalandhar - Lovely Professional University.\n
+*Christ University, Bangalore.\n\n
+
+
+   <b>BBA</b>\n\n
+BBA is a three-year professional undergraduate course in Business Management. It is open to students from all three streams i.e., Science, Arts and Commerce. The BBA course offers knowledge and training in management and leadership skills to prepare them for managerial roles and entrepreneurship.\n\n
+
+Top BBA colleges :\n\n
+* Shaheed Sukhdev College of Business Studies, New Delhi\n
+* SVKMs NMIMS Anil Surendra Modi School of Commerce, Mumbai\n
+* Loyola College (Autonomous), Chennai\n
+* Department of Management Studies, Christ (Deemed to Be University), Bengaluru\n\n
+
+
+  <b>Bachelor  in Management Studies</b>\n\n
+
+Bachelor  in Management Studies (BMS) is a postgraduate course of 2-years which consists of a total of 4 semesters and is pursued by those candidates who wish to develop their career in the field of Management. The course syllabus imparts knowledge of various management fields such as Financial Accounting, Business Ethics and Statistics, Operations Management, etc.\n\n
+Top Colleges :\n\n
+*Indian Institute of Management,Bangalore\n
+*Faculty of Management Studies\n
+*University of Delhi\n
+*Indian School of Business (ISB),Hyderabad\n
+*IIFT,Delhi\n\n
+
+<b>Bachelor of Fine Arts</b>\n\n
+BFA or Bachelor of Fine Arts is an undergraduate degree course which deals with the study of Visual or Performing Arts. The course is sometimes also referred to as Bachelor of Visual Arts (BVA) in which the study of Visual Arts includes subjects such as painting, sculpture, photography, literature, animation, etc.\n\n
+Top Colleges:\n\n
+*Ramnarain Ruia College of Science and Arts\n
+*Jai Hind College\n
+*K. C College\n
+*Bhavans College\n
+*D.G. Ruparel College of Arts ,Science and Arts\n
+*H.R. College of Commerce\n\n
+
+ <b>Hotel Management</b>\n\n
+Hotel management involves the management of anything that’s related to the hotel industry. If you want to gain a foothold in this business, you will need to learn about all the techniques of managing a hotel business including marketing, hotel administration, catering management, housekeeping, and accounts. The primary goal behind learning the ins and outs of hotel management is to run a hotel successfully while managing the other aspects of the business at the same time.\n\n
+
+Top Colleges :\n\n
+* Institute of Hotel Management, Catering and Nutrition, PUSA New Delhi	 *Welcome group Graduate School of Hotel Administration, Manipal\n
+* Institute of Hotel Management, Catering Technology and Applied Nutrition, Mumbai\n\n
+
+
+<b>Event Management</b>\n\n
+Event management is the application of project management to the creation and development of small and/or large-scale personal or corporate events such as festivals, conferences, ceremonies, weddings, formal parties, concerts, or conventions.\n\n
+Top Colleges:\n\n
+* Amity School of Communication\n
+* Xavier Institute of Communications\n
+* National Institute of Event Management\n
+* Apeejay Institute of Mass Communication\n
+* NAEMD Institute\n\n
+
+
+
+                                                      <b>BA LLB</b>\n\n
+The Bachelor of Arts - Bachelor of Legislative Law (BA LLB) course is an integrated law degree that the law aspirants can pursue right after qualifying their Class twelfth examinations. The law degree is an integration of Arts and Law topics and is of five-year duration.\n\n
+Top Colleges:\n\n
+*Faculty of Law, Banaras Hindu University, Varanasi.\n
+*NUJS Kolkata - The West Bengal National University of Juridical Sciences.\n
+*ULC Bhubaneswar - University Law College Utkal University.\n
+*Faculty of Law University of Allahabad, Allahabad.\n
+*Surendranath Law College, Kolkata.\n\n
+
+
+ <b>Bachelor of Journalism and Mass Communication</b>\n\n
+Bachelor of Journalism and Mass Communication (BJMC) is an undergraduate program that provides aspirants with knowledge about various journalistic skills in mass media such as newspapers, television, radio, internet etc. It also informs students about various technology, equipment and software involved in mass media.\n\n
+Top Colleges :\n\n
+*Symbiosis Institute of Media and Communication.\n
+*AJ Kidwai MCRC, JMI.\n
+*Indian Institute of Mass Communication, New Delhi.\n
+*Xavier Institute of Communication, Mumbai.\n
+*Lady Shri Ram College for Women, New Delhi.\n\n
+
+
+ <b>BDes Fashion Designing</b>\n\n
+Bachelor of Design in Fashion Design (BDes Fashion Design) is one of the most popular undergraduate fashion designing courses.\n\n
+Top Colleges :\n\n
+*INIFD Deccan, Pune.\n
+*MIT Institute of Design, Pune.\n
+*NIFT Mumbai - National Institute of Fashion Technology.\n
+*INSD PUNE - International School of Design.\n
+*SID Pune - Symbiosis Institute of Design.\n
+*UID Ahmedabad - Unitedworld Institute of Design.\n\n
+
+
+
+        <b>Bachelor of Elementary Education</b>\n\n
+Bachelor of Elementary Education is a 4-year professional degree course that offers training in elementary education. In the first 3 years of the course, candidates study a combination of theory and practicals. Whereas in the last year of the course they teach directly in school, as a part of their training.\n\n
+Top Colleges:\n\n
+*Aditi Mahavidyalaya, Delhi.\n
+*Gargi College, Delhi.\n
+*Lady Shriram College for Women, New Delhi.\n
+*Miranda House, Delhi. \n
+*Jesus and Mary College, Delhi.\n
+*Shyama Prasad Mukherji College For Women, New Delhi.\n
+*GSRM Memorial PG College, Lucknow.\n\n
+
+
+
+<b>B.P.Ed.(Bachelor of Physical Education) </b>\n\n
+BPEd (Bachelor of Physical Education) is an undergraduate degree course which deals with the techniques that are useful to maintain the fitness of the human body. The course is typically of three to four years duration.Course duration is 1 year.\n\n
+Top Colleges:\n\n
+*SRM University Chennai - SRM Institute of Science and Technology.\n
+*LPU Jalandhar - Lovely Professional University.\n
+*Jadavpur University, Kolkata.\n
+*BHU Varanasi - Banaras Hindu University.\n
+*UNIPUNE (Pune University) - Savitribai Phule Pune University.\n\n
+
+<b>Diploma in Elementary Education</b>\n\n
+
+D. El. Ed is a Diploma course in Elementary Education. It is a 2-year full-time diploma course to train teachers for the primary level and can be done with classroom training or distance learning. It is a 4-semester course to prepare students to work in primary/ upper primary schools in different states of the country.\n\n
+Top Colleges:\n\n
+*Jamia Millia Islamia University, New Delhi.\n
+*Maulana Azad National Urdu University, Hyderabad.\n
+*Amity University, Noida.\n
+*Integral University, Lucknow.\n\n
+
+
+<b>Bachelor of Social Work</b>\n\n
+Bachelor of Social Work (B.S.W) is a three-year undergraduate degree that offers knowledge and skills to aspirants to prepare them for a professional career in social welfare. The course is divided into six semesters into most of the universities and colleges.\n\n
+Top Colleges :\n\n
+*Tata Institute of Social Sciences, Mumbai(TISS) Mumbai.\n
+*Dept of Social Work Delhi University. New Delhi.\n
+*Dept of Social Work, Jamia Millia. New Delhi.\n
+*Madras School of Social Work.\n
+*Loyala college of Social Science.\n
+*College of Social Work, Nirmala Niketan.\n
+*Karve institute of Social service.\n
+*Roda Mistry College of Social work.\n\n
+
+      <b>BSc. Animation and Media</b>\n\n
+
+BSc animation and Multimedia is basically a 3-year long undergraduate degree course that offers advanced knowledge on multimedia, 2D and 3D animation technology, VFX and more.\n\n
+
+Top Colleges :\n\n
+*Birla Institute of Technology,Jaipur\n
+*Vellore Institute of Technology,Chennai\n
+*Vogue Institute of Fashion Technology,Bangalore\n
+*Arena Animation,Bangalore\n\n
+
+
+<b>B.RM.(Bachelor of Retail Management):</b> \n\n
+
+BBA in Retail Management is a 3-year full-time undergraduate course divided into 6 semesters. Retail Management is concerned with principles of retailing and retail operations including: buying. merchandising.Course duration is 3 years.\n\n
+Top Colleges:\n\n
+*IGNOU Delhi - Indira Gandhi National Open University.\n
+*Tamil Nadu Open University, Chennai. \n
+*Ness Wadia College of Commerce, Pune. \n
+*PSGR Krishnammal College for Women, Coimbatore.\n
+*GITAM School of International Business, Visakhapatnam.\n\n
+
+
+
+  <b>Air Hostess Training Course</b>\n\n
+The courses leading to the air hostess and flight steward are the programmes under the Aviation and Hospitality Management. Air hostess is also known as the Flight attendants or cabin crew, stewards/stewardesses or cabin attendants.\n\n
+Top Colleges:\n\n
+*Air Hostess Academy (AHA), Bangalore.\n
+*Frankfinn Institute of Air Hostess Training, Mumbai.\n
+*Air Hostess Academy (AHA), Chandigarh.\n
+*Air Hostess Academy (AHA), Delhi.\n
+*Rajiv Gandhi Memorial College of Aeronautics, Jaipur.\n
+*Universal Aviation Academy, Chennai.\n
+*Jet Airways Training Academy, Mumbai.\n
+
+
+   <b>BBS (Bachelor of Business Studies)</b>\n\n
+Generally offered as a 3-year undergraduate program, Bachelor of Business Studies (BBS) aims to impart learners with the intricacies of business and management along with varied operations of a business, marketing management, finance, accountancy amongst others.\n\n
+Top Colleges :\n\n
+*Shaheed Sukhdev College of Business Studies, New Delhi\n
+*SVKMs NMIMS Anil Surendra Modi School of Commerce, Mumbai\n
+*Loyola College (Autonomous), Chennai\n
+*Department of Management Studies, Christ (Deemed to Be University), Bengaluru\n\n
+
+
+
+        <b>Bachelor of Tourism and Travel</b>\n\n
+(Bachelor of Tourism and Travel Management) Courses. BBA in Tourism and Travel Management- It is a three-year undergraduate programme divided into six semesters. It focuses on the business aspect of Travel and Tourism. Its curriculum involves tourism policy and law, travel agency training, HR management.\n\n
+Top Colleges:\n\n
+*University Institute of Hotel Management and Tourism, Punjab University, Chandigarh.\n
+*Maharashtra State Institute of Hotel Management and Catering Technology, Pune.\n
+*IGNOU Delhi - Indira Gandhi National Open University.\n
+*JMI New Delhi - Jamia Millia Islamia.\n\n</string>
+    <string name="exams_9th_10th">
+        <b>EXAMS IN 9TH AND 10TH</b>\n\n
+        *National Talent Search Examination or NTSE.\n\n
+*National Level Science Talent Search Exam or NLSTSE.\n\n
+*Indian National Olympiad (INO)\n\n
+*Science Olympiad Foundation.\n\n
+*GeoGenius.\n\n
+*Silverzone Olympiads.\n\n
+*National Interactive Maths Olympiad or NIMO.\n\n
+*National Biotechnology Olympiad or NBO.\n\n</string>
+    <string name="exams_after_10th"> <b>ENGINEERING  EXAMS AVAILABLE</b>\n\n
+*Joint Entrance Examination (JEE) Main\n
+*Birla Institute of Technology andScience Admission Test (BITSAT)entrance
+exam\n
+*COMED-K\n
+*IPU-CET (B. Tech)\n
+*Manipal (B. Tech)\n
+*VITEEE\n
+*AMU (B. Tech)\n
+*NDA Entrance with PCM (MPC)and JEE Advance\n\n
+
+
+<b>MEDICAL EXAMS AVAILABLE</b>\n\n
+*NEET (National Eligibility Cum Entrance Test)\n
+*AIIMS\n
+*JIPMER\n\n
+
+
+
+<b>DEFENCE SERVICES EXAMS AVAILABLE</b>\n\n
+*Indian Maritime University\n
+*Common Entrance Test\n
+*Indian Navy B.Tech Entry Scheme\n
+*Indian Army Technical Entry Scheme (TES)\n
+*National Defence Academy and Naval Academy Examination (I)\n\n
+
+
+<b>FASHION AND DESIGN  EXAMS AVAILABLE</b>\n\n
+*National Institute of Fashion\n
+*Technology (NIFT) Entrance Test\n
+*National Institute of Design Admissions\n
+*All India Entrance Examination for Design (AIEED)\n
+*Footwear Design and Development Institute\n
+*Maeer’s MIT Institute of Design\n
+*National Institute of Fashion Design\n
+*National Aptitude Test in Architecture\n
+*Center for Environmental Planning and Technology (CEPT)\n
+*Symbiosis Institute of Design Exam\n\n
+
+
+<b>SOCIAL SCIENCES</b>\n\n
+*Banaras Hindu University\n
+*IIT Madras Humanities and Social Sciences EntranceExamination (HSEE)\n
+*TISS Bachelors Admission Test(TISS-BAT)\n\n
+
+
+
+<b>LAW EXAMS AVAILABLE</b>\n\n
+*Common-Law Admission Test\n
+*All India Law Entrance Test(AILET)\n\n
+
+
+
+<b>SCIENCE EXAMS AVAILABLE</b>\n\n
+*Kishore Vaigyanik Protsahan Yojana (KVPY)\n
+*National Entrance Screening Test (NEST)\n
 </string>
 </resources>
