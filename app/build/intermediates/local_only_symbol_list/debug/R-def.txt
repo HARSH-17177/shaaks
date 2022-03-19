@@ -155,6 +155,8 @@ id tv_option4_6
 id tv_option4_7
 id tv_option4_8
 id tv_option4_9
+id tv_option5
+id tv_option6
 id tv_option7_1
 id tv_option7_2
 id tv_option8_1

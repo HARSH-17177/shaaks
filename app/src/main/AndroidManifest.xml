@@ -13,25 +13,39 @@
         android:theme="@style/Theme.Shaaks">
         <activity
             android:name=".exams_after_10th"
-            android:exported="false" />
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme"/>
         <activity
             android:name=".exams_in_9th_10th"
-            android:exported="false" />
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme"/>
         <activity
             android:name=".arts_after_12"
-            android:exported="false" />
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme"/>
         <activity
             android:name=".bvscandah"
-            android:exported="false" />
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme"/>
         <activity
             android:name=".bscnursing"
-            android:exported="false" />
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme"/>
         <activity
             android:name=".bpt"
-            android:exported="false" />
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme"/>
         <activity
             android:name=".bhms"
-            android:exported="false" />
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme"/>
         <activity
             android:name=".engineering_as_a_carrer"
             android:exported="false"

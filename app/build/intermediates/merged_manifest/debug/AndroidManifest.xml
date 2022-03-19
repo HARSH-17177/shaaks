@@ -23,25 +23,39 @@
         android:theme="@style/Theme.Shaaks" >
         <activity
             android:name="com.sparklead.shaaks.exams_after_10th"
-            android:exported="false" />
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme" />
         <activity
             android:name="com.sparklead.shaaks.exams_in_9th_10th"
-            android:exported="false" />
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme" />
         <activity
             android:name="com.sparklead.shaaks.arts_after_12"
-            android:exported="false" />
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme" />
         <activity
             android:name="com.sparklead.shaaks.bvscandah"
-            android:exported="false" />
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme" />
         <activity
             android:name="com.sparklead.shaaks.bscnursing"
-            android:exported="false" />
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme" />
         <activity
             android:name="com.sparklead.shaaks.bpt"
-            android:exported="false" />
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme" />
         <activity
             android:name="com.sparklead.shaaks.bhms"
-            android:exported="false" />
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme" />
         <activity
             android:name="com.sparklead.shaaks.engineering_as_a_carrer"
             android:exported="false"

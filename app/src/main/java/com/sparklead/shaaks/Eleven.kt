@@ -79,7 +79,7 @@ class Eleven : AppCompatActivity(), View.OnClickListener {
                     overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }
                 3 -> {
-                    val intent = Intent(this, Arts::class.java)
+                    val intent = Intent(this, arts_after_12::class.java)
                     startActivity(intent)
                     overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }

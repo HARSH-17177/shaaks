@@ -96,7 +96,7 @@ class Pcb : AppCompatActivity() , View.OnClickListener{
         btn_next4_1.setOnClickListener{
             when (selectedoptionnum) {
                 1 -> {
-                    val intent = Intent(this, Eleven::class.java)
+                    val intent = Intent(this, mbbs::class.java)
                     startActivity(intent)
                     overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }
@@ -106,7 +106,7 @@ class Pcb : AppCompatActivity() , View.OnClickListener{
                     overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }
                 3 -> {
-                    val intent = Intent(this, Eleven::class.java)
+                    val intent = Intent(this, bhms::class.java)
                     startActivity(intent)
                     overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }
@@ -121,12 +121,12 @@ class Pcb : AppCompatActivity() , View.OnClickListener{
                 overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }
                 6 -> {
-                val intent = Intent(this, Eleven::class.java)
+                val intent = Intent(this, bvscandah::class.java)
                 startActivity(intent)
                 overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }
                 7 -> {
-                val intent = Intent(this, Eleven::class.java)
+                val intent = Intent(this, pharmacycourseafter12::class.java)
                 startActivity(intent)
                 overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }
@@ -146,7 +146,7 @@ class Pcb : AppCompatActivity() , View.OnClickListener{
                 overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }
                 11 -> {
-                val intent = Intent(this, Eleven::class.java)
+                val intent = Intent(this, bscnursing::class.java)
                 startActivity(intent)
                 overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }

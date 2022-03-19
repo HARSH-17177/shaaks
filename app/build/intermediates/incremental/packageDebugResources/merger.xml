@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3" xmlns:ns1="http://schemas.android.com/tools"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res"/><source path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\build\generated\res\rs\debug"/><source path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res"><file name="slide_in_left" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\anim\slide_in_left.xml" qualifiers="" type="anim"/><file name="slide_in_right" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\anim\slide_in_right.xml" qualifiers="" type="anim"/><file name="slide_out_left" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\anim\slide_out_left.xml" qualifiers="" type="anim"/><file name="slide_out_right" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\anim\slide_out_right.xml" qualifiers="" type="anim"/><file name="aero" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\aero.png" qualifiers="" type="drawable"/><file name="agricultengg" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\agricultengg.png" qualifiers="" type="drawable"/><file name="automobile" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\automobile.png" qualifiers="" type="drawable"/><file name="back" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\back.jpg" qualifiers="" type="drawable"/><file name="background" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\background.xml" qualifiers="" type="drawable"/><file name="barch" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\barch.png" qualifiers="" type="drawable"/><file name="biomedical" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\biomedical.png" qualifiers="" type="drawable"/><file name="biotechnologist" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\biotechnologist.png" qualifiers="" type="drawable"/><file name="bot" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\bot.png" qualifiers="" type="drawable"/><file name="broadcast" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\broadcast.png" qualifiers="" type="drawable"/><file name="cag" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\cag.png" qualifiers="" type="drawable"/><file name="chemicalengineer" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\chemicalengineer.png" qualifiers="" type="drawable"/><file name="civil" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\civil.png" qualifiers="" type="drawable"/><file name="communicational" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\communicational.png" qualifiers="" type="drawable"/><file name="computer" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\computer.png" qualifiers="" type="drawable"/><file name="dental" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\dental.png" qualifiers="" type="drawable"/><file name="diploma" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\diploma.png" qualifiers="" type="drawable"/><file name="electricalengineer" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\electricalengineer.png" qualifiers="" type="drawable"/><file name="environmentalengineer" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\environmentalengineer.png" qualifiers="" type="drawable"/><file name="facebook" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\facebook.png" qualifiers="" type="drawable"/><file name="geneticengineering" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\geneticengineering.png" qualifiers="" type="drawable"/><file name="google" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\google.png" qualifiers="" type="drawable"/><file name="gradient_1" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\gradient_1.xml" qualifiers="" type="drawable"/><file name="gradient_2" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\gradient_2.xml" qualifiers="" type="drawable"/><file name="img" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\img.png" qualifiers="" type="drawable"/><file name="industrial" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\industrial.png" qualifiers="" type="drawable"/><file name="iti" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\iti.png" qualifiers="" type="drawable"/><file name="marineengineering" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\marineengineering.png" qualifiers="" type="drawable"/><file name="mechanical" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\mechanical.png" qualifiers="" type="drawable"/><file name="metallurgical" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\metallurgical.png" qualifiers="" type="drawable"/><file name="mybutton" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\mybutton.xml" qualifiers="" type="drawable"/><file name="othercourse" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\othercourse.png" qualifiers="" type="drawable"/><file name="petroleumengineering" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\petroleumengineering.png" qualifiers="" type="drawable"/><file name="pharmacycourseafter12" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\pharmacycourseafter12.png" qualifiers="" type="drawable"/><file name="plastic" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\plastic.png" qualifiers="" type="drawable"/><file name="round" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\round.xml" qualifiers="" type="drawable"/><file name="round2" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\round2.xml" qualifiers="" type="drawable"/><file name="round3" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\round3.xml" qualifiers="" type="drawable"/><file name="round4" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\round4.xml" qualifiers="" type="drawable"/><file name="round5" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\round5.xml" qualifiers="" type="drawable"/><file name="sciencecourse" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\sciencecourse.png" qualifiers="" type="drawable"/><file name="spacetechnologist" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\spacetechnologist.png" qualifiers="" type="drawable"/><file name="textile" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\textile.png" qualifiers="" type="drawable"/><file name="vocation" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\vocation.png" qualifiers="" type="drawable"/><file name="windows" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable\windows.png" qualifiers="" type="drawable"/><file name="default_background_for_text" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable-v24\default_background_for_text.xml" qualifiers="v24" type="drawable"/><file name="gi" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable-v24\gi.gif" qualifiers="v24" type="drawable"/><file name="giff" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable-v24\giff.gif" qualifiers="v24" type="drawable"/><file name="ic_launcher_foreground" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable-v24\ic_launcher_foreground.xml" qualifiers="v24" type="drawable"/><file name="img" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable-v24\img.png" qualifiers="v24" type="drawable"/><file name="selected_background" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\drawable-v24\selected_background.xml" qualifiers="v24" type="drawable"/><file name="roboto" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\font\roboto.ttf" qualifiers="" type="font"/><file name="activity_aeronautical" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_aeronautical.xml" qualifiers="" type="layout"/><file name="activity_agricultureengg" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_agricultureengg.xml" qualifiers="" type="layout"/><file name="activity_arts" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_arts.xml" qualifiers="" type="layout"/><file name="activity_automobile_eng" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_automobile_eng.xml" qualifiers="" type="layout"/><file name="activity_barchetecture" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_barchetecture.xml" qualifiers="" type="layout"/><file name="activity_bds" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_bds.xml" qualifiers="" type="layout"/><file name="activity_bestcoursecommerce" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_bestcoursecommerce.xml" qualifiers="" type="layout"/><file name="activity_biomedicaengineering" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_biomedicaengineering.xml" qualifiers="" type="layout"/><file name="activity_biotechnologist" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_biotechnologist.xml" qualifiers="" type="layout"/><file name="activity_bmlt" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_bmlt.xml" qualifiers="" type="layout"/><file name="activity_bnys" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_bnys.xml" qualifiers="" type="layout"/><file name="activity_bot" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_bot.xml" qualifiers="" type="layout"/><file name="activity_bpth" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_bpth.xml" qualifiers="" type="layout"/><file name="activity_broadcastengineer" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_broadcastengineer.xml" qualifiers="" type="layout"/><file name="activity_chatbot" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_chatbot.xml" qualifiers="" type="layout"/><file name="activity_chemicalengineering" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_chemicalengineering.xml" qualifiers="" type="layout"/><file name="activity_civileng" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_civileng.xml" qualifiers="" type="layout"/><file name="activity_commerce" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_commerce.xml" qualifiers="" type="layout"/><file name="activity_commercewithmath" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_commercewithmath.xml" qualifiers="" type="layout"/><file name="activity_commerce_without_maths" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_commerce_without_maths.xml" qualifiers="" type="layout"/><file name="activity_communicationalengineering" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_communicationalengineering.xml" qualifiers="" type="layout"/><file name="activity_computerscience" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_computerscience.xml" qualifiers="" type="layout"/><file name="activity_creativecoursecommerce" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_creativecoursecommerce.xml" qualifiers="" type="layout"/><file name="activity_diplomacoursecommerce" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_diplomacoursecommerce.xml" qualifiers="" type="layout"/><file name="activity_eight" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_eight.xml" qualifiers="" type="layout"/><file name="activity_electricalengineer" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_electricalengineer.xml" qualifiers="" type="layout"/><file name="activity_eleven" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_eleven.xml" qualifiers="" type="layout"/><file name="activity_engineering" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_engineering.xml" qualifiers="" type="layout"/><file name="activity_engineering_as_acarrer" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_engineering_as_acarrer.xml" qualifiers="" type="layout"/><file name="activity_environmentalengineer" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_environmentalengineer.xml" qualifiers="" type="layout"/><file name="activity_geneticengineering" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_geneticengineering.xml" qualifiers="" type="layout"/><file name="activity_industrialengineer" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_industrialengineer.xml" qualifiers="" type="layout"/><file name="activity_login" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_login.xml" qualifiers="" type="layout"/><file name="activity_main" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_managementcoursecommerce" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_managementcoursecommerce.xml" qualifiers="" type="layout"/><file name="activity_marineengineering" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_marineengineering.xml" qualifiers="" type="layout"/><file name="activity_mbbs" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_mbbs.xml" qualifiers="" type="layout"/><file name="activity_mechanicalengineering" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_mechanicalengineering.xml" qualifiers="" type="layout"/><file name="activity_mettalurgyengineering" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_mettalurgyengineering.xml" qualifiers="" type="layout"/><file name="activity_pcb" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_pcb.xml" qualifiers="" type="layout"/><file name="activity_pcm" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_pcm.xml" qualifiers="" type="layout"/><file name="activity_pcmb" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_pcmb.xml" qualifiers="" type="layout"/><file name="activity_petroleumengineering" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_petroleumengineering.xml" qualifiers="" type="layout"/><file name="activity_pharmacycourseafter12" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_pharmacycourseafter12.xml" qualifiers="" type="layout"/><file name="activity_plasticengineer" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_plasticengineer.xml" qualifiers="" type="layout"/><file name="activity_proffesionalcoursecomerrce" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_proffesionalcoursecomerrce.xml" qualifiers="" type="layout"/><file name="activity_science" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_science.xml" qualifiers="" type="layout"/><file name="activity_sciencecourseafter12" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_sciencecourseafter12.xml" qualifiers="" type="layout"/><file name="activity_selection" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_selection.xml" qualifiers="" type="layout"/><file name="activity_shorttermcourse" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_shorttermcourse.xml" qualifiers="" type="layout"/><file name="activity_spacetechnologist" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_spacetechnologist.xml" qualifiers="" type="layout"/><file name="activity_textileengineering" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_textileengineering.xml" qualifiers="" type="layout"/><file name="activity_vocational" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_vocational.xml" qualifiers="" type="layout"/><file name="diploma" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\diploma.xml" qualifiers="" type="layout"/><file name="iti" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\iti.xml" qualifiers="" type="layout"/><file name="message_item" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\message_item.xml" qualifiers="" type="layout"/><file name="shorttermcourse" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\shorttermcourse.xml" qualifiers="" type="layout"/><file name="vocational" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\vocational.xml" qualifiers="" type="layout"/><file name="ic_launcher" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-hdpi\ic_launcher_foreground.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-hdpi\ic_launcher_round.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-mdpi\ic_launcher_foreground.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-mdpi\ic_launcher_round.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-xhdpi\ic_launcher_foreground.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-xhdpi\ic_launcher_round.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-xxhdpi\ic_launcher_foreground.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-xxxhdpi\ic_launcher.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-xxxhdpi\ic_launcher_foreground.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\values\colors.xml" qualifiers=""><color name="purple_200">#FFBB86FC</color><color name="purple_500">#FF6200EE</color><color name="purple_700">#FF3700B3</color><color name="teal_200">#FF03DAC5</color><color name="teal_700">#FF018786</color><color name="black">#FF000000</color><color name="white">#FFFFFFFF</color><color name="blue">#88bef5</color></file><file path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\values\ic_launcher_background.xml" qualifiers=""><color name="ic_launcher_background">#FDFCFC</color></file><file path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">shaaks</string><string name="name">Name</string><string name="login">Login</string><string name="password">Password</string><string name="login1">login</string><string name="default_web_client_id"/><string name="guardian">Guardian</string><string name="student">Student</string><string name="iti"><b>ITI(Industrial Training Institute)</b>\n
+<merger version="3" xmlns:ns1="http://schemas.android.com/tools"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res"/><source path="C:\Users\ASUS\Desktop\shaaks\app\build\generated\res\rs\debug"/><source path="C:\Users\ASUS\Desktop\shaaks\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res"><file name="slide_in_left" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\anim\slide_in_left.xml" qualifiers="" type="anim"/><file name="slide_in_right" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\anim\slide_in_right.xml" qualifiers="" type="anim"/><file name="slide_out_left" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\anim\slide_out_left.xml" qualifiers="" type="anim"/><file name="slide_out_right" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\anim\slide_out_right.xml" qualifiers="" type="anim"/><file name="aero" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\aero.png" qualifiers="" type="drawable"/><file name="agricultengg" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\agricultengg.png" qualifiers="" type="drawable"/><file name="automobile" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\automobile.png" qualifiers="" type="drawable"/><file name="back" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\back.jpg" qualifiers="" type="drawable"/><file name="background" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\background.xml" qualifiers="" type="drawable"/><file name="barch" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\barch.png" qualifiers="" type="drawable"/><file name="biomedical" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\biomedical.png" qualifiers="" type="drawable"/><file name="biotechnologist" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\biotechnologist.png" qualifiers="" type="drawable"/><file name="bot" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\bot.png" qualifiers="" type="drawable"/><file name="broadcast" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\broadcast.png" qualifiers="" type="drawable"/><file name="cag" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\cag.png" qualifiers="" type="drawable"/><file name="chemicalengineer" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\chemicalengineer.png" qualifiers="" type="drawable"/><file name="civil" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\civil.png" qualifiers="" type="drawable"/><file name="communicational" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\communicational.png" qualifiers="" type="drawable"/><file name="computer" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\computer.png" qualifiers="" type="drawable"/><file name="dental" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\dental.png" qualifiers="" type="drawable"/><file name="diploma" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\diploma.png" qualifiers="" type="drawable"/><file name="electricalengineer" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\electricalengineer.png" qualifiers="" type="drawable"/><file name="environmentalengineer" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\environmentalengineer.png" qualifiers="" type="drawable"/><file name="facebook" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\facebook.png" qualifiers="" type="drawable"/><file name="geneticengineering" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\geneticengineering.png" qualifiers="" type="drawable"/><file name="google" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\google.png" qualifiers="" type="drawable"/><file name="gradient_1" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\gradient_1.xml" qualifiers="" type="drawable"/><file name="gradient_2" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\gradient_2.xml" qualifiers="" type="drawable"/><file name="img" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\img.png" qualifiers="" type="drawable"/><file name="industrial" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\industrial.png" qualifiers="" type="drawable"/><file name="iti" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\iti.png" qualifiers="" type="drawable"/><file name="marineengineering" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\marineengineering.png" qualifiers="" type="drawable"/><file name="mechanical" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\mechanical.png" qualifiers="" type="drawable"/><file name="metallurgical" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\metallurgical.png" qualifiers="" type="drawable"/><file name="mybutton" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\mybutton.xml" qualifiers="" type="drawable"/><file name="othercourse" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\othercourse.png" qualifiers="" type="drawable"/><file name="petroleumengineering" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\petroleumengineering.png" qualifiers="" type="drawable"/><file name="pharmacycourseafter12" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\pharmacycourseafter12.png" qualifiers="" type="drawable"/><file name="plastic" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\plastic.png" qualifiers="" type="drawable"/><file name="round" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\round.xml" qualifiers="" type="drawable"/><file name="round2" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\round2.xml" qualifiers="" type="drawable"/><file name="round3" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\round3.xml" qualifiers="" type="drawable"/><file name="round4" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\round4.xml" qualifiers="" type="drawable"/><file name="round5" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\round5.xml" qualifiers="" type="drawable"/><file name="sciencecourse" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\sciencecourse.png" qualifiers="" type="drawable"/><file name="spacetechnologist" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\spacetechnologist.png" qualifiers="" type="drawable"/><file name="textile" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\textile.png" qualifiers="" type="drawable"/><file name="vocation" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\vocation.png" qualifiers="" type="drawable"/><file name="windows" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable\windows.png" qualifiers="" type="drawable"/><file name="default_background_for_text" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable-v24\default_background_for_text.xml" qualifiers="v24" type="drawable"/><file name="gi" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable-v24\gi.gif" qualifiers="v24" type="drawable"/><file name="giff" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable-v24\giff.gif" qualifiers="v24" type="drawable"/><file name="ic_launcher_foreground" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable-v24\ic_launcher_foreground.xml" qualifiers="v24" type="drawable"/><file name="img" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable-v24\img.png" qualifiers="v24" type="drawable"/><file name="selected_background" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\drawable-v24\selected_background.xml" qualifiers="v24" type="drawable"/><file name="roboto" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\font\roboto.ttf" qualifiers="" type="font"/><file name="activity_aeronautical" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_aeronautical.xml" qualifiers="" type="layout"/><file name="activity_agricultureengg" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_agricultureengg.xml" qualifiers="" type="layout"/><file name="activity_arts" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_arts.xml" qualifiers="" type="layout"/><file name="activity_arts_after12" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_arts_after12.xml" qualifiers="" type="layout"/><file name="activity_automobile_eng" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_automobile_eng.xml" qualifiers="" type="layout"/><file name="activity_barchetecture" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_barchetecture.xml" qualifiers="" type="layout"/><file name="activity_bds" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_bds.xml" qualifiers="" type="layout"/><file name="activity_bestcoursecommerce" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_bestcoursecommerce.xml" qualifiers="" type="layout"/><file name="activity_bhms" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_bhms.xml" qualifiers="" type="layout"/><file name="activity_biomedicaengineering" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_biomedicaengineering.xml" qualifiers="" type="layout"/><file name="activity_biotechnologist" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_biotechnologist.xml" qualifiers="" type="layout"/><file name="activity_bmlt" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_bmlt.xml" qualifiers="" type="layout"/><file name="activity_bnys" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_bnys.xml" qualifiers="" type="layout"/><file name="activity_bot" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_bot.xml" qualifiers="" type="layout"/><file name="activity_bpt" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_bpt.xml" qualifiers="" type="layout"/><file name="activity_bpth" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_bpth.xml" qualifiers="" type="layout"/><file name="activity_broadcastengineer" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_broadcastengineer.xml" qualifiers="" type="layout"/><file name="activity_bscnursing" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_bscnursing.xml" qualifiers="" type="layout"/><file name="activity_bvscandah" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_bvscandah.xml" qualifiers="" type="layout"/><file name="activity_chatbot" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_chatbot.xml" qualifiers="" type="layout"/><file name="activity_chemicalengineering" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_chemicalengineering.xml" qualifiers="" type="layout"/><file name="activity_civileng" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_civileng.xml" qualifiers="" type="layout"/><file name="activity_commerce" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_commerce.xml" qualifiers="" type="layout"/><file name="activity_commercewithmath" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_commercewithmath.xml" qualifiers="" type="layout"/><file name="activity_commerce_without_maths" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_commerce_without_maths.xml" qualifiers="" type="layout"/><file name="activity_communicationalengineering" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_communicationalengineering.xml" qualifiers="" type="layout"/><file name="activity_computerscience" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_computerscience.xml" qualifiers="" type="layout"/><file name="activity_creativecoursecommerce" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_creativecoursecommerce.xml" qualifiers="" type="layout"/><file name="activity_diplomacoursecommerce" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_diplomacoursecommerce.xml" qualifiers="" type="layout"/><file name="activity_eight" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_eight.xml" qualifiers="" type="layout"/><file name="activity_electricalengineer" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_electricalengineer.xml" qualifiers="" type="layout"/><file name="activity_eleven" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_eleven.xml" qualifiers="" type="layout"/><file name="activity_engineering" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_engineering.xml" qualifiers="" type="layout"/><file name="activity_engineering_as_acarrer" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_engineering_as_acarrer.xml" qualifiers="" type="layout"/><file name="activity_environmentalengineer" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_environmentalengineer.xml" qualifiers="" type="layout"/><file name="activity_exams_after10th" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_exams_after10th.xml" qualifiers="" type="layout"/><file name="activity_exams_in9th10th" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_exams_in9th10th.xml" qualifiers="" type="layout"/><file name="activity_geneticengineering" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_geneticengineering.xml" qualifiers="" type="layout"/><file name="activity_industrialengineer" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_industrialengineer.xml" qualifiers="" type="layout"/><file name="activity_login" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_login.xml" qualifiers="" type="layout"/><file name="activity_main" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_managementcoursecommerce" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_managementcoursecommerce.xml" qualifiers="" type="layout"/><file name="activity_marineengineering" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_marineengineering.xml" qualifiers="" type="layout"/><file name="activity_mbbs" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_mbbs.xml" qualifiers="" type="layout"/><file name="activity_mechanicalengineering" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_mechanicalengineering.xml" qualifiers="" type="layout"/><file name="activity_mettalurgyengineering" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_mettalurgyengineering.xml" qualifiers="" type="layout"/><file name="activity_pcb" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_pcb.xml" qualifiers="" type="layout"/><file name="activity_pcm" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_pcm.xml" qualifiers="" type="layout"/><file name="activity_pcmb" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_pcmb.xml" qualifiers="" type="layout"/><file name="activity_petroleumengineering" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_petroleumengineering.xml" qualifiers="" type="layout"/><file name="activity_pharmacycourseafter12" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_pharmacycourseafter12.xml" qualifiers="" type="layout"/><file name="activity_plasticengineer" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_plasticengineer.xml" qualifiers="" type="layout"/><file name="activity_proffesionalcoursecomerrce" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_proffesionalcoursecomerrce.xml" qualifiers="" type="layout"/><file name="activity_science" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_science.xml" qualifiers="" type="layout"/><file name="activity_sciencecourseafter12" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_sciencecourseafter12.xml" qualifiers="" type="layout"/><file name="activity_selection" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_selection.xml" qualifiers="" type="layout"/><file name="activity_shorttermcourse" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_shorttermcourse.xml" qualifiers="" type="layout"/><file name="activity_spacetechnologist" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_spacetechnologist.xml" qualifiers="" type="layout"/><file name="activity_textileengineering" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_textileengineering.xml" qualifiers="" type="layout"/><file name="activity_vocational" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\activity_vocational.xml" qualifiers="" type="layout"/><file name="diploma" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\diploma.xml" qualifiers="" type="layout"/><file name="iti" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\iti.xml" qualifiers="" type="layout"/><file name="message_item" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\message_item.xml" qualifiers="" type="layout"/><file name="shorttermcourse" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\shorttermcourse.xml" qualifiers="" type="layout"/><file name="vocational" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\layout\vocational.xml" qualifiers="" type="layout"/><file name="ic_launcher" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\mipmap-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\mipmap-hdpi\ic_launcher_foreground.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\mipmap-hdpi\ic_launcher_round.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\mipmap-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\mipmap-mdpi\ic_launcher_foreground.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\mipmap-mdpi\ic_launcher_round.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\mipmap-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\mipmap-xhdpi\ic_launcher_foreground.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\mipmap-xhdpi\ic_launcher_round.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\mipmap-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\mipmap-xxhdpi\ic_launcher_foreground.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\mipmap-xxxhdpi\ic_launcher.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\mipmap-xxxhdpi\ic_launcher_foreground.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\values\colors.xml" qualifiers=""><color name="purple_200">#FFBB86FC</color><color name="purple_500">#FF6200EE</color><color name="purple_700">#FF3700B3</color><color name="teal_200">#FF03DAC5</color><color name="teal_700">#FF018786</color><color name="black">#FF000000</color><color name="white">#FFFFFFFF</color><color name="blue">#88bef5</color></file><file path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\values\ic_launcher_background.xml" qualifiers=""><color name="ic_launcher_background">#FDFCFC</color></file><file path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">shaaks</string><string name="name">Name</string><string name="login">Login</string><string name="password">Password</string><string name="login1">login</string><string name="default_web_client_id"/><string name="guardian">Guardian</string><string name="student">Student</string><string name="iti"><b>ITI(Industrial Training Institute)</b>\n
 
 ITI courses are the best way to learn any vocational skills. It is not necessary that everyone has to be a doctor or an IIT engineer. You can also be a technician or a mechanic. If you dont have to pursue higher education then you go for a diploma in various ITI courses. Students may pursue ITI programs after completing 12th also. Duration of ITI programs could be 1-2 years.\n\n<b>ELIGIBILITY :</b>
 \n\nAnyone who has completed from 8th to 10+2 is eligible for courses under ITI.\n\n<b>AGE LIMIT :</b>\n\nCandidate should be between 14 to 40 years old.\n\n<b>Procedure to Join :</b>\n\nChoose any ITI from your area.
@@ -1959,112 +1959,7 @@ Following are some popular BNYS entrance exams: \n\n
 
 <b>• Post graduate degree :</b>\n\n
  Post-graduate courses with scholarship/assistantship, are open to students who have qualified in the Graduate Aptitude Test in Engineering (GATE) or National Eligibility Test (NET of UGC). Graduate Engineers, Associate members of the Institute of Engineers, postgraduates in Physics/ Chemistry/ Maths/ Statistics/ Computer Applications can appear for GATE conducted by IITs and Indian Institute of Sciences .
-</string><string name="bscnursing">   <b>Bsc Nursing </b>\n\n
-B Nursing (Bachelor of Science in Nursing)  There are various degrees one can opt for in the healthcare sector apart from MBBS or BDS . Bachelor of Science in Nursing (B.Sc Nursing) is one such professional course which makes candidates ready to serve humanity through medical treatment.\n\n
-
-Course Duration : 4 years\n
-Eligibility : 10+2 in Physics, Chemistry, Biology\n\n
-
-        <b>Top Job Profiles</b>\n\n
-• Case Manager\n
-• Certified Nurse Midwife\n
-•  Clinical Nurse Specialist\n
-•  Manager/Administrator\n
-•  Nurse Anesthetist.\n
-•   Nurse Educator\
-•   Nurse Practitioner\n
-•    Staff Nurse \n\n
-
-
-<b>Top colleges for nursing : </b>\n\n
-
-• All India Institute of Medical Sciences, Delhi\n
-• Post Graduate Institute of Medical Education and Research, Chandigarh\n
-• Christian Medical College, Vellore\n
-• National Institute of Mental Health and  Neurosciences, Bangalore\n
-• Sanjay Gandhi Postgraduate Institute of Medical Sciences, Lucknow\n
-• Banaras Hindu University, Varanasi\n
-• Amrita Institute of Medical Sciences and Research\n
-</string><string name="bvscandah">  <b>B.V.SC and AH </b>\n\n
-The Bachelor of Veterinary Sciences and  Animal Husbandry (B.V. Sc. and  AH) degree falls within the Veterinary Education part of Medical Education in India, and is therefore monitored by the Veterinary Council of India.\n\n
-* Aspirants who want to get admission in B.V. Sc and AH programs at UG level under the 15% of All India Quota Seats are required to appear in NEET.\n\n
-
-        <b>Top colleges :</b>\n\n
-• Apollo College Of Veterinary Medicine (ACVM), Jaipur\n
-• Mayurakshi Institute Of Engineering and  Technology (MIET), Jodhpur\n
-• Vivekananda Institute Of Technology and Science (VITS GHAZIABAD), Ghaziabad\n\n
-
-        <b>Entrance Exams :</b>\n\n
-•NEET\n
-•AAU VET\n
-•OUAT\n
-•RPVT\n
-•UP Veterinary entrance exam\n
-•Prelims\n
-•BHU UET\n
-</string><string name="bpt">  <b> BPT </b>\n\n
-
-BPT or Bachelor of Physiotherapy is a four-year undergraduate professional course that deals with the science of physical movement and channelising it to prevent disability and diseases of movement.\n\n
-
-Bachelor of Physiotherapy (B.P.Th) Eligibility Criteria : \n\n
-
-• Min Qualification Required: 10+2 Subject Combination: Physics, Chemistry and Biology and sometimes English as compulsory subjects\n
-
-•  Min. Marks Required (Aggregate): 50% (relaxation for reserved category students available)\n
-
-• Minimum Age Required: 17 Years .\n\n<b>Note: Candidates are required to get their marks verified during the time of admission through the original copies of their documents and mark sheet.</b> \n\n
-
-        <b>B.P.Th Admission Process</b>\n\n
-
-• The admission process for BPT (Bachelor of Physiotherapy) is different in different colleges/ universities. . some institutes conduct their own entrance exams, some accept state-level or national-level exams.\n
-
-• some institutes select students on the basis of their performance in Class 12 examinations.\n
-
-• Some institutes carry out the admission process through interviews and group discussions.\n\n
-
-        <b>Top colleges for BPTh :</b>\n\n
-
-• St Johns Medical College, Bangalore. \n
-• MS Ramaiah Medical College, Bangalore. \n
-• IMS BHU - Institute of Medical Sciences   Banaras Hindu University.\n
-• HIMSR New Delhi - Hamdard Institute of Medical Sciences and Research.\n
-• Shree Guru Gobind Singh Tricentenary University, Gurgaon.\n</string><string name="pcmb"><b>PCMB </b>\n\n
-* Students having PCMB profile can opt for any course and job from PCM as well as PCB sections\n\n
-Courses related to MBiPC after 12th are:\n\n
-• Engineering\n
-• Medical (MBBS, MDS etc.)\n
-• Audiology\n
-• Agriculture and its allied fields\n
-• Civil Aviation and its allied fields\n
-• Architecture (IIT-JEE)\n
-• Biotechnology (B-tech  and B.Sc)\n
-• Information Technology\n
-• Genetics\n
-• Lab Technician\n
-• Defence-NDA (navy and airforce)\n
-• Merchant Navy\n
-• Pharmacy\n
-• Nursing\n
-• Occupational Therapy\n
-• Optometry\n
-• Physiotherapy\n
-• Speech therapy\n
-•Veterinary Sciences\n\n
-
-        <b>Fields of engineering that are related to biology are :</b>\n\n
-•Biomedical engineering\n
-•Food Technology\n
-•Dairy technology\n
-
-        <b>Courses other than Engineering and medical are :</b>\n\n
-•B.Sc in Agriculture\n
-•B.Sc in Nursing\n
-•B.Sc with any other combination\n
-•Animations\n
-•Fashion Designing\n
-•BBM\n
-•BBA\n
-•Lab technician courses\n</string><string name="mbbs"><b>MBBS</b>\n\n
+</string><string name="mbbs"><b>MBBS</b>\n\n
 
 Bachelor of Medicine, Bachelor of Surgery ( abbreviated in many ways, most commonly MBBS, but also MB ChB, BMBS, MB BCh, MB BChir and BM BCh), is the primary medical degree awarded by medical schools in countries that follow the tradition of the United Kingdom. The historical degree nomenclature states that they are two separate undergraduate degrees. In practice, however, they are usually combined as one and conferred together, and may also be awarded at graduate-level medical schools.\n\n
 
@@ -2165,63 +2060,112 @@ Mentioned below are some of the areas in which higher studies can be done after 
 
 • KEAM\n
 
-• PU CET\n</string><string name="exams_after_10th"> <b>ENGINEERING  EXAMS AVAILABLE</b>\n\n
-*Joint Entrance Examination (JEE) Main\n
-*Birla Institute of Technology andScience Admission Test (BITSAT)entrance
-exam\n
-*COMED-K\n
-*IPU-CET (B. Tech)\n
-*Manipal (B. Tech)\n
-*VITEEE\n
-*AMU (B. Tech)\n
-*NDA Entrance with PCM (MPC)and JEE Advance\n\n
+• PU CET\n</string><string name="bpt">  <b> BPT </b>\n\n
+
+BPT or Bachelor of Physiotherapy is a four-year undergraduate professional course that deals with the science of physical movement and channelising it to prevent disability and diseases of movement.\n\n
+
+Bachelor of Physiotherapy (B.P.Th) Eligibility Criteria : \n\n
+
+• Min Qualification Required: 10+2 Subject Combination: Physics, Chemistry and Biology and sometimes English as compulsory subjects\n
+
+•  Min. Marks Required (Aggregate): 50% (relaxation for reserved category students available)\n
+
+• Minimum Age Required: 17 Years .\n\n<b>Note: Candidates are required to get their marks verified during the time of admission through the original copies of their documents and mark sheet.</b> \n\n
+
+        <b>B.P.Th Admission Process</b>\n\n
+
+• The admission process for BPT (Bachelor of Physiotherapy) is different in different colleges/ universities. . some institutes conduct their own entrance exams, some accept state-level or national-level exams.\n
+
+• some institutes select students on the basis of their performance in Class 12 examinations.\n
+
+• Some institutes carry out the admission process through interviews and group discussions.\n\n
+
+        <b>Top colleges for BPTh :</b>\n\n
+
+• St Johns Medical College, Bangalore. \n
+• MS Ramaiah Medical College, Bangalore. \n
+• IMS BHU - Institute of Medical Sciences   Banaras Hindu University.\n
+• HIMSR New Delhi - Hamdard Institute of Medical Sciences and Research.\n
+• Shree Guru Gobind Singh Tricentenary University, Gurgaon.\n</string><string name="bscnursing">   <b>Bsc Nursing </b>\n\n
+B Nursing (Bachelor of Science in Nursing)  There are various degrees one can opt for in the healthcare sector apart from MBBS or BDS . Bachelor of Science in Nursing (B.Sc Nursing) is one such professional course which makes candidates ready to serve humanity through medical treatment.\n\n
+
+Course Duration : 4 years\n
+Eligibility : 10+2 in Physics, Chemistry, Biology\n\n
+
+        <b>Top Job Profiles</b>\n\n
+• Case Manager\n
+• Certified Nurse Midwife\n
+•  Clinical Nurse Specialist\n
+•  Manager/Administrator\n
+•  Nurse Anesthetist.\n
+•   Nurse Educator\
+•   Nurse Practitioner\n
+•    Staff Nurse \n\n
 
 
-<b>MEDICAL EXAMS AVAILABLE</b>\n\n
-*NEET (National Eligibility Cum Entrance Test)\n
-*AIIMS\n
-*JIPMER\n\n
+<b>Top colleges for nursing : </b>\n\n
 
+• All India Institute of Medical Sciences, Delhi\n
+• Post Graduate Institute of Medical Education and Research, Chandigarh\n
+• Christian Medical College, Vellore\n
+• National Institute of Mental Health and  Neurosciences, Bangalore\n
+• Sanjay Gandhi Postgraduate Institute of Medical Sciences, Lucknow\n
+• Banaras Hindu University, Varanasi\n
+• Amrita Institute of Medical Sciences and Research\n
+</string><string name="bvscandah">  <b>B.V.SC and AH </b>\n\n
+The Bachelor of Veterinary Sciences and  Animal Husbandry (B.V. Sc. and  AH) degree falls within the Veterinary Education part of Medical Education in India, and is therefore monitored by the Veterinary Council of India.\n\n
+* Aspirants who want to get admission in B.V. Sc and AH programs at UG level under the 15% of All India Quota Seats are required to appear in NEET.\n\n
 
+        <b>Top colleges :</b>\n\n
+• Apollo College Of Veterinary Medicine (ACVM), Jaipur\n
+• Mayurakshi Institute Of Engineering and  Technology (MIET), Jodhpur\n
+• Vivekananda Institute Of Technology and Science (VITS GHAZIABAD), Ghaziabad\n\n
 
-<b>DEFENCE SERVICES EXAMS AVAILABLE</b>\n\n
-*Indian Maritime University\n
-*Common Entrance Test\n
-*Indian Navy B.Tech Entry Scheme\n
-*Indian Army Technical Entry Scheme (TES)\n
-*National Defence Academy and Naval Academy Examination (I)\n\n
+        <b>Entrance Exams :</b>\n\n
+•NEET\n
+•AAU VET\n
+•OUAT\n
+•RPVT\n
+•UP Veterinary entrance exam\n
+•Prelims\n
+•BHU UET\n
+</string><string name="pcmb"><b>PCMB </b>\n\n
+* Students having PCMB profile can opt for any course and job from PCM as well as PCB sections\n\n
+Courses related to MBiPC after 12th are:\n\n
+• Engineering\n
+• Medical (MBBS, MDS etc.)\n
+• Audiology\n
+• Agriculture and its allied fields\n
+• Civil Aviation and its allied fields\n
+• Architecture (IIT-JEE)\n
+• Biotechnology (B-tech  and B.Sc)\n
+• Information Technology\n
+• Genetics\n
+• Lab Technician\n
+• Defence-NDA (navy and airforce)\n
+• Merchant Navy\n
+• Pharmacy\n
+• Nursing\n
+• Occupational Therapy\n
+• Optometry\n
+• Physiotherapy\n
+• Speech therapy\n
+•Veterinary Sciences\n\n
 
+        <b>Fields of engineering that are related to biology are :</b>\n\n
+•Biomedical engineering\n
+•Food Technology\n
+•Dairy technology\n
 
-<b>FASHION AND DESIGN  EXAMS AVAILABLE</b>\n\n
-*National Institute of Fashion\n
-*Technology (NIFT) Entrance Test\n
-*National Institute of Design Admissions\n
-*All India Entrance Examination for Design (AIEED)\n
-*Footwear Design and Development Institute\n
-*Maeer’s MIT Institute of Design\n
-*National Institute of Fashion Design\n
-*National Aptitude Test in Architecture\n
-*Center for Environmental Planning and Technology (CEPT)\n
-*Symbiosis Institute of Design Exam\n\n
-
-
-<b>SOCIAL SCIENCES</b>\n\n
-*Banaras Hindu University\n
-*IIT Madras Humanities and Social Sciences EntranceExamination (HSEE)\n
-*TISS Bachelors Admission Test(TISS-BAT)\n\n
-
-
-
-<b>LAW EXAMS AVAILABLE</b>\n\n
-*Common-Law Admission Test\n
-*All India Law Entrance Test(AILET)\n\n
-
-
-
-<b>SCIENCE EXAMS AVAILABLE</b>\n\n
-*Kishore Vaigyanik Protsahan Yojana (KVPY)\n
-*National Entrance Screening Test (NEST)\n
-</string><string name="arts_after_12"><b>TOP COURSES TO DO AFTER 12TH ARTS :</b>\n\n
+        <b>Courses other than Engineering and medical are :</b>\n\n
+•B.Sc in Agriculture\n
+•B.Sc in Nursing\n
+•B.Sc with any other combination\n
+•Animations\n
+•Fashion Designing\n
+•BBM\n
+•BBA\n
+•Lab technician courses\n</string><string name="arts_after_12"><b>TOP COURSES TO DO AFTER 12TH ARTS :</b>\n\n
  <b>B.A.(Bachelor of Arts )</b>\n\n
 * Course duration is 3 years.\n
 *Bachelor of Arts (BA or AB; from the Latin baccalaureus artium, baccalaureus in artibus, or artium baccalaureus) is a bachelors degree awarded for an undergraduate program in the arts,[1] or in some cases other disciplines. A Bachelor of Arts degree course is generally completed in three or four years, depending on the country and institution.\n\n
@@ -2419,7 +2363,63 @@ Top Colleges:\n\n
 *GeoGenius.\n\n
 *Silverzone Olympiads.\n\n
 *National Interactive Maths Olympiad or NIMO.\n\n
-*National Biotechnology Olympiad or NBO.\n\n</string></file><file path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\values\themes.xml" qualifiers=""><style name="Theme.Shaaks" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+*National Biotechnology Olympiad or NBO.\n\n</string><string name="exams_after_10th"> <b>ENGINEERING  EXAMS AVAILABLE</b>\n\n
+*Joint Entrance Examination (JEE) Main\n
+*Birla Institute of Technology andScience Admission Test (BITSAT)entrance
+exam\n
+*COMED-K\n
+*IPU-CET (B. Tech)\n
+*Manipal (B. Tech)\n
+*VITEEE\n
+*AMU (B. Tech)\n
+*NDA Entrance with PCM (MPC)and JEE Advance\n\n
+
+
+<b>MEDICAL EXAMS AVAILABLE</b>\n\n
+*NEET (National Eligibility Cum Entrance Test)\n
+*AIIMS\n
+*JIPMER\n\n
+
+
+
+<b>DEFENCE SERVICES EXAMS AVAILABLE</b>\n\n
+*Indian Maritime University\n
+*Common Entrance Test\n
+*Indian Navy B.Tech Entry Scheme\n
+*Indian Army Technical Entry Scheme (TES)\n
+*National Defence Academy and Naval Academy Examination (I)\n\n
+
+
+<b>FASHION AND DESIGN  EXAMS AVAILABLE</b>\n\n
+*National Institute of Fashion\n
+*Technology (NIFT) Entrance Test\n
+*National Institute of Design Admissions\n
+*All India Entrance Examination for Design (AIEED)\n
+*Footwear Design and Development Institute\n
+*Maeer’s MIT Institute of Design\n
+*National Institute of Fashion Design\n
+*National Aptitude Test in Architecture\n
+*Center for Environmental Planning and Technology (CEPT)\n
+*Symbiosis Institute of Design Exam\n\n
+
+
+<b>SOCIAL SCIENCES</b>\n\n
+*Banaras Hindu University\n
+*IIT Madras Humanities and Social Sciences EntranceExamination (HSEE)\n
+*TISS Bachelors Admission Test(TISS-BAT)\n\n
+
+
+
+<b>LAW EXAMS AVAILABLE</b>\n\n
+*Common-Law Admission Test\n
+*All India Law Entrance Test(AILET)\n\n
+
+
+
+<b>SCIENCE EXAMS AVAILABLE</b>\n\n
+*Kishore Vaigyanik Protsahan Yojana (KVPY)\n
+*National Entrance Screening Test (NEST)\n
+</string></file><file path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\values\themes.xml" qualifiers=""><style name="Theme.Shaaks" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>
         <item name="colorPrimaryVariant">@color/purple_700</item>
@@ -2435,7 +2435,7 @@ Top Colleges:\n\n
         <item name="colorPrimary">#20D0D0</item>
         <item name="colorPrimaryDark">#20C8D1</item>
         <item name="colorAccent">@color/white</item>
-    </style></file><file path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\values-night\themes.xml" qualifiers="night-v8"><style name="Theme.Shaaks" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+    </style></file><file path="C:\Users\ASUS\Desktop\shaaks\app\src\main\res\values-night\themes.xml" qualifiers="night-v8"><style name="Theme.Shaaks" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_200</item>
         <item name="colorPrimaryVariant">@color/purple_700</item>
@@ -2447,4 +2447,4 @@ Top Colleges:\n\n
         
         <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
         
-    </style></file><file name="activity_bhms" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_bhms.xml" qualifiers="" type="layout"/><file name="activity_bpt" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_bpt.xml" qualifiers="" type="layout"/><file name="activity_bscnursing" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_bscnursing.xml" qualifiers="" type="layout"/><file name="activity_bvscandah" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_bvscandah.xml" qualifiers="" type="layout"/><file name="activity_arts_after12" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_arts_after12.xml" qualifiers="" type="layout"/><file name="activity_exams_after10th" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_exams_after10th.xml" qualifiers="" type="layout"/><file name="activity_exams_in9th10th" path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\res\layout\activity_exams_in9th10th.xml" qualifiers="" type="layout"/></source><source path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\build\generated\res\rs\debug"/><source path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\debug\res"/></dataSet><mergedItems/></merger>
+    </style></file></source><source path="C:\Users\ASUS\Desktop\shaaks\app\build\generated\res\rs\debug"/><source path="C:\Users\ASUS\Desktop\shaaks\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\ASUS\Desktop\shaaks\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\ASUS\Desktop\shaaks\app\src\debug\res"/></dataSet><mergedItems/></merger>

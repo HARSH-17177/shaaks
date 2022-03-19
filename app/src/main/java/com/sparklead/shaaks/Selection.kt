@@ -29,6 +29,8 @@ class Selection : AppCompatActivity() , View.OnClickListener{
         tv_option2.setOnClickListener(this)
         tv_option3.setOnClickListener(this)
         tv_option4.setOnClickListener(this)
+        tv_option5.setOnClickListener(this)
+        tv_option6.setOnClickListener(this)
 
         btn_bot.setOnClickListener {
 
@@ -62,9 +64,21 @@ class Selection : AppCompatActivity() , View.OnClickListener{
                 startActivity(intent)
                 overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
             }
-            else if(selectedoptionnum==3 || selectedoptionnum==4)
+            else if(selectedoptionnum==5 || selectedoptionnum==6)
             {
                 val intent = Intent(this, Eleven::class.java)
+                startActivity(intent)
+                overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
+            }
+            else if(selectedoptionnum == 3)
+            {
+                val intent = Intent(this, exams_in_9th_10th::class.java)
+                startActivity(intent)
+                overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
+            }
+            else if(selectedoptionnum == 4)
+            {
+                val intent = Intent(this, exams_after_10th::class.java)
                 startActivity(intent)
                 overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
             }
@@ -87,6 +101,12 @@ class Selection : AppCompatActivity() , View.OnClickListener{
             R.id.tv_option4->{
                 selectedoption(tv_option4,4)
             }
+            R.id.tv_option5->{
+                selectedoption(tv_option5,5)
+            }
+            R.id.tv_option6->{
+                selectedoption(tv_option6,6)
+            }
 
 
         }
@@ -100,6 +120,8 @@ class Selection : AppCompatActivity() , View.OnClickListener{
         options.add(1,tv_option2)
         options.add(2,tv_option3)
         options.add(3,tv_option4)
+        options.add(4,tv_option5)
+        options.add(5,tv_option6)
 
 
 
