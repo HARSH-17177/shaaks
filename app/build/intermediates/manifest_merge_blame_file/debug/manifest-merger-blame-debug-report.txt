@@ -6,700 +6,728 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="26"
-8-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml
+8-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="32" />
-9-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml
+9-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:5:5-67
-11-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:5:22-64
+11-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:5:22-64
 12
 13    <application
-13-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:7:5-317:19
+13-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:7:5-331:19
 14        android:allowBackup="true"
-14-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:8:9-35
+14-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:8:9-35
 15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-15-->[androidx.core:core:1.7.0] C:\Users\Lenovo\.gradle\caches\transforms-3\adacc4bbdca3c037c01e5031782c646c\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+15-->[androidx.core:core:1.7.0] C:\Users\ASUS\.gradle\caches\transforms-3\adacc4bbdca3c037c01e5031782c646c\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 16        android:debuggable="true"
 17        android:extractNativeLibs="false"
 18        android:icon="@mipmap/ic_launcher"
-18-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:9:9-43
+18-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:9:9-43
 19        android:label="@string/app_name"
-19-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:10:9-41
+19-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:10:9-41
 20        android:roundIcon="@mipmap/ic_launcher_round"
-20-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:11:9-54
+20-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:11:9-54
 21        android:supportsRtl="true"
-21-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:12:9-35
+21-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:12:9-35
 22        android:testOnly="true"
 23        android:theme="@style/Theme.Shaaks" >
-23-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:13:9-44
+23-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:13:9-44
 24        <activity
-24-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:14:9-16:40
+24-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:14:9-18:54
 25            android:name="com.sparklead.shaaks.exams_after_10th"
-25-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:15:13-45
-26            android:exported="false" />
-26-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:16:13-37
-27        <activity
-27-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:17:9-19:40
-28            android:name="com.sparklead.shaaks.exams_in_9th_10th"
-28-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:18:13-46
-29            android:exported="false" />
-29-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:19:13-37
-30        <activity
-30-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:20:9-22:40
-31            android:name="com.sparklead.shaaks.arts_after_12"
-31-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:21:13-42
-32            android:exported="false" />
-32-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:22:13-37
-33        <activity
-33-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:23:9-25:40
-34            android:name="com.sparklead.shaaks.bvscandah"
-34-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:24:13-38
-35            android:exported="false" />
-35-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:25:13-37
-36        <activity
-36-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:26:9-28:40
-37            android:name="com.sparklead.shaaks.bscnursing"
-37-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:27:13-39
-38            android:exported="false" />
-38-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:28:13-37
+25-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:15:13-45
+26            android:exported="false"
+26-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:16:13-37
+27            android:screenOrientation="portrait"
+27-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:17:13-49
+28            android:theme="@style/NoActionBarTheme" />
+28-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:18:13-52
+29        <activity
+29-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:19:9-23:54
+30            android:name="com.sparklead.shaaks.exams_in_9th_10th"
+30-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:20:13-46
+31            android:exported="false"
+31-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:21:13-37
+32            android:screenOrientation="portrait"
+32-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:22:13-49
+33            android:theme="@style/NoActionBarTheme" />
+33-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:23:13-52
+34        <activity
+34-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:24:9-28:54
+35            android:name="com.sparklead.shaaks.arts_after_12"
+35-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:25:13-42
+36            android:exported="false"
+36-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:26:13-37
+37            android:screenOrientation="portrait"
+37-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:27:13-49
+38            android:theme="@style/NoActionBarTheme" />
+38-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:28:13-52
 39        <activity
-39-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:29:9-31:40
-40            android:name="com.sparklead.shaaks.bpt"
-40-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:30:13-32
-41            android:exported="false" />
-41-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:31:13-37
-42        <activity
-42-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:32:9-34:40
-43            android:name="com.sparklead.shaaks.bhms"
-43-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:33:13-33
-44            android:exported="false" />
-44-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:34:13-37
-45        <activity
-45-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:35:9-39:55
-46            android:name="com.sparklead.shaaks.engineering_as_a_carrer"
-46-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:36:13-52
-47            android:exported="false"
-47-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:37:13-37
-48            android:screenOrientation="portrait"
-48-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:38:13-49
-49            android:theme="@style/NoActionBarTheme" />
-49-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:39:13-52
-50        <activity
-50-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:40:9-44:55
-51            android:name="com.sparklead.shaaks.bnys"
-51-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:41:13-33
-52            android:exported="false"
-52-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:42:13-37
-53            android:screenOrientation="portrait"
-53-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:43:13-49
-54            android:theme="@style/NoActionBarTheme" />
-54-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:44:13-52
-55        <activity
-55-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:45:9-49:55
-56            android:name="com.sparklead.shaaks.bpth"
-56-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:46:13-33
-57            android:exported="false"
-57-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:47:13-37
-58            android:screenOrientation="portrait"
-58-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:48:13-49
-59            android:theme="@style/NoActionBarTheme" />
-59-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:49:13-52
-60        <activity
-60-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:50:9-54:55
-61            android:name="com.sparklead.shaaks.bmlt"
-61-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:51:13-33
-62            android:exported="false"
-62-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:52:13-37
-63            android:screenOrientation="portrait"
-63-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:53:13-49
-64            android:theme="@style/NoActionBarTheme" />
-64-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:54:13-52
-65        <activity
-65-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:55:9-59:55
-66            android:name="com.sparklead.shaaks.bot"
-66-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:56:13-32
-67            android:exported="false"
-67-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:57:13-37
-68            android:screenOrientation="portrait"
-68-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:58:13-49
-69            android:theme="@style/NoActionBarTheme" />
-69-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:59:13-52
-70        <activity
-70-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:60:9-64:55
-71            android:name="com.sparklead.shaaks.bds"
-71-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:61:13-32
-72            android:exported="false"
-72-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:62:13-37
-73            android:screenOrientation="portrait"
-73-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:63:13-49
-74            android:theme="@style/NoActionBarTheme" />
-74-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:64:13-52
-75        <activity
-75-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:65:9-69:55
-76            android:name="com.sparklead.shaaks.mbbs"
-76-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:66:13-33
-77            android:exported="false"
-77-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:67:13-37
-78            android:screenOrientation="portrait"
-78-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:68:13-49
-79            android:theme="@style/NoActionBarTheme" />
-79-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:69:13-52
-80        <activity
-80-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:70:9-74:55
-81            android:name="com.sparklead.shaaks.pharmacycourseafter12"
-81-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:71:13-50
-82            android:exported="false"
-82-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:72:13-37
-83            android:screenOrientation="portrait"
-83-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:73:13-49
-84            android:theme="@style/NoActionBarTheme" />
-84-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:74:13-52
-85        <activity
-85-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:75:9-79:55
-86            android:name="com.sparklead.shaaks.sciencecourseafter12"
-86-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:76:13-49
-87            android:exported="false"
-87-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:77:13-37
-88            android:screenOrientation="portrait"
-88-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:78:13-49
-89            android:theme="@style/NoActionBarTheme" />
-89-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:79:13-52
-90        <activity
-90-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:80:9-84:55
-91            android:name="com.sparklead.shaaks.barchetecture"
-91-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:81:13-42
-92            android:exported="false"
-92-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:82:13-37
-93            android:screenOrientation="portrait"
-93-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:83:13-49
-94            android:theme="@style/NoActionBarTheme" />
-94-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:84:13-52
-95        <activity
-95-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:85:9-89:55
-96            android:name="com.sparklead.shaaks.plasticengineer"
-96-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:86:13-44
-97            android:exported="false"
-97-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:87:13-37
-98            android:screenOrientation="portrait"
-98-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:88:13-49
-99            android:theme="@style/NoActionBarTheme" />
-99-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:89:13-52
-100        <activity
-100-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:90:9-94:55
-101            android:name="com.sparklead.shaaks.industrialengineer"
-101-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:91:13-47
-102            android:exported="false"
-102-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:92:13-37
-103            android:screenOrientation="portrait"
-103-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:93:13-49
-104            android:theme="@style/NoActionBarTheme" />
-104-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:94:13-52
-105        <activity
-105-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:95:9-99:55
-106            android:name="com.sparklead.shaaks.environmentalengineer"
-106-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:96:13-50
-107            android:exported="false"
-107-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:97:13-37
-108            android:screenOrientation="portrait"
-108-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:98:13-49
-109            android:theme="@style/NoActionBarTheme" />
-109-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:99:13-52
-110        <activity
-110-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:100:9-104:55
-111            android:name="com.sparklead.shaaks.mettalurgyengineering"
-111-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:101:13-50
-112            android:exported="false"
-112-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:102:13-37
-113            android:screenOrientation="portrait"
-113-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:103:13-49
-114            android:theme="@style/NoActionBarTheme" />
-114-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:104:13-52
-115        <activity
-115-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:105:9-109:55
-116            android:name="com.sparklead.shaaks.marineengineering"
-116-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:106:13-46
-117            android:exported="false"
-117-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:107:13-37
-118            android:screenOrientation="portrait"
-118-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:108:13-49
-119            android:theme="@style/NoActionBarTheme" />
-119-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:109:13-52
-120        <activity
-120-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:110:9-114:55
-121            android:name="com.sparklead.shaaks.electricalengineer"
-121-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:111:13-47
-122            android:exported="false"
-122-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:112:13-37
-123            android:screenOrientation="portrait"
-123-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:113:13-49
-124            android:theme="@style/NoActionBarTheme" />
-124-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:114:13-52
-125        <activity
-125-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:115:9-119:55
-126            android:name="com.sparklead.shaaks.chemicalengineering"
-126-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:116:13-48
-127            android:exported="false"
-127-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:117:13-37
-128            android:screenOrientation="portrait"
-128-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:118:13-49
-129            android:theme="@style/NoActionBarTheme" />
-129-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:119:13-52
-130        <activity
-130-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:120:9-124:55
-131            android:name="com.sparklead.shaaks.textileengineering"
-131-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:121:13-47
-132            android:exported="false"
-132-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:122:13-37
-133            android:screenOrientation="portrait"
-133-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:123:13-49
-134            android:theme="@style/NoActionBarTheme" />
-134-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:124:13-52
-135        <activity
-135-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:125:9-129:55
-136            android:name="com.sparklead.shaaks.spacetechnologist"
-136-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:126:13-46
-137            android:exported="false"
-137-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:127:13-37
-138            android:screenOrientation="portrait"
-138-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:128:13-49
-139            android:theme="@style/NoActionBarTheme" />
-139-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:129:13-52
-140        <activity
-140-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:130:9-134:55
-141            android:name="com.sparklead.shaaks.petroleumengineering"
-141-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:131:13-49
-142            android:exported="false"
-142-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:132:13-37
-143            android:screenOrientation="portrait"
-143-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:133:13-49
-144            android:theme="@style/NoActionBarTheme" />
-144-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:134:13-52
-145        <activity
-145-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:135:9-139:55
-146            android:name="com.sparklead.shaaks.mechanicalengineering"
-146-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:136:13-50
-147            android:exported="false"
-147-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:137:13-37
-148            android:screenOrientation="portrait"
-148-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:138:13-49
-149            android:theme="@style/NoActionBarTheme" />
-149-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:139:13-52
-150        <activity
-150-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:140:9-144:55
-151            android:name="com.sparklead.shaaks.ui.chatbot"
-151-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:141:13-39
-152            android:exported="false"
-152-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:142:13-37
-153            android:screenOrientation="portrait"
-153-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:143:13-49
-154            android:theme="@style/NoActionBarTheme" />
-154-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:144:13-52
-155        <activity
-155-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:145:9-149:55
-156            android:name="com.sparklead.shaaks.geneticengineering"
-156-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:146:13-47
-157            android:exported="false"
-157-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:147:13-37
-158            android:screenOrientation="portrait"
-158-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:148:13-49
-159            android:theme="@style/NoActionBarTheme" />
-159-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:149:13-52
-160        <activity
-160-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:150:9-154:55
-161            android:name="com.sparklead.shaaks.computerscience"
-161-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:151:13-44
-162            android:exported="false"
-162-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:152:13-37
-163            android:screenOrientation="portrait"
-163-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:153:13-49
-164            android:theme="@style/NoActionBarTheme" />
-164-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:154:13-52
-165        <activity
-165-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:155:9-159:55
-166            android:name="com.sparklead.shaaks.CommerceWithoutMaths"
-166-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:156:13-49
-167            android:exported="false"
-167-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:157:13-37
-168            android:screenOrientation="portrait"
-168-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:158:13-49
-169            android:theme="@style/NoActionBarTheme" />
-169-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:159:13-52
-170        <activity
-170-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:160:9-164:55
-171            android:name="com.sparklead.shaaks.diplomacoursecommerce"
-171-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:161:13-50
-172            android:exported="false"
-172-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:162:13-37
-173            android:screenOrientation="portrait"
-173-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:163:13-49
-174            android:theme="@style/NoActionBarTheme" />
-174-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:164:13-52
-175        <activity
-175-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:165:9-169:55
-176            android:name="com.sparklead.shaaks.bestcoursecommerce"
-176-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:166:13-47
-177            android:exported="false"
-177-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:167:13-37
-178            android:screenOrientation="portrait"
-178-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:168:13-49
-179            android:theme="@style/NoActionBarTheme" />
-179-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:169:13-52
-180        <activity
-180-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:170:9-174:55
-181            android:name="com.sparklead.shaaks.creativecoursecommerce"
-181-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:171:13-51
-182            android:exported="false"
-182-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:172:13-37
-183            android:screenOrientation="portrait"
-183-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:173:13-49
-184            android:theme="@style/NoActionBarTheme" />
-184-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:174:13-52
-185        <activity
-185-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:175:9-179:55
-186            android:name="com.sparklead.shaaks.proffesionalcoursecomerrce"
-186-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:176:13-55
-187            android:exported="false"
-187-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:177:13-37
-188            android:screenOrientation="portrait"
-188-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:178:13-49
-189            android:theme="@style/NoActionBarTheme" />
-189-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:179:13-52
-190        <activity
-190-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:180:9-184:55
-191            android:name="com.sparklead.shaaks.managementcoursecommerce"
-191-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:181:13-53
-192            android:exported="false"
-192-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:182:13-37
-193            android:screenOrientation="portrait"
-193-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:183:13-49
-194            android:theme="@style/NoActionBarTheme" />
-194-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:184:13-52
-195        <activity
-195-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:185:9-189:55
-196            android:name="com.sparklead.shaaks.commercewithmath"
-196-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:186:13-45
-197            android:exported="false"
-197-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:187:13-37
-198            android:screenOrientation="portrait"
-198-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:188:13-49
-199            android:theme="@style/NoActionBarTheme" />
-199-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:189:13-52
-200        <activity
-200-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:190:9-194:55
-201            android:name="com.sparklead.shaaks.communicationalengineering"
-201-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:191:13-55
-202            android:exported="false"
-202-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:192:13-37
-203            android:screenOrientation="portrait"
-203-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:193:13-49
-204            android:theme="@style/NoActionBarTheme" />
-204-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:194:13-52
-205        <activity
-205-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:195:9-199:55
-206            android:name="com.sparklead.shaaks.broadcastengineer"
-206-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:196:13-46
-207            android:exported="false"
-207-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:197:13-37
-208            android:screenOrientation="portrait"
-208-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:198:13-49
-209            android:theme="@style/NoActionBarTheme" />
-209-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:199:13-52
-210        <activity
-210-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:200:9-204:55
-211            android:name="com.sparklead.shaaks.biotechnologist"
-211-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:201:13-44
-212            android:exported="false"
-212-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:202:13-37
-213            android:screenOrientation="portrait"
-213-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:203:13-49
-214            android:theme="@style/NoActionBarTheme" />
-214-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:204:13-52
-215        <activity
-215-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:205:9-209:55
-216            android:name="com.sparklead.shaaks.biomedicaengineering"
-216-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:206:13-49
-217            android:exported="false"
-217-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:207:13-37
-218            android:screenOrientation="portrait"
-218-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:208:13-49
-219            android:theme="@style/NoActionBarTheme" />
-219-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:209:13-52
-220        <activity
-220-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:210:9-214:55
-221            android:name="com.sparklead.shaaks.Agricultureengg"
-221-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:211:13-44
-222            android:exported="false"
-222-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:212:13-37
-223            android:screenOrientation="portrait"
-223-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:213:13-49
-224            android:theme="@style/NoActionBarTheme" />
-224-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:214:13-52
-225        <activity
-225-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:215:9-219:55
-226            android:name="com.sparklead.shaaks.AutomobileEng"
-226-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:216:13-42
-227            android:exported="false"
-227-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:217:13-37
-228            android:screenOrientation="portrait"
-228-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:218:13-49
-229            android:theme="@style/NoActionBarTheme" />
-229-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:219:13-52
-230        <activity
-230-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:220:9-224:55
-231            android:name="com.sparklead.shaaks.Civileng"
-231-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:221:13-37
-232            android:exported="false"
-232-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:222:13-37
-233            android:screenOrientation="portrait"
-233-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:223:13-49
-234            android:theme="@style/NoActionBarTheme" />
-234-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:224:13-52
-235        <activity
-235-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:225:9-229:55
-236            android:name="com.sparklead.shaaks.Aeronautical"
-236-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:226:13-41
-237            android:exported="false"
-237-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:227:13-37
-238            android:screenOrientation="portrait"
-238-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:228:13-49
-239            android:theme="@style/NoActionBarTheme" />
-239-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:229:13-52
-240        <activity
-240-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:230:9-234:55
-241            android:name="com.sparklead.shaaks.Engineering"
-241-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:231:13-40
-242            android:exported="false"
-242-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:232:13-37
-243            android:screenOrientation="portrait"
-243-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:233:13-49
-244            android:theme="@style/NoActionBarTheme" />
-244-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:234:13-52
-245        <activity
-245-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:235:9-239:55
-246            android:name="com.sparklead.shaaks.Vocational"
-246-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:236:13-39
-247            android:exported="false"
-247-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:237:13-37
-248            android:screenOrientation="portrait"
-248-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:238:13-49
-249            android:theme="@style/NoActionBarTheme" />
-249-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:239:13-52
-250        <activity
-250-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:240:9-244:55
-251            android:name="com.sparklead.shaaks.Shorttermcourse"
-251-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:241:13-44
-252            android:exported="false"
-252-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:242:13-37
-253            android:screenOrientation="portrait"
-253-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:243:13-49
-254            android:theme="@style/NoActionBarTheme" />
-254-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:244:13-52
-255        <activity
-255-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:245:9-249:55
-256            android:name="com.sparklead.shaaks.Iti"
-256-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:246:13-32
-257            android:exported="false"
-257-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:247:13-37
-258            android:screenOrientation="portrait"
-258-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:248:13-49
-259            android:theme="@style/NoActionBarTheme" />
-259-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:249:13-52
-260        <activity
-260-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:250:9-254:55
-261            android:name="com.sparklead.shaaks.Diploma"
-261-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:251:13-36
-262            android:exported="false"
-262-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:252:13-37
-263            android:screenOrientation="portrait"
-263-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:253:13-49
-264            android:theme="@style/NoActionBarTheme" />
-264-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:254:13-52
-265        <activity
-265-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:255:9-259:55
-266            android:name="com.sparklead.shaaks.Arts"
-266-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:256:13-33
-267            android:exported="false"
-267-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:257:13-37
-268            android:screenOrientation="portrait"
-268-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:258:13-49
-269            android:theme="@style/NoActionBarTheme" />
-269-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:259:13-52
-270        <activity
-270-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:260:9-264:55
-271            android:name="com.sparklead.shaaks.Commerce"
-271-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:261:13-37
-272            android:exported="false"
-272-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:262:13-37
-273            android:screenOrientation="portrait"
-273-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:263:13-49
-274            android:theme="@style/NoActionBarTheme" />
-274-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:264:13-52
-275        <activity
-275-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:265:9-269:55
-276            android:name="com.sparklead.shaaks.Science"
-276-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:266:13-36
-277            android:exported="false"
-277-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:267:13-37
-278            android:screenOrientation="portrait"
-278-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:268:13-49
-279            android:theme="@style/NoActionBarTheme" />
-279-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:269:13-52
-280        <activity
-280-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:270:9-274:55
-281            android:name="com.sparklead.shaaks.Pcmb"
-281-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:271:13-33
-282            android:exported="false"
-282-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:272:13-37
-283            android:screenOrientation="portrait"
-283-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:273:13-49
-284            android:theme="@style/NoActionBarTheme" />
-284-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:274:13-52
-285        <activity
-285-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:275:9-279:55
-286            android:name="com.sparklead.shaaks.Pcb"
-286-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:276:13-32
-287            android:exported="false"
-287-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:277:13-37
-288            android:screenOrientation="portrait"
-288-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:278:13-49
-289            android:theme="@style/NoActionBarTheme" />
-289-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:279:13-52
-290        <activity
-290-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:280:9-284:55
-291            android:name="com.sparklead.shaaks.Pcm"
-291-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:281:13-32
-292            android:exported="false"
-292-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:282:13-37
-293            android:screenOrientation="portrait"
-293-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:283:13-49
-294            android:theme="@style/NoActionBarTheme" />
-294-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:284:13-52
-295        <activity
-295-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:285:9-289:55
-296            android:name="com.sparklead.shaaks.Eleven"
-296-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:286:13-35
-297            android:exported="false"
-297-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:287:13-37
-298            android:screenOrientation="portrait"
-298-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:288:13-49
-299            android:theme="@style/NoActionBarTheme" />
-299-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:289:13-52
-300        <activity
-300-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:290:9-294:55
-301            android:name="com.sparklead.shaaks.Eight"
-301-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:291:13-34
-302            android:exported="false"
-302-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:292:13-37
-303            android:screenOrientation="portrait"
-303-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:293:13-49
-304            android:theme="@style/NoActionBarTheme" />
-304-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:294:13-52
-305        <activity
-305-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:295:9-299:55
-306            android:name="com.sparklead.shaaks.Selection"
-306-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:296:13-38
-307            android:exported="false"
-307-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:297:13-37
-308            android:screenOrientation="portrait"
-308-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:298:13-49
-309            android:theme="@style/NoActionBarTheme" />
-309-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:299:13-52
-310        <activity
-310-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:300:9-305:58
-311            android:name="com.sparklead.shaaks.Login"
-311-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:301:13-34
-312            android:exported="false"
-312-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:302:13-37
-313            android:screenOrientation="portrait"
-313-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:303:13-49
-314            android:theme="@style/NoActionBarTheme"
-314-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:304:13-52
-315            android:windowSoftInputMode="adjustResize" />
-315-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:305:13-55
-316        <activity
-316-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:306:9-316:20
-317            android:name="com.sparklead.shaaks.MainActivity"
-317-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:307:13-41
-318            android:exported="true"
-318-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:308:13-36
-319            android:screenOrientation="portrait"
-319-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:309:13-49
-320            android:theme="@style/NoActionBarTheme" >
-320-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:310:13-52
-321            <intent-filter>
-321-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:311:13-315:29
-322                <action android:name="android.intent.action.MAIN" />
-322-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:312:17-69
-322-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:312:25-66
-323
-324                <category android:name="android.intent.category.LAUNCHER" />
-324-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:314:17-77
-324-->C:\Users\Lenovo\AndroidStudioProjects\shaaks\app\src\main\AndroidManifest.xml:314:27-74
-325            </intent-filter>
-326        </activity>
-327        <activity
-327-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\Lenovo\.gradle\caches\transforms-3\af51cba25d6b1d9d31841fca3dbe23d6\transformed\play-services-auth-20.1.0\AndroidManifest.xml:23:9-27:75
-328            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
-328-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\Lenovo\.gradle\caches\transforms-3\af51cba25d6b1d9d31841fca3dbe23d6\transformed\play-services-auth-20.1.0\AndroidManifest.xml:24:13-93
-329            android:excludeFromRecents="true"
-329-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\Lenovo\.gradle\caches\transforms-3\af51cba25d6b1d9d31841fca3dbe23d6\transformed\play-services-auth-20.1.0\AndroidManifest.xml:25:13-46
-330            android:exported="false"
-330-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\Lenovo\.gradle\caches\transforms-3\af51cba25d6b1d9d31841fca3dbe23d6\transformed\play-services-auth-20.1.0\AndroidManifest.xml:26:13-37
-331            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-331-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\Lenovo\.gradle\caches\transforms-3\af51cba25d6b1d9d31841fca3dbe23d6\transformed\play-services-auth-20.1.0\AndroidManifest.xml:27:13-72
-332        <!--
-333            Service handling Google Sign-In user revocation. For apps that do not integrate with
-334            Google Sign-In, this service will never be started.
-335        -->
-336        <service
-336-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\Lenovo\.gradle\caches\transforms-3\af51cba25d6b1d9d31841fca3dbe23d6\transformed\play-services-auth-20.1.0\AndroidManifest.xml:33:9-37:51
-337            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
-337-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\Lenovo\.gradle\caches\transforms-3\af51cba25d6b1d9d31841fca3dbe23d6\transformed\play-services-auth-20.1.0\AndroidManifest.xml:34:13-89
-338            android:exported="true"
-338-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\Lenovo\.gradle\caches\transforms-3\af51cba25d6b1d9d31841fca3dbe23d6\transformed\play-services-auth-20.1.0\AndroidManifest.xml:35:13-36
-339            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
-339-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\Lenovo\.gradle\caches\transforms-3\af51cba25d6b1d9d31841fca3dbe23d6\transformed\play-services-auth-20.1.0\AndroidManifest.xml:36:13-107
-340            android:visibleToInstantApps="true" />
-340-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\Lenovo\.gradle\caches\transforms-3\af51cba25d6b1d9d31841fca3dbe23d6\transformed\play-services-auth-20.1.0\AndroidManifest.xml:37:13-48
-341
-342        <activity
-342-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Lenovo\.gradle\caches\transforms-3\f8b3414d344cef46785e6438dbb76c6d\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
-343            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-343-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Lenovo\.gradle\caches\transforms-3\f8b3414d344cef46785e6438dbb76c6d\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+39-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:29:9-33:54
+40            android:name="com.sparklead.shaaks.bvscandah"
+40-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:30:13-38
+41            android:exported="false"
+41-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:31:13-37
+42            android:screenOrientation="portrait"
+42-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:32:13-49
+43            android:theme="@style/NoActionBarTheme" />
+43-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:33:13-52
+44        <activity
+44-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:34:9-38:54
+45            android:name="com.sparklead.shaaks.bscnursing"
+45-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:35:13-39
+46            android:exported="false"
+46-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:36:13-37
+47            android:screenOrientation="portrait"
+47-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:37:13-49
+48            android:theme="@style/NoActionBarTheme" />
+48-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:38:13-52
+49        <activity
+49-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:39:9-43:54
+50            android:name="com.sparklead.shaaks.bpt"
+50-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:40:13-32
+51            android:exported="false"
+51-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:41:13-37
+52            android:screenOrientation="portrait"
+52-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:42:13-49
+53            android:theme="@style/NoActionBarTheme" />
+53-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:43:13-52
+54        <activity
+54-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:44:9-48:54
+55            android:name="com.sparklead.shaaks.bhms"
+55-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:45:13-33
+56            android:exported="false"
+56-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:46:13-37
+57            android:screenOrientation="portrait"
+57-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:47:13-49
+58            android:theme="@style/NoActionBarTheme" />
+58-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:48:13-52
+59        <activity
+59-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:49:9-53:55
+60            android:name="com.sparklead.shaaks.engineering_as_a_carrer"
+60-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:50:13-52
+61            android:exported="false"
+61-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:51:13-37
+62            android:screenOrientation="portrait"
+62-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:52:13-49
+63            android:theme="@style/NoActionBarTheme" />
+63-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:53:13-52
+64        <activity
+64-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:54:9-58:55
+65            android:name="com.sparklead.shaaks.bnys"
+65-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:55:13-33
+66            android:exported="false"
+66-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:56:13-37
+67            android:screenOrientation="portrait"
+67-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:57:13-49
+68            android:theme="@style/NoActionBarTheme" />
+68-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:58:13-52
+69        <activity
+69-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:59:9-63:55
+70            android:name="com.sparklead.shaaks.bpth"
+70-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:60:13-33
+71            android:exported="false"
+71-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:61:13-37
+72            android:screenOrientation="portrait"
+72-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:62:13-49
+73            android:theme="@style/NoActionBarTheme" />
+73-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:63:13-52
+74        <activity
+74-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:64:9-68:55
+75            android:name="com.sparklead.shaaks.bmlt"
+75-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:65:13-33
+76            android:exported="false"
+76-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:66:13-37
+77            android:screenOrientation="portrait"
+77-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:67:13-49
+78            android:theme="@style/NoActionBarTheme" />
+78-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:68:13-52
+79        <activity
+79-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:69:9-73:55
+80            android:name="com.sparklead.shaaks.bot"
+80-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:70:13-32
+81            android:exported="false"
+81-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:71:13-37
+82            android:screenOrientation="portrait"
+82-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:72:13-49
+83            android:theme="@style/NoActionBarTheme" />
+83-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:73:13-52
+84        <activity
+84-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:74:9-78:55
+85            android:name="com.sparklead.shaaks.bds"
+85-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:75:13-32
+86            android:exported="false"
+86-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:76:13-37
+87            android:screenOrientation="portrait"
+87-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:77:13-49
+88            android:theme="@style/NoActionBarTheme" />
+88-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:78:13-52
+89        <activity
+89-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:79:9-83:55
+90            android:name="com.sparklead.shaaks.mbbs"
+90-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:80:13-33
+91            android:exported="false"
+91-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:81:13-37
+92            android:screenOrientation="portrait"
+92-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:82:13-49
+93            android:theme="@style/NoActionBarTheme" />
+93-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:83:13-52
+94        <activity
+94-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:84:9-88:55
+95            android:name="com.sparklead.shaaks.pharmacycourseafter12"
+95-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:85:13-50
+96            android:exported="false"
+96-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:86:13-37
+97            android:screenOrientation="portrait"
+97-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:87:13-49
+98            android:theme="@style/NoActionBarTheme" />
+98-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:88:13-52
+99        <activity
+99-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:89:9-93:55
+100            android:name="com.sparklead.shaaks.sciencecourseafter12"
+100-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:90:13-49
+101            android:exported="false"
+101-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:91:13-37
+102            android:screenOrientation="portrait"
+102-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:92:13-49
+103            android:theme="@style/NoActionBarTheme" />
+103-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:93:13-52
+104        <activity
+104-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:94:9-98:55
+105            android:name="com.sparklead.shaaks.barchetecture"
+105-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:95:13-42
+106            android:exported="false"
+106-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:96:13-37
+107            android:screenOrientation="portrait"
+107-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:97:13-49
+108            android:theme="@style/NoActionBarTheme" />
+108-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:98:13-52
+109        <activity
+109-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:99:9-103:55
+110            android:name="com.sparklead.shaaks.plasticengineer"
+110-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:100:13-44
+111            android:exported="false"
+111-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:101:13-37
+112            android:screenOrientation="portrait"
+112-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:102:13-49
+113            android:theme="@style/NoActionBarTheme" />
+113-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:103:13-52
+114        <activity
+114-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:104:9-108:55
+115            android:name="com.sparklead.shaaks.industrialengineer"
+115-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:105:13-47
+116            android:exported="false"
+116-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:106:13-37
+117            android:screenOrientation="portrait"
+117-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:107:13-49
+118            android:theme="@style/NoActionBarTheme" />
+118-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:108:13-52
+119        <activity
+119-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:109:9-113:55
+120            android:name="com.sparklead.shaaks.environmentalengineer"
+120-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:110:13-50
+121            android:exported="false"
+121-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:111:13-37
+122            android:screenOrientation="portrait"
+122-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:112:13-49
+123            android:theme="@style/NoActionBarTheme" />
+123-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:113:13-52
+124        <activity
+124-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:114:9-118:55
+125            android:name="com.sparklead.shaaks.mettalurgyengineering"
+125-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:115:13-50
+126            android:exported="false"
+126-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:116:13-37
+127            android:screenOrientation="portrait"
+127-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:117:13-49
+128            android:theme="@style/NoActionBarTheme" />
+128-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:118:13-52
+129        <activity
+129-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:119:9-123:55
+130            android:name="com.sparklead.shaaks.marineengineering"
+130-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:120:13-46
+131            android:exported="false"
+131-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:121:13-37
+132            android:screenOrientation="portrait"
+132-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:122:13-49
+133            android:theme="@style/NoActionBarTheme" />
+133-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:123:13-52
+134        <activity
+134-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:124:9-128:55
+135            android:name="com.sparklead.shaaks.electricalengineer"
+135-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:125:13-47
+136            android:exported="false"
+136-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:126:13-37
+137            android:screenOrientation="portrait"
+137-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:127:13-49
+138            android:theme="@style/NoActionBarTheme" />
+138-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:128:13-52
+139        <activity
+139-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:129:9-133:55
+140            android:name="com.sparklead.shaaks.chemicalengineering"
+140-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:130:13-48
+141            android:exported="false"
+141-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:131:13-37
+142            android:screenOrientation="portrait"
+142-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:132:13-49
+143            android:theme="@style/NoActionBarTheme" />
+143-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:133:13-52
+144        <activity
+144-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:134:9-138:55
+145            android:name="com.sparklead.shaaks.textileengineering"
+145-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:135:13-47
+146            android:exported="false"
+146-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:136:13-37
+147            android:screenOrientation="portrait"
+147-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:137:13-49
+148            android:theme="@style/NoActionBarTheme" />
+148-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:138:13-52
+149        <activity
+149-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:139:9-143:55
+150            android:name="com.sparklead.shaaks.spacetechnologist"
+150-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:140:13-46
+151            android:exported="false"
+151-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:141:13-37
+152            android:screenOrientation="portrait"
+152-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:142:13-49
+153            android:theme="@style/NoActionBarTheme" />
+153-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:143:13-52
+154        <activity
+154-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:144:9-148:55
+155            android:name="com.sparklead.shaaks.petroleumengineering"
+155-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:145:13-49
+156            android:exported="false"
+156-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:146:13-37
+157            android:screenOrientation="portrait"
+157-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:147:13-49
+158            android:theme="@style/NoActionBarTheme" />
+158-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:148:13-52
+159        <activity
+159-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:149:9-153:55
+160            android:name="com.sparklead.shaaks.mechanicalengineering"
+160-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:150:13-50
+161            android:exported="false"
+161-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:151:13-37
+162            android:screenOrientation="portrait"
+162-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:152:13-49
+163            android:theme="@style/NoActionBarTheme" />
+163-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:153:13-52
+164        <activity
+164-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:154:9-158:55
+165            android:name="com.sparklead.shaaks.ui.chatbot"
+165-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:155:13-39
+166            android:exported="false"
+166-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:156:13-37
+167            android:screenOrientation="portrait"
+167-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:157:13-49
+168            android:theme="@style/NoActionBarTheme" />
+168-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:158:13-52
+169        <activity
+169-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:159:9-163:55
+170            android:name="com.sparklead.shaaks.geneticengineering"
+170-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:160:13-47
+171            android:exported="false"
+171-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:161:13-37
+172            android:screenOrientation="portrait"
+172-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:162:13-49
+173            android:theme="@style/NoActionBarTheme" />
+173-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:163:13-52
+174        <activity
+174-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:164:9-168:55
+175            android:name="com.sparklead.shaaks.computerscience"
+175-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:165:13-44
+176            android:exported="false"
+176-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:166:13-37
+177            android:screenOrientation="portrait"
+177-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:167:13-49
+178            android:theme="@style/NoActionBarTheme" />
+178-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:168:13-52
+179        <activity
+179-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:169:9-173:55
+180            android:name="com.sparklead.shaaks.CommerceWithoutMaths"
+180-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:170:13-49
+181            android:exported="false"
+181-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:171:13-37
+182            android:screenOrientation="portrait"
+182-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:172:13-49
+183            android:theme="@style/NoActionBarTheme" />
+183-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:173:13-52
+184        <activity
+184-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:174:9-178:55
+185            android:name="com.sparklead.shaaks.diplomacoursecommerce"
+185-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:175:13-50
+186            android:exported="false"
+186-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:176:13-37
+187            android:screenOrientation="portrait"
+187-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:177:13-49
+188            android:theme="@style/NoActionBarTheme" />
+188-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:178:13-52
+189        <activity
+189-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:179:9-183:55
+190            android:name="com.sparklead.shaaks.bestcoursecommerce"
+190-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:180:13-47
+191            android:exported="false"
+191-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:181:13-37
+192            android:screenOrientation="portrait"
+192-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:182:13-49
+193            android:theme="@style/NoActionBarTheme" />
+193-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:183:13-52
+194        <activity
+194-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:184:9-188:55
+195            android:name="com.sparklead.shaaks.creativecoursecommerce"
+195-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:185:13-51
+196            android:exported="false"
+196-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:186:13-37
+197            android:screenOrientation="portrait"
+197-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:187:13-49
+198            android:theme="@style/NoActionBarTheme" />
+198-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:188:13-52
+199        <activity
+199-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:189:9-193:55
+200            android:name="com.sparklead.shaaks.proffesionalcoursecomerrce"
+200-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:190:13-55
+201            android:exported="false"
+201-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:191:13-37
+202            android:screenOrientation="portrait"
+202-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:192:13-49
+203            android:theme="@style/NoActionBarTheme" />
+203-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:193:13-52
+204        <activity
+204-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:194:9-198:55
+205            android:name="com.sparklead.shaaks.managementcoursecommerce"
+205-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:195:13-53
+206            android:exported="false"
+206-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:196:13-37
+207            android:screenOrientation="portrait"
+207-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:197:13-49
+208            android:theme="@style/NoActionBarTheme" />
+208-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:198:13-52
+209        <activity
+209-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:199:9-203:55
+210            android:name="com.sparklead.shaaks.commercewithmath"
+210-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:200:13-45
+211            android:exported="false"
+211-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:201:13-37
+212            android:screenOrientation="portrait"
+212-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:202:13-49
+213            android:theme="@style/NoActionBarTheme" />
+213-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:203:13-52
+214        <activity
+214-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:204:9-208:55
+215            android:name="com.sparklead.shaaks.communicationalengineering"
+215-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:205:13-55
+216            android:exported="false"
+216-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:206:13-37
+217            android:screenOrientation="portrait"
+217-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:207:13-49
+218            android:theme="@style/NoActionBarTheme" />
+218-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:208:13-52
+219        <activity
+219-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:209:9-213:55
+220            android:name="com.sparklead.shaaks.broadcastengineer"
+220-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:210:13-46
+221            android:exported="false"
+221-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:211:13-37
+222            android:screenOrientation="portrait"
+222-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:212:13-49
+223            android:theme="@style/NoActionBarTheme" />
+223-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:213:13-52
+224        <activity
+224-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:214:9-218:55
+225            android:name="com.sparklead.shaaks.biotechnologist"
+225-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:215:13-44
+226            android:exported="false"
+226-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:216:13-37
+227            android:screenOrientation="portrait"
+227-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:217:13-49
+228            android:theme="@style/NoActionBarTheme" />
+228-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:218:13-52
+229        <activity
+229-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:219:9-223:55
+230            android:name="com.sparklead.shaaks.biomedicaengineering"
+230-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:220:13-49
+231            android:exported="false"
+231-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:221:13-37
+232            android:screenOrientation="portrait"
+232-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:222:13-49
+233            android:theme="@style/NoActionBarTheme" />
+233-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:223:13-52
+234        <activity
+234-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:224:9-228:55
+235            android:name="com.sparklead.shaaks.Agricultureengg"
+235-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:225:13-44
+236            android:exported="false"
+236-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:226:13-37
+237            android:screenOrientation="portrait"
+237-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:227:13-49
+238            android:theme="@style/NoActionBarTheme" />
+238-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:228:13-52
+239        <activity
+239-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:229:9-233:55
+240            android:name="com.sparklead.shaaks.AutomobileEng"
+240-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:230:13-42
+241            android:exported="false"
+241-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:231:13-37
+242            android:screenOrientation="portrait"
+242-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:232:13-49
+243            android:theme="@style/NoActionBarTheme" />
+243-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:233:13-52
+244        <activity
+244-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:234:9-238:55
+245            android:name="com.sparklead.shaaks.Civileng"
+245-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:235:13-37
+246            android:exported="false"
+246-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:236:13-37
+247            android:screenOrientation="portrait"
+247-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:237:13-49
+248            android:theme="@style/NoActionBarTheme" />
+248-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:238:13-52
+249        <activity
+249-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:239:9-243:55
+250            android:name="com.sparklead.shaaks.Aeronautical"
+250-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:240:13-41
+251            android:exported="false"
+251-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:241:13-37
+252            android:screenOrientation="portrait"
+252-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:242:13-49
+253            android:theme="@style/NoActionBarTheme" />
+253-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:243:13-52
+254        <activity
+254-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:244:9-248:55
+255            android:name="com.sparklead.shaaks.Engineering"
+255-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:245:13-40
+256            android:exported="false"
+256-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:246:13-37
+257            android:screenOrientation="portrait"
+257-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:247:13-49
+258            android:theme="@style/NoActionBarTheme" />
+258-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:248:13-52
+259        <activity
+259-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:249:9-253:55
+260            android:name="com.sparklead.shaaks.Vocational"
+260-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:250:13-39
+261            android:exported="false"
+261-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:251:13-37
+262            android:screenOrientation="portrait"
+262-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:252:13-49
+263            android:theme="@style/NoActionBarTheme" />
+263-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:253:13-52
+264        <activity
+264-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:254:9-258:55
+265            android:name="com.sparklead.shaaks.Shorttermcourse"
+265-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:255:13-44
+266            android:exported="false"
+266-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:256:13-37
+267            android:screenOrientation="portrait"
+267-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:257:13-49
+268            android:theme="@style/NoActionBarTheme" />
+268-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:258:13-52
+269        <activity
+269-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:259:9-263:55
+270            android:name="com.sparklead.shaaks.Iti"
+270-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:260:13-32
+271            android:exported="false"
+271-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:261:13-37
+272            android:screenOrientation="portrait"
+272-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:262:13-49
+273            android:theme="@style/NoActionBarTheme" />
+273-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:263:13-52
+274        <activity
+274-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:264:9-268:55
+275            android:name="com.sparklead.shaaks.Diploma"
+275-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:265:13-36
+276            android:exported="false"
+276-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:266:13-37
+277            android:screenOrientation="portrait"
+277-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:267:13-49
+278            android:theme="@style/NoActionBarTheme" />
+278-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:268:13-52
+279        <activity
+279-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:269:9-273:55
+280            android:name="com.sparklead.shaaks.Arts"
+280-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:270:13-33
+281            android:exported="false"
+281-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:271:13-37
+282            android:screenOrientation="portrait"
+282-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:272:13-49
+283            android:theme="@style/NoActionBarTheme" />
+283-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:273:13-52
+284        <activity
+284-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:274:9-278:55
+285            android:name="com.sparklead.shaaks.Commerce"
+285-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:275:13-37
+286            android:exported="false"
+286-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:276:13-37
+287            android:screenOrientation="portrait"
+287-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:277:13-49
+288            android:theme="@style/NoActionBarTheme" />
+288-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:278:13-52
+289        <activity
+289-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:279:9-283:55
+290            android:name="com.sparklead.shaaks.Science"
+290-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:280:13-36
+291            android:exported="false"
+291-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:281:13-37
+292            android:screenOrientation="portrait"
+292-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:282:13-49
+293            android:theme="@style/NoActionBarTheme" />
+293-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:283:13-52
+294        <activity
+294-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:284:9-288:55
+295            android:name="com.sparklead.shaaks.Pcmb"
+295-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:285:13-33
+296            android:exported="false"
+296-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:286:13-37
+297            android:screenOrientation="portrait"
+297-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:287:13-49
+298            android:theme="@style/NoActionBarTheme" />
+298-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:288:13-52
+299        <activity
+299-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:289:9-293:55
+300            android:name="com.sparklead.shaaks.Pcb"
+300-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:290:13-32
+301            android:exported="false"
+301-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:291:13-37
+302            android:screenOrientation="portrait"
+302-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:292:13-49
+303            android:theme="@style/NoActionBarTheme" />
+303-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:293:13-52
+304        <activity
+304-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:294:9-298:55
+305            android:name="com.sparklead.shaaks.Pcm"
+305-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:295:13-32
+306            android:exported="false"
+306-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:296:13-37
+307            android:screenOrientation="portrait"
+307-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:297:13-49
+308            android:theme="@style/NoActionBarTheme" />
+308-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:298:13-52
+309        <activity
+309-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:299:9-303:55
+310            android:name="com.sparklead.shaaks.Eleven"
+310-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:300:13-35
+311            android:exported="false"
+311-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:301:13-37
+312            android:screenOrientation="portrait"
+312-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:302:13-49
+313            android:theme="@style/NoActionBarTheme" />
+313-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:303:13-52
+314        <activity
+314-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:304:9-308:55
+315            android:name="com.sparklead.shaaks.Eight"
+315-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:305:13-34
+316            android:exported="false"
+316-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:306:13-37
+317            android:screenOrientation="portrait"
+317-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:307:13-49
+318            android:theme="@style/NoActionBarTheme" />
+318-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:308:13-52
+319        <activity
+319-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:309:9-313:55
+320            android:name="com.sparklead.shaaks.Selection"
+320-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:310:13-38
+321            android:exported="false"
+321-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:311:13-37
+322            android:screenOrientation="portrait"
+322-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:312:13-49
+323            android:theme="@style/NoActionBarTheme" />
+323-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:313:13-52
+324        <activity
+324-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:314:9-319:58
+325            android:name="com.sparklead.shaaks.Login"
+325-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:315:13-34
+326            android:exported="false"
+326-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:316:13-37
+327            android:screenOrientation="portrait"
+327-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:317:13-49
+328            android:theme="@style/NoActionBarTheme"
+328-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:318:13-52
+329            android:windowSoftInputMode="adjustResize" />
+329-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:319:13-55
+330        <activity
+330-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:320:9-330:20
+331            android:name="com.sparklead.shaaks.MainActivity"
+331-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:321:13-41
+332            android:exported="true"
+332-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:322:13-36
+333            android:screenOrientation="portrait"
+333-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:323:13-49
+334            android:theme="@style/NoActionBarTheme" >
+334-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:324:13-52
+335            <intent-filter>
+335-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:325:13-329:29
+336                <action android:name="android.intent.action.MAIN" />
+336-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:326:17-69
+336-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:326:25-66
+337
+338                <category android:name="android.intent.category.LAUNCHER" />
+338-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:328:17-77
+338-->C:\Users\ASUS\Desktop\shaaks\app\src\main\AndroidManifest.xml:328:27-74
+339            </intent-filter>
+340        </activity>
+341        <activity
+341-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\af51cba25d6b1d9d31841fca3dbe23d6\transformed\play-services-auth-20.1.0\AndroidManifest.xml:23:9-27:75
+342            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+342-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\af51cba25d6b1d9d31841fca3dbe23d6\transformed\play-services-auth-20.1.0\AndroidManifest.xml:24:13-93
+343            android:excludeFromRecents="true"
+343-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\af51cba25d6b1d9d31841fca3dbe23d6\transformed\play-services-auth-20.1.0\AndroidManifest.xml:25:13-46
 344            android:exported="false"
-344-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Lenovo\.gradle\caches\transforms-3\f8b3414d344cef46785e6438dbb76c6d\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+344-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\af51cba25d6b1d9d31841fca3dbe23d6\transformed\play-services-auth-20.1.0\AndroidManifest.xml:26:13-37
 345            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-345-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Lenovo\.gradle\caches\transforms-3\f8b3414d344cef46785e6438dbb76c6d\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
-346
-347        <meta-data
-347-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\6818621d64dc2a41baa10375fb0a1e56\transformed\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
-348            android:name="com.google.android.gms.version"
-348-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\6818621d64dc2a41baa10375fb0a1e56\transformed\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
-349            android:value="@integer/google_play_services_version" />
-349-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\6818621d64dc2a41baa10375fb0a1e56\transformed\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
-350
-351        <provider
-351-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\0598df94f460c67e853f90789c9d40d1\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-352            android:name="androidx.startup.InitializationProvider"
-352-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\0598df94f460c67e853f90789c9d40d1\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
-353            android:authorities="com.sparklead.shaaks.androidx-startup"
-353-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\0598df94f460c67e853f90789c9d40d1\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
-354            android:exported="false" >
-354-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\0598df94f460c67e853f90789c9d40d1\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
-355            <meta-data
-355-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\0598df94f460c67e853f90789c9d40d1\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-356                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-356-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\0598df94f460c67e853f90789c9d40d1\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
-357                android:value="androidx.startup" />
-357-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\0598df94f460c67e853f90789c9d40d1\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
-358            <meta-data
-358-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Lenovo\.gradle\caches\transforms-3\c4217aea2ca3d9a23241dc893df048d3\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-359                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-359-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Lenovo\.gradle\caches\transforms-3\c4217aea2ca3d9a23241dc893df048d3\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-360                android:value="androidx.startup" />
-360-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Lenovo\.gradle\caches\transforms-3\c4217aea2ca3d9a23241dc893df048d3\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-361        </provider>
-362    </application>
-363
-364</manifest>
+345-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\af51cba25d6b1d9d31841fca3dbe23d6\transformed\play-services-auth-20.1.0\AndroidManifest.xml:27:13-72
+346        <!--
+347            Service handling Google Sign-In user revocation. For apps that do not integrate with
+348            Google Sign-In, this service will never be started.
+349        -->
+350        <service
+350-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\af51cba25d6b1d9d31841fca3dbe23d6\transformed\play-services-auth-20.1.0\AndroidManifest.xml:33:9-37:51
+351            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+351-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\af51cba25d6b1d9d31841fca3dbe23d6\transformed\play-services-auth-20.1.0\AndroidManifest.xml:34:13-89
+352            android:exported="true"
+352-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\af51cba25d6b1d9d31841fca3dbe23d6\transformed\play-services-auth-20.1.0\AndroidManifest.xml:35:13-36
+353            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+353-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\af51cba25d6b1d9d31841fca3dbe23d6\transformed\play-services-auth-20.1.0\AndroidManifest.xml:36:13-107
+354            android:visibleToInstantApps="true" />
+354-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\af51cba25d6b1d9d31841fca3dbe23d6\transformed\play-services-auth-20.1.0\AndroidManifest.xml:37:13-48
+355
+356        <activity
+356-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\ASUS\.gradle\caches\transforms-3\f8b3414d344cef46785e6438dbb76c6d\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+357            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+357-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\ASUS\.gradle\caches\transforms-3\f8b3414d344cef46785e6438dbb76c6d\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+358            android:exported="false"
+358-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\ASUS\.gradle\caches\transforms-3\f8b3414d344cef46785e6438dbb76c6d\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+359            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+359-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\ASUS\.gradle\caches\transforms-3\f8b3414d344cef46785e6438dbb76c6d\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+360
+361        <meta-data
+361-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\6818621d64dc2a41baa10375fb0a1e56\transformed\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+362            android:name="com.google.android.gms.version"
+362-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\6818621d64dc2a41baa10375fb0a1e56\transformed\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+363            android:value="@integer/google_play_services_version" />
+363-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\6818621d64dc2a41baa10375fb0a1e56\transformed\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+364
+365        <provider
+365-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\0598df94f460c67e853f90789c9d40d1\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+366            android:name="androidx.startup.InitializationProvider"
+366-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\0598df94f460c67e853f90789c9d40d1\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+367            android:authorities="com.sparklead.shaaks.androidx-startup"
+367-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\0598df94f460c67e853f90789c9d40d1\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+368            android:exported="false" >
+368-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\0598df94f460c67e853f90789c9d40d1\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+369            <meta-data
+369-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\0598df94f460c67e853f90789c9d40d1\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+370                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+370-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\0598df94f460c67e853f90789c9d40d1\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+371                android:value="androidx.startup" />
+371-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\0598df94f460c67e853f90789c9d40d1\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+372            <meta-data
+372-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ASUS\.gradle\caches\transforms-3\c4217aea2ca3d9a23241dc893df048d3\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+373                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+373-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ASUS\.gradle\caches\transforms-3\c4217aea2ca3d9a23241dc893df048d3\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+374                android:value="androidx.startup" />
+374-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ASUS\.gradle\caches\transforms-3\c4217aea2ca3d9a23241dc893df048d3\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+375        </provider>
+376    </application>
+377
+378</manifest>
